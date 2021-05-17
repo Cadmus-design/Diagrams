@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T14:08:35.268Z" agent="5.0 (Windows)" etag="2GZC8NyGKEA7E0gq1Bi2" version="14.6.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-05-17T14:22:22.108Z" agent="5.0 (Windows)" etag="I7Zk7qLF3BV1UB0aFQu8" version="14.6.9" type="github" pages="12">
   <diagram id="Yqaxn6xuAggNtyuNKv6O" name="Page-1">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1378,7 +1378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="elPqrIRGTu9eLXXPnwp8" name="改由WebITR 直接開帳號">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XXTHfqXG1vpLFPBD3Qp1-0" />
         <mxCell id="XXTHfqXG1vpLFPBD3Qp1-1" parent="XXTHfqXG1vpLFPBD3Qp1-0" />
@@ -1890,23 +1890,28 @@
           <mxGeometry x="1078" y="2440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-69" value="帳號、密碼、修改密碼網址以及utrac 網址" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-70" target="nbPAJGG9z1xZlG0wsVst-68">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.253" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="2470" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-70" value="&lt;div&gt;創建utrac&lt;/div&gt;&lt;div&gt;帳號&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
-          <mxGeometry x="665" y="2440" width="120" height="60" as="geometry" />
+          <mxGeometry x="665" y="2570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-72" target="nbPAJGG9z1xZlG0wsVst-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-72" value="收到確認信" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
-          <mxGeometry x="245.0000000000001" y="2070" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="2070" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-75">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="2670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-75">
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-75" target="nbPAJGG9z1xZlG0wsVst-89">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="785" y="2550" as="targetPoint" />
           </mxGeometry>
@@ -1914,13 +1919,27 @@
         <mxCell id="nbPAJGG9z1xZlG0wsVst-75" value="確認完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
           <mxGeometry x="880.0000000000001" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-79" value="無" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-81" target="nbPAJGG9z1xZlG0wsVst-70">
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-79" value="無" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="czRgp04aGrL0mickl_Ip-0" target="nbPAJGG9z1xZlG0wsVst-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-80" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-81" target="nbPAJGG9z1xZlG0wsVst-82">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-80" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="czRgp04aGrL0mickl_Ip-0" target="nbPAJGG9z1xZlG0wsVst-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="764" y="2410" />
+              <mxPoint x="961" y="2410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-81" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;重複&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
+        <mxCell id="czRgp04aGrL0mickl_Ip-1" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-81" target="nbPAJGG9z1xZlG0wsVst-70">
+          <mxGeometry x="-0.254" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="645" y="2381" />
+              <mxPoint x="645" y="2600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-81" value="&lt;div&gt;通知信超過&lt;/div&gt;&lt;div&gt;5次寄送&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
           <mxGeometry x="685" y="2301" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-82" value="&lt;div&gt;Email&amp;nbsp; 已重複，&lt;/div&gt;&lt;div&gt;無法新增utrac帳號&lt;/div&gt;&lt;div&gt;請檢查WebITR Email 設定&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
@@ -1936,7 +1955,7 @@
           <mxGeometry x="880" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-89" value="創建成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
-          <mxGeometry x="666" y="2520" width="120" height="60" as="geometry" />
+          <mxGeometry x="666" y="2670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-95" value="72小時有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-92" target="nbPAJGG9z1xZlG0wsVst-75">
           <mxGeometry x="-0.8549" relative="1" as="geometry">
@@ -1947,14 +1966,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-96" value="72小時內沒有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-96" value="72小時內沒有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" target="nbPAJGG9z1xZlG0wsVst-81">
           <mxGeometry x="-0.6842" relative="1" as="geometry">
             <mxPoint x="304" y="2260" as="sourcePoint" />
-            <mxPoint x="664" y="2470" as="targetPoint" />
+            <mxPoint x="680" y="2420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="304" y="2280" />
-              <mxPoint x="640" y="2280" />
-              <mxPoint x="640" y="2470" />
+              <mxPoint x="630" y="2280" />
+              <mxPoint x="630" y="2341" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1968,11 +1987,11 @@
         <mxCell id="nbPAJGG9z1xZlG0wsVst-100" value="&lt;div&gt;機關承辦人缺少&lt;/div&gt;&lt;div&gt;Email 或 公務電話&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
           <mxGeometry x="463" y="2740" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nbPAJGG9z1xZlG0wsVst-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-106" target="nbPAJGG9z1xZlG0wsVst-81">
+        <mxCell id="nbPAJGG9z1xZlG0wsVst-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-106" target="czRgp04aGrL0mickl_Ip-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="621" y="3095" />
-              <mxPoint x="621" y="2341" />
+              <mxPoint x="621" y="2470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2011,11 +2030,14 @@
         <mxCell id="2F7REYfww7XJRVZ_Cvf4-0" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#FF3399;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
           <mxGeometry x="341" y="2680" width="50" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="czRgp04aGrL0mickl_Ip-0" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;重複&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="XXTHfqXG1vpLFPBD3Qp1-1">
+          <mxGeometry x="684" y="2430" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="UfKHQR6MO_L3Q6_n6FRF" name="機關承辦設定轄下管理輪班或技工工友">
-    <mxGraphModel dx="1422" dy="-383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="-626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GGyBaN8dfDljjaxUdPpX-0" />
         <mxCell id="GGyBaN8dfDljjaxUdPpX-1" parent="GGyBaN8dfDljjaxUdPpX-0" />
@@ -2083,23 +2105,29 @@
           <mxGeometry x="968" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-20" value="帳號、密碼、修改密碼網址以及utrac 網址" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-21" target="Ddz0ToL82REYQiq8DG3J-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.2833" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="1780" />
+              <mxPoint x="710" y="1660" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-21" value="&lt;div&gt;創建utrac&lt;/div&gt;&lt;div&gt;帳號&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
-          <mxGeometry x="555" y="1630" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="1750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-23" target="Ddz0ToL82REYQiq8DG3J-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-23" value="收到確認信" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
-          <mxGeometry x="200.0000000000001" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="1260" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="1860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ddz0ToL82REYQiq8DG3J-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-26">
+        <mxCell id="Ddz0ToL82REYQiq8DG3J-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-26" target="Ddz0ToL82REYQiq8DG3J-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="675" y="1740" as="targetPoint" />
           </mxGeometry>
@@ -2107,14 +2135,19 @@
         <mxCell id="Ddz0ToL82REYQiq8DG3J-26" value="確認完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
           <mxGeometry x="770.0000000000001" y="1710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ddz0ToL82REYQiq8DG3J-27" value="無" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-29" target="Ddz0ToL82REYQiq8DG3J-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-28" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-29" target="Ddz0ToL82REYQiq8DG3J-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="655" y="1630" />
+              <mxPoint x="851" y="1630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkRQpie75fFUM1aS5On-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-29" target="Ddz0ToL82REYQiq8DG3J-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-29" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;重複&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
-          <mxGeometry x="575" y="1491" width="80" height="80" as="geometry" />
+          <mxGeometry x="575" y="1620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-30" value="&lt;div&gt;Email&amp;nbsp; 已重複，&lt;/div&gt;&lt;div&gt;無法新增utrac帳號&lt;/div&gt;&lt;div&gt;請檢查WebITR Email 設定&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
           <mxGeometry x="771" y="1496" width="160" height="70" as="geometry" />
@@ -2123,7 +2156,7 @@
           <mxGeometry x="770" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-34" value="創建成功" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
-          <mxGeometry x="556" y="1710" width="120" height="60" as="geometry" />
+          <mxGeometry x="556" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-35" value="72小時有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-37" target="Ddz0ToL82REYQiq8DG3J-26">
           <mxGeometry x="-0.8549" relative="1" as="geometry">
@@ -2134,14 +2167,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ddz0ToL82REYQiq8DG3J-36" value="72小時內沒有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-37">
+        <mxCell id="Ddz0ToL82REYQiq8DG3J-36" value="72小時內沒有點選" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="Ddz0ToL82REYQiq8DG3J-37" target="CKkRQpie75fFUM1aS5On-0">
           <mxGeometry x="-0.6842" relative="1" as="geometry">
             <mxPoint x="194" y="1450" as="sourcePoint" />
             <mxPoint x="554" y="1660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="1470" />
               <mxPoint x="530" y="1470" />
-              <mxPoint x="530" y="1660" />
+              <mxPoint x="530" y="1540" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -2156,7 +2189,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="511" y="2105" />
-              <mxPoint x="511" y="1531" />
+              <mxPoint x="511" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2192,13 +2225,31 @@
           <mxGeometry x="883" y="1740" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Ddz0ToL82REYQiq8DG3J-50" value="&lt;div&gt;設定同仁&lt;/div&gt;&lt;div&gt;為人事協辦&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
-          <mxGeometry x="358" y="1515" width="100" height="60" as="geometry" />
+          <mxGeometry x="358" y="1530" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRskP8Segu_YWXbeECmA-0" value="機關承辦人" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
           <mxGeometry x="139.99999999999991" y="1500" width="51.8" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fRskP8Segu_YWXbeECmA-1" value="機關人事協辦" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
           <mxGeometry x="139.99999999999991" y="1350" width="51.8" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XRqNYanhEcPw9VcF9zic-5" value="刪除帳號" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
+          <mxGeometry x="555" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkRQpie75fFUM1aS5On-2" value="無" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="CKkRQpie75fFUM1aS5On-0" target="Ddz0ToL82REYQiq8DG3J-21">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="1580" />
+              <mxPoint x="535" y="1777" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CKkRQpie75fFUM1aS5On-3" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="GGyBaN8dfDljjaxUdPpX-1" source="CKkRQpie75fFUM1aS5On-0" target="XRqNYanhEcPw9VcF9zic-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CKkRQpie75fFUM1aS5On-0" value="寄送超過5次" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="GGyBaN8dfDljjaxUdPpX-1">
+          <mxGeometry x="575" y="1500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
