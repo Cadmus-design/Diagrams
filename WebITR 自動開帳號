@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T14:20:31.880Z" agent="5.0 (Windows)" etag="jmlvZF3W-VYOHXD_O-n-" version="14.6.9" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-05-18T14:23:53.710Z" agent="5.0 (Windows)" etag="3qntnHFC2YruSBYw_tAi" version="14.6.9" type="github" pages="14">
   <diagram id="Yqaxn6xuAggNtyuNKv6O" name="Page-1">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1377,8 +1377,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="elPqrIRGTu9eLXXPnwp8" name="改由WebITR 直接開帳號">
-    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="elPqrIRGTu9eLXXPnwp8" name="改由WebITR 直接開帳號-有刪除帳號功能">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XXTHfqXG1vpLFPBD3Qp1-0" />
         <mxCell id="XXTHfqXG1vpLFPBD3Qp1-1" parent="XXTHfqXG1vpLFPBD3Qp1-0" />
@@ -1395,7 +1395,7 @@
           <mxGeometry x="1003" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-50" value="機關承辦人" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" parent="XXTHfqXG1vpLFPBD3Qp1-1" vertex="1">
-          <mxGeometry x="191.6" y="20" width="29.6" height="40" as="geometry" />
+          <mxGeometry x="201.2" y="20" width="29.6" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nbPAJGG9z1xZlG0wsVst-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="XXTHfqXG1vpLFPBD3Qp1-1" source="nbPAJGG9z1xZlG0wsVst-99" target="nbPAJGG9z1xZlG0wsVst-55" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1590,7 +1590,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="由WebITR 直接開帳號" id="ql5QufTeXMHOh3mf1-yn">
+  <diagram name="由WebITR 直接開帳號-無刪除帳號功能" id="ql5QufTeXMHOh3mf1-yn">
     <mxGraphModel dx="1718" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fmIXJ0G9wub3WYbcCgFx-0" />
