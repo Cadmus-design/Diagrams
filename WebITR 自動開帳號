@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T16:29:33.900Z" agent="5.0 (Windows)" etag="IoGgopnB-iGowGwXqkV4" version="14.7.3" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-06-03T16:54:01.453Z" agent="5.0 (Windows)" etag="ywis_7ifyMpsGLz1vj0h" version="14.7.3" type="github" pages="19">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="1422" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3103,8 +3103,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="機關承辦設定另一機關承辦" id="6vsjbSKTQs6InijOfHEl">
-    <mxGraphModel dx="1422" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="0603-機關承辦設定另一機關承辦" id="6vsjbSKTQs6InijOfHEl">
+    <mxGraphModel dx="981" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-0" />
         <mxCell id="nVRCjL0eOQtYd_No9Krj-1" parent="nVRCjL0eOQtYd_No9Krj-0" />
@@ -3126,31 +3126,26 @@
             <mxPoint x="1150" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-19" target="nVRCjL0eOQtYd_No9Krj-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-8" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-11" target="nVRCjL0eOQtYd_No9Krj-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="321" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-11" target="nVRCjL0eOQtYd_No9Krj-19">
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-11" target="nVRCjL0eOQtYd_No9Krj-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="411" y="470" />
-              <mxPoint x="411" y="370" />
+              <mxPoint x="410" y="540" />
+              <mxPoint x="410" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-10" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nVRCjL0eOQtYd_No9Krj-9">
-          <mxGeometry x="0.3194" y="2" relative="1" as="geometry">
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-2" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Hf12uI0KnvTHvyPFaXI-1">
+          <mxGeometry x="-0.3361" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-11" value="&lt;div&gt;基本資料&lt;/div&gt;&lt;div&gt;Email與&lt;/div&gt;&lt;div&gt;公務電話&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
-          <mxGeometry x="281" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="283" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-14" value="使用服務" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
           <mxGeometry x="900" y="555" width="120" height="60" as="geometry" />
@@ -3167,22 +3162,22 @@
         <mxCell id="nVRCjL0eOQtYd_No9Krj-18" value="&lt;div&gt;設定另外機關&lt;/div&gt;&lt;div&gt;人事代理/兼任的&lt;/div&gt;&lt;div&gt;管轄權限&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
           <mxGeometry x="60" y="140" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-19" value="&lt;div&gt;機關承辦人缺少&lt;/div&gt;&lt;div&gt;Email 或 公務電話&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
-          <mxGeometry x="273" y="340" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-21" target="nVRCjL0eOQtYd_No9Krj-30">
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-19" target="fgYTZvgG-HYjI3vG_z6q-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-21" value="傳送帳號、姓名、單位(專案空間)、電子郵件、職稱與聯絡電話" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
-          <mxGeometry x="250.5" y="560" width="138" height="50" as="geometry" />
+        <mxCell id="nVRCjL0eOQtYd_No9Krj-19" value="&lt;div&gt;機關承辦人缺少&lt;/div&gt;&lt;div&gt;Email 或 公務電話&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
+          <mxGeometry x="278" y="340" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.003;exitY=0.471;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-25" target="nVRCjL0eOQtYd_No9Krj-11">
+        <mxCell id="nVRCjL0eOQtYd_No9Krj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-21" target="nVRCjL0eOQtYd_No9Krj-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211" y="268" />
-              <mxPoint x="211" y="470" />
+              <mxPoint x="460" y="695" />
+              <mxPoint x="460" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nVRCjL0eOQtYd_No9Krj-21" value="傳送帳號、姓名、單位(專案空間)、電子郵件、職稱與聯絡電話" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
+          <mxGeometry x="254.5" y="670" width="138" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-24" target="nVRCjL0eOQtYd_No9Krj-25">
           <mxGeometry relative="1" as="geometry" />
@@ -3190,20 +3185,26 @@
         <mxCell id="nVRCjL0eOQtYd_No9Krj-24" value="&lt;div&gt;增加另外的&lt;/div&gt;&lt;div&gt;機關管轄權限&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
           <mxGeometry x="250.5" y="145" width="155" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-25" target="nVRCjL0eOQtYd_No9Krj-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="280" />
+              <mxPoint x="430" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-25" value="&lt;div&gt;提示將此&lt;/div&gt;&lt;div&gt;機關承辦人設定utrac帳號，提醒基本資料中需要&lt;/div&gt;&lt;div&gt;Email與公務電話&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
           <mxGeometry x="278" y="240" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-26" value="彈出視窗" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#FF3399;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
-          <mxGeometry x="69.6" y="295" width="100" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="nVRCjL0eOQtYd_No9Krj-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#FF3399;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
-          <mxGeometry x="170" y="280" width="31" height="100" as="geometry" />
+          <mxGeometry x="173" y="230" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-29" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="nVRCjL0eOQtYd_No9Krj-30" target="nVRCjL0eOQtYd_No9Krj-33">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="536" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="725" y="220" />
+              <mxPoint x="536" y="280" />
+              <mxPoint x="725" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3221,6 +3222,43 @@
         </mxCell>
         <mxCell id="nVRCjL0eOQtYd_No9Krj-35" value="機關人事協辦" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
           <mxGeometry x="920.0000000000001" y="30" width="29.6" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fgYTZvgG-HYjI3vG_z6q-0" value="&lt;div&gt;彈出視窗&lt;/div&gt;&lt;div&gt;可輸入資料&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#FF3399;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
+          <mxGeometry x="173" y="320" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#000099;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="fgYTZvgG-HYjI3vG_z6q-1" target="nVRCjL0eOQtYd_No9Krj-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="323" y="520" />
+              <mxPoint x="235" y="520" />
+              <mxPoint x="235" y="708" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-7" value="正確" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Hf12uI0KnvTHvyPFaXI-6">
+          <mxGeometry x="-0.065" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.803;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000099;" edge="1" parent="nVRCjL0eOQtYd_No9Krj-1" source="fgYTZvgG-HYjI3vG_z6q-1" target="nVRCjL0eOQtYd_No9Krj-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="470" />
+              <mxPoint x="383" y="420" />
+              <mxPoint x="358" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2Hf12uI0KnvTHvyPFaXI-9" value="錯誤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2Hf12uI0KnvTHvyPFaXI-8">
+          <mxGeometry x="-0.42" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fgYTZvgG-HYjI3vG_z6q-1" value="&lt;div&gt;判斷資料&lt;/div&gt;&lt;div&gt;輸入格式&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
+          <mxGeometry x="283.5" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fgYTZvgG-HYjI3vG_z6q-2" value="&lt;div&gt;彈出視窗提示錯誤&lt;/div&gt;&lt;div&gt;須再次輸入資料&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#0000CC;" vertex="1" parent="nVRCjL0eOQtYd_No9Krj-1">
+          <mxGeometry x="173" y="380" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
