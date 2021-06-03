@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T16:26:05.775Z" agent="5.0 (Windows)" etag="Zi9yGl3oayzbfrQ56L2D" version="14.7.3" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-06-03T16:29:33.900Z" agent="5.0 (Windows)" etag="IoGgopnB-iGowGwXqkV4" version="14.7.3" type="github" pages="19">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="1422" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2921,7 +2921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="0603-機關承辦設定另一人事承辦" id="tKZ9D3qOrvgob6P8QYV7">
-    <mxGraphModel dx="1422" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="T_iCLqfiAZka3sd8itUw-0" />
         <mxCell id="T_iCLqfiAZka3sd8itUw-1" parent="T_iCLqfiAZka3sd8itUw-0" />
@@ -2948,16 +2948,16 @@
             <mxPoint x="321" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AT9ZxOEa-zwIwbuKo8QP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-12" target="T_iCLqfiAZka3sd8itUw-21">
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-12" target="T_iCLqfiAZka3sd8itUw-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="690" />
-              <mxPoint x="400" y="370" />
+              <mxPoint x="410" y="600" />
+              <mxPoint x="410" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AT9ZxOEa-zwIwbuKo8QP-3" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AT9ZxOEa-zwIwbuKo8QP-2">
-          <mxGeometry x="-0.163" y="1" relative="1" as="geometry">
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-7" value="無" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0PDJE2PLVSrrYjc7y2uj-6">
+          <mxGeometry x="-0.7226" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -2967,22 +2967,22 @@
         <mxCell id="T_iCLqfiAZka3sd8itUw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.439;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-14" target="T_iCLqfiAZka3sd8itUw-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="750" y="760" />
-              <mxPoint x="529" y="760" />
+              <mxPoint x="750" y="690" />
+              <mxPoint x="529" y="690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-14" value="確認完成" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="690.0000000000001" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="690.0000000000001" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-17" value="使用服務" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="920" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-19" target="T_iCLqfiAZka3sd8itUw-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-19" value="&lt;div&gt;新增utrac&lt;/div&gt;&lt;div&gt;帳號成功&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="476" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="476" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DlK9vQYyx89V9OpmaLM-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-20" target="T_iCLqfiAZka3sd8itUw-26">
           <mxGeometry relative="1" as="geometry" />
@@ -2997,7 +2997,12 @@
           <mxGeometry x="273" y="340" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-23" target="T_iCLqfiAZka3sd8itUw-32">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="750" />
+              <mxPoint x="450" y="170" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-23" value="傳送帳號、姓名、單位(專案空間)、電子郵件、職稱與聯絡電話" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
           <mxGeometry x="254" y="725" width="138" height="50" as="geometry" />
@@ -3011,8 +3016,8 @@
         <mxCell id="AT9ZxOEa-zwIwbuKo8QP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-27" target="T_iCLqfiAZka3sd8itUw-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="280" />
-              <mxPoint x="420" y="730" />
+              <mxPoint x="430" y="280" />
+              <mxPoint x="430" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3023,14 +3028,13 @@
           <mxGeometry x="178" y="230" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-29" value="訊息頁面" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#FF3399;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="770" y="600" width="100" height="65" as="geometry" />
+          <mxGeometry x="770" y="540" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-31" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-32" target="T_iCLqfiAZka3sd8itUw-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="536" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="536" y="430" />
-              <mxPoint x="740" y="430" />
+              <mxPoint x="740" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3040,25 +3044,22 @@
         <mxCell id="T_iCLqfiAZka3sd8itUw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="T_iCLqfiAZka3sd8itUw-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="220" />
-              <mxPoint x="470" y="460" />
-              <mxPoint x="536" y="460" />
-              <mxPoint x="536" y="570" />
-              <mxPoint x="750" y="570" />
+              <mxPoint x="536" y="520" />
+              <mxPoint x="750" y="520" />
             </Array>
-            <mxPoint x="750" y="650" as="targetPoint" />
+            <mxPoint x="750" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-34" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="T_iCLqfiAZka3sd8itUw-33">
           <mxGeometry x="0.225" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="28" as="offset" />
+            <mxPoint x="-43" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-35" value="&lt;sub&gt;建立新專案空間權限&lt;br&gt;&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="680.0000000000001" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="680.0000000000001" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-36" value="訊息頁面" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#FF3399;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
-          <mxGeometry x="770" y="430" width="100" height="65" as="geometry" />
+          <mxGeometry x="770" y="370" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="T_iCLqfiAZka3sd8itUw-37" value="機關人事協辦" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
           <mxGeometry x="920.0000000000001" y="30" width="29.6" height="40" as="geometry" />
@@ -3066,12 +3067,31 @@
         <mxCell id="HC0ZxUJiJxM7MgdV4zzI-0" value="&lt;div&gt;彈出視窗&lt;/div&gt;&lt;div&gt;可輸入資料&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;strokeColor=#FF3399;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
           <mxGeometry x="173" y="320" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="0PDJE2PLVSrrYjc7y2uj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="A37AkqCbLK_ok44g666Q-0" target="T_iCLqfiAZka3sd8itUw-23">
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000CC;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="A37AkqCbLK_ok44g666Q-0" target="T_iCLqfiAZka3sd8itUw-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="500" />
               <mxPoint x="220" y="750" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-5" value="正確" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0PDJE2PLVSrrYjc7y2uj-1">
+          <mxGeometry x="-0.278" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000CC;" edge="1" parent="T_iCLqfiAZka3sd8itUw-1" source="A37AkqCbLK_ok44g666Q-0" target="T_iCLqfiAZka3sd8itUw-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="383" y="500" />
+              <mxPoint x="383" y="430" />
+              <mxPoint x="350" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0PDJE2PLVSrrYjc7y2uj-4" value="錯誤" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0PDJE2PLVSrrYjc7y2uj-3">
+          <mxGeometry x="-0.5879" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A37AkqCbLK_ok44g666Q-0" value="&lt;div&gt;判斷資料&lt;/div&gt;&lt;div&gt;輸入格式&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#0000FF;" vertex="1" parent="T_iCLqfiAZka3sd8itUw-1">
