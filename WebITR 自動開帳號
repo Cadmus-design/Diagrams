@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-06T15:35:34.770Z" agent="5.0 (Windows)" etag="xT0rCAk0DDCMXOsZcx0g" version="14.7.6" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2021-06-06T15:38:08.365Z" agent="5.0 (Windows)" etag="5DuC5S9DbECKN42jHIYK" version="14.7.6" type="github" pages="21">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3255,6 +3255,105 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Cvs3eyXtQ59gGc8Et-DM-0" value="&lt;div&gt;新增&lt;/div&gt;&lt;div&gt;帳號&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="yt8aGukUbEYg-Y0tljxJ-1">
+          <mxGeometry x="480" y="375" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xL93_i5v1HVp1U2JMCH5" name="0605-WebITR 自動開帳號-小幫手自行設定">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-0" />
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-1" parent="O3IBZPR-NoV86r5XFR-f-0" />
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-2" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="40" y="90" width="760" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-5" target="O3IBZPR-NoV86r5XFR-f-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-5" value="機關承辦人" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="60" y="130" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-6" value="WebITR" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="150" y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-7" value="utrac" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="500" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-8" value="客服網站" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="670" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-9" value="CAS" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontStyle=1;fontSize=18;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="327.5" y="30" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-16" target="O3IBZPR-NoV86r5XFR-f-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-16" value="使用小幫手" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="140" y="135" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-17" value="比對成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-19" target="O3IBZPR-NoV86r5XFR-f-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-18" value="比對失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-19" target="O3IBZPR-NoV86r5XFR-f-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491.5" y="414" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="353" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-19" value="比對 Email" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="310" y="112.5" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-20" value="使用服務" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="670" y="127.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-21" value="使用服務" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="670" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-22" value="比對成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-24" target="O3IBZPR-NoV86r5XFR-f-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-23" value="比對失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-24" target="O3IBZPR-NoV86r5XFR-f-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-24" value="&lt;div&gt;比對&lt;/div&gt;&lt;div&gt;專案空間&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="487.5" y="112.5" width="85" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-26" target="O3IBZPR-NoV86r5XFR-f-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-26" value="&lt;div&gt;新增&lt;/div&gt;&lt;div&gt;專案空間&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="480" y="265" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-27" value="移除專案空間" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="480" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-29" target="O3IBZPR-NoV86r5XFR-f-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-29" value="機關承辦人" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="60" y="520" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-31" target="O3IBZPR-NoV86r5XFR-f-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-31" value="設定離職" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="140" y="515" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-33" value="離職生效日" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
+          <mxGeometry x="140" y="650" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="O3IBZPR-NoV86r5XFR-f-1" source="O3IBZPR-NoV86r5XFR-f-35" target="O3IBZPR-NoV86r5XFR-f-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3IBZPR-NoV86r5XFR-f-35" value="&lt;div&gt;新增&lt;/div&gt;&lt;div&gt;帳號&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="O3IBZPR-NoV86r5XFR-f-1">
           <mxGeometry x="480" y="375" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
