@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:29:52.860Z" agent="5.0 (Windows)" etag="dz2xOHbN31uGzNhBWnXI" version="14.7.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-06-09T14:15:25.922Z" agent="5.0 (Windows)" etag="YQTMyJkBdPG5IG8Ogh_u" version="14.7.6" type="github" pages="24">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3475,7 +3475,7 @@
         <mxCell id="c8UWk_XBRRAPJGwFPOOR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="cKAp2GHVrhzavTYvIdhc-1" source="c8UWk_XBRRAPJGwFPOOR-29" target="c8UWk_XBRRAPJGwFPOOR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c8UWk_XBRRAPJGwFPOOR-29" value="&lt;div&gt;新增帳號&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
+        <mxCell id="c8UWk_XBRRAPJGwFPOOR-29" value="&lt;div&gt;新增帳號&lt;/div&gt;&lt;div&gt;與對應&lt;/div&gt;&lt;div&gt;專案空間&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
           <mxGeometry x="560" y="596.25" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c8UWk_XBRRAPJGwFPOOR-31" value="使用服務" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
@@ -3658,6 +3658,15 @@
         </mxCell>
         <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-21" value="測試驗收" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
           <mxGeometry x="45" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-23" value="上線" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
+          <mxGeometry x="65" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-24" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;" edge="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="230" as="sourcePoint" />
+            <mxPoint x="600" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
