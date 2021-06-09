@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T13:29:40.561Z" agent="5.0 (Windows)" etag="Y7RB6BxmbH-bZiKkxAwo" version="14.7.6" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-06-09T13:29:52.860Z" agent="5.0 (Windows)" etag="dz2xOHbN31uGzNhBWnXI" version="14.7.6" type="github" pages="24">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3656,8 +3656,8 @@
         <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-20" value="功能開發" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
           <mxGeometry x="45" y="150" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-21" value="測試" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
-          <mxGeometry x="60" y="190" width="40" height="20" as="geometry" />
+        <mxCell id="kxF6Ha2K9Bq-UX4yJpDV-21" value="測試驗收" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="kxF6Ha2K9Bq-UX4yJpDV-1">
+          <mxGeometry x="45" y="190" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
