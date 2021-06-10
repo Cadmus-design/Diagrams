@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T00:55:33.779Z" agent="5.0 (Windows)" etag="1iYC4K06XI53nA_vhiVM" version="14.6.13" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-06-10T01:18:37.456Z" agent="5.0 (Windows)" etag="srC4BfW5X1Ts0DxBQjBK" version="14.6.13" type="github" pages="24">
   <diagram name="Page-2" id="OiLXCKS8AkRnfOZebpat">
     <mxGraphModel dx="1038" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3532,14 +3532,14 @@
         <mxCell id="LU9Lxp3U3_BAv7VATLzz-10" value="使用服務" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;" parent="cKAp2GHVrhzavTYvIdhc-1" vertex="1">
           <mxGeometry x="1140" y="797.5" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="om-6FTVn62xE73Y6Qu6N-2" value="顯示新增的帳號、Email 、與專案空間。" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
-          <mxGeometry x="1070" y="560" width="125.5" height="55" as="geometry" />
+        <mxCell id="om-6FTVn62xE73Y6Qu6N-2" value="&lt;div&gt;顯示新增的帳號、Email 、電話與專案空間，及相關查看方式說明。&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
+          <mxGeometry x="1070" y="540" width="140" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="om-6FTVn62xE73Y6Qu6N-3" value="顯示新增的專案空間。" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
-          <mxGeometry x="1095.5" y="670" width="109" height="46.25" as="geometry" />
+        <mxCell id="om-6FTVn62xE73Y6Qu6N-3" value="顯示新增的專案空間，及相關查看方式說明。" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
+          <mxGeometry x="1070" y="660" width="134.5" height="56.25" as="geometry" />
         </mxCell>
-        <mxCell id="om-6FTVn62xE73Y6Qu6N-4" value="顯示刪除的專案空間。" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
-          <mxGeometry x="1100" y="780" width="100" height="42.5" as="geometry" />
+        <mxCell id="om-6FTVn62xE73Y6Qu6N-4" value="顯示刪除的專案空間，及相關查看方式說明。" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="cKAp2GHVrhzavTYvIdhc-1">
+          <mxGeometry x="1070" y="770" width="130" height="52.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
