@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T06:54:06.060Z" agent="5.0 (Windows)" etag="9M5X7cnCqwID1LGNo280" version="14.7.10" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-06-17T06:54:18.646Z" agent="5.0 (Windows)" etag="AhEz7ZllANIl8gMITS6_" version="14.7.10" type="github" pages="22">
   <diagram id="YUpMNT0fxPdfuU2rUZGP" name="SSO登入流程">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3761,8 +3761,8 @@
         <mxCell id="g9ywlg6EoahO8Pfj5MdM-1" parent="g9ywlg6EoahO8Pfj5MdM-0" />
         <mxCell id="IRtub44gzX70zumAZHyX-0" value="" style="shape=link;html=1;" edge="1" parent="g9ywlg6EoahO8Pfj5MdM-1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="40" y="90" as="sourcePoint" />
-            <mxPoint x="780" y="90" as="targetPoint" />
+            <mxPoint x="29" y="90" as="sourcePoint" />
+            <mxPoint x="619" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IRtub44gzX70zumAZHyX-1" value="WebITR（A-1機關）" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="g9ywlg6EoahO8Pfj5MdM-1">
