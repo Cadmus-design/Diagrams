@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:21:12.797Z" agent="5.0 (Windows)" etag="C7v5kg7BHzk3HMGB0MbY" version="14.7.10" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-21T09:21:40.891Z" agent="5.0 (Windows)" etag="i6j38qz6vHBjXAxvMOMu" version="14.7.10" type="github" pages="3">
   <diagram id="tLbWGBgjcI_WWoPr5jTA" name="常見操作問題流程">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,6 +349,12 @@
         </mxCell>
         <mxCell id="igNw5MgH36Q5IuIQ7e6t-27" value="&lt;div&gt;臨時組別人員:&lt;/div&gt;&lt;div&gt;g,h&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=top;" vertex="1" parent="igNw5MgH36Q5IuIQ7e6t-1">
           <mxGeometry x="607" y="360" width="136" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="igNw5MgH36Q5IuIQ7e6t-29" value="過往作法" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="igNw5MgH36Q5IuIQ7e6t-1">
+          <mxGeometry x="320" y="130" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="igNw5MgH36Q5IuIQ7e6t-30" value="調整作法" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="igNw5MgH36Q5IuIQ7e6t-1">
+          <mxGeometry x="320" y="275" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
