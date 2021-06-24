@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T08:37:25.692Z" agent="5.0 (Windows)" etag="uX1LGQVQDfcbFdxDbZWF" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-24T09:12:38.514Z" agent="5.0 (Windows)" etag="vYvS1WJQYuajBD8Qi-AH" version="14.8.0" type="github" pages="5">
   <diagram id="tLbWGBgjcI_WWoPr5jTA" name="常見操作問題流程">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -403,7 +403,7 @@
         <mxCell id="yeHFznTxxnGx_1Lwk-FP-0" />
         <mxCell id="yeHFznTxxnGx_1Lwk-FP-1" parent="yeHFznTxxnGx_1Lwk-FP-0" />
         <mxCell id="yYRcFyXbbj_tSAHXxnHG-0" value="&lt;div&gt;重要公告【寒暑休設定】&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=top;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
-          <mxGeometry x="50" y="100" width="330" height="410" as="geometry" />
+          <mxGeometry x="40" y="100" width="340" height="410" as="geometry" />
         </mxCell>
         <mxCell id="yYRcFyXbbj_tSAHXxnHG-1" value="&lt;span&gt;b.&lt;/span&gt;&lt;span&gt;如何設定寒暑休人員&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
           <mxGeometry x="60" y="220" width="140" height="80" as="geometry" />
