@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T09:12:38.514Z" agent="5.0 (Windows)" etag="vYvS1WJQYuajBD8Qi-AH" version="14.8.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-28T03:12:26.590Z" agent="5.0 (Windows)" etag="teejs2Gdmof-eggJ8GF0" version="14.8.0" type="github" pages="5">
   <diagram id="tLbWGBgjcI_WWoPr5jTA" name="常見操作問題流程">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,16 +25,13 @@
         <mxCell id="dIw1qUm4QHxjpwXxJ_5E-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dIw1qUm4QHxjpwXxJ_5E-6" target="dIw1qUm4QHxjpwXxJ_5E-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dIw1qUm4QHxjpwXxJ_5E-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeColor=#3333FF;" parent="1" source="dIw1qUm4QHxjpwXxJ_5E-8" target="dIw1qUm4QHxjpwXxJ_5E-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dIw1qUm4QHxjpwXxJ_5E-6" value="&lt;div&gt;分析評估並&lt;/div&gt;&lt;div&gt;製作主題文件&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="210" y="175" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIw1qUm4QHxjpwXxJ_5E-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dIw1qUm4QHxjpwXxJ_5E-8" target="dIw1qUm4QHxjpwXxJ_5E-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dIw1qUm4QHxjpwXxJ_5E-8" value="&lt;div&gt;將主題文件增加&lt;/div&gt;&lt;div&gt;個案說明，並上架小幫手&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="dIw1qUm4QHxjpwXxJ_5E-8" value="&lt;div&gt;將主題文件增加&lt;/div&gt;&lt;div&gt;個案說明，設定標籤並上架小幫手&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="370" y="175" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dIw1qUm4QHxjpwXxJ_5E-10" value="小韋" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
@@ -92,7 +89,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wZCCPdqD96Xe9c1YDGpz" name="重要公告流程">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RNKshidEK1C9nJcPE_Eb-0" />
         <mxCell id="RNKshidEK1C9nJcPE_Eb-1" parent="RNKshidEK1C9nJcPE_Eb-0" />
@@ -120,7 +117,7 @@
         <mxCell id="RNKshidEK1C9nJcPE_Eb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RNKshidEK1C9nJcPE_Eb-1" source="RNKshidEK1C9nJcPE_Eb-9" target="RNKshidEK1C9nJcPE_Eb-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RNKshidEK1C9nJcPE_Eb-9" value="&lt;div&gt;文件處理分類 / &lt;br&gt;&lt;/div&gt;&lt;div&gt;上傳小幫手&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="RNKshidEK1C9nJcPE_Eb-1" vertex="1">
+        <mxCell id="RNKshidEK1C9nJcPE_Eb-9" value="&lt;div&gt;文件切割分類 / 設定標籤 &lt;br&gt;&lt;/div&gt;&lt;div&gt;上傳小幫手&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="RNKshidEK1C9nJcPE_Eb-1" vertex="1">
           <mxGeometry x="300" y="175" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RNKshidEK1C9nJcPE_Eb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="RNKshidEK1C9nJcPE_Eb-1" source="RNKshidEK1C9nJcPE_Eb-11" edge="1">
@@ -402,31 +399,31 @@
       <root>
         <mxCell id="yeHFznTxxnGx_1Lwk-FP-0" />
         <mxCell id="yeHFznTxxnGx_1Lwk-FP-1" parent="yeHFznTxxnGx_1Lwk-FP-0" />
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-0" value="&lt;div&gt;重要公告【寒暑休設定】&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=top;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-0" value="&lt;div&gt;重要公告【寒暑休設定】&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;verticalAlign=top;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="40" y="100" width="340" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-1" value="&lt;span&gt;b.&lt;/span&gt;&lt;span&gt;如何設定寒暑休人員&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-1" value="&lt;span&gt;b.&lt;/span&gt;&lt;span&gt;如何設定寒暑休人員&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="60" y="220" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-2" value="a. &lt;span&gt;如何設定寒暑休&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-2" value="a. &lt;span&gt;如何設定寒暑休&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="60" y="130" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-3" value="&lt;div&gt;c.&lt;span&gt;如何修改同仁寒暑休上限天數?&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-3" value="&lt;div&gt;c.&lt;span&gt;如何修改同仁寒暑休上限天數?&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="60" y="310" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-4" value="d.&lt;span&gt;寒暑休延長，如何修改寒暑休日期&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-4" value="d.&lt;span&gt;寒暑休延長，如何修改寒暑休日期&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;span&gt;路徑: 寒暑休設定&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="60" y="400" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-5" value="e.&lt;span&gt;寒暑休期間如何設定上班時間不需午休&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:&lt;span&gt;機關差勤規定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-5" value="e.&lt;span&gt;寒暑休期間如何設定上班時間不需午休&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:&lt;span&gt;機關差勤規定&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="220" y="130" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-6" value="f.&lt;span&gt;寒暑休期間如何調整同仁上下班時間&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:&lt;span&gt;機關差勤規定&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-6" value="f.&lt;span&gt;寒暑休期間如何調整同仁上下班時間&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;?&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:&lt;span&gt;機關差勤規定&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="220" y="220" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-7" value="g.&lt;span&gt;寒暑休期間教師兼行政同仁照平常上下班，出勤卻突然異常該如何處理&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:臨時組別人員&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-7" value="g.&lt;span&gt;寒暑休期間教師兼行政同仁照平常上下班，出勤卻突然異常該如何處理&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:臨時組別人員&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="220" y="310" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yYRcFyXbbj_tSAHXxnHG-8" value="h.&lt;a name=&quot;教師寒暑假返校申請加班出現「上班時間無法加班」該如何處理&quot;&gt;&lt;span&gt;教師寒暑假返校申請加班出現「上班時間無法加班」該如何處理?&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&lt;span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:臨時組別人員&lt;/font&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="yeHFznTxxnGx_1Lwk-FP-1">
+        <mxCell id="yYRcFyXbbj_tSAHXxnHG-8" value="h.&lt;a name=&quot;教師寒暑假返校申請加班出現「上班時間無法加班」該如何處理&quot;&gt;&lt;span&gt;教師寒暑假返校申請加班出現「上班時間無法加班」該如何處理?&lt;/span&gt;&lt;/a&gt;&lt;span&gt;&lt;span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;font color=&quot;#3333FF&quot;&gt;路徑:臨時組別人員&lt;/font&gt;&lt;span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="yeHFznTxxnGx_1Lwk-FP-1" vertex="1">
           <mxGeometry x="220" y="400" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
