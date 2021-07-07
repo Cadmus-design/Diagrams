@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T04:07:22.819Z" agent="5.0 (Windows)" etag="gE6Jx7Et4z1AmCKCCTVo" version="14.8.3" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-07-07T14:01:24.985Z" agent="5.0 (Windows)" etag="NUMfAK51exWKi5UlIjZA" version="14.8.4" type="github" pages="23">
   <diagram id="YUpMNT0fxPdfuU2rUZGP" name="SSO登入流程">
     <mxGraphModel dx="1894" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3851,6 +3851,14 @@
         <mxCell id="IRtub44gzX70zumAZHyX-23" value="WebITR（B-1機關）" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" parent="g9ywlg6EoahO8Pfj5MdM-1" vertex="1">
           <mxGeometry x="450" y="45" width="180" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E0yXuAsBcZk-vsy-fpNm" name="0707-帳號同步補強流程圖">
+    <mxGraphModel dx="1894" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="fAx3XR8BcQVyN4fmxzOY-0" />
+        <mxCell id="fAx3XR8BcQVyN4fmxzOY-1" parent="fAx3XR8BcQVyN4fmxzOY-0" />
       </root>
     </mxGraphModel>
   </diagram>
