@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T09:24:16.460Z" agent="5.0 (Windows)" etag="9Zak1cw0jYQKsP94c6dp" version="14.8.4" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-07-21T12:44:30.414Z" agent="5.0 (Windows)" etag="YuzDMh8iBLaFUYqeHXwr" version="14.9.0" type="github" pages="24">
   <diagram id="YUpMNT0fxPdfuU2rUZGP" name="SSO登入流程">
     <mxGraphModel dx="1894" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4098,14 +4098,31 @@
         <mxCell id="j5Se_s-SmpPULUDJi1Va-63" value="使用服務" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=14;strokeColor=#CC6600;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
           <mxGeometry x="1141" y="1150" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j5Se_s-SmpPULUDJi1Va-65" value="&lt;div&gt;將所有專案空間的prev_level與&lt;/div&gt;&lt;div&gt;承辦所屬專案空間的prefix_code值匹配，&lt;/div&gt;&lt;div&gt;新增匹配成功的專案空間權限&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;strokeColor=#CC6600;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
+        <mxCell id="j5Se_s-SmpPULUDJi1Va-65" value="&lt;div&gt;將承辦所屬機關代碼與&lt;/div&gt;&lt;div&gt;jtrac.organizations的admin_org匹配，&lt;/div&gt;&lt;div&gt;新增匹配成功的專案空間權限&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=15;strokeColor=#CC6600;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
           <mxGeometry x="430" y="1140" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="j5Se_s-SmpPULUDJi1Va-67" value="&lt;div&gt;7/16&lt;/div&gt;&lt;div&gt;版本&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fontSize=15;strokeColor=#CC6600;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
+        <mxCell id="j5Se_s-SmpPULUDJi1Va-67" value="&lt;div&gt;7/21&lt;/div&gt;&lt;div&gt;版本&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fontSize=15;strokeColor=#CC6600;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
           <mxGeometry x="260" y="612.5" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="j5Se_s-SmpPULUDJi1Va-68" value="&lt;div&gt;7/7 &lt;br&gt;&lt;/div&gt;&lt;div&gt;版本&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fontSize=15;strokeColor=#0000CC;" parent="fAx3XR8BcQVyN4fmxzOY-1" vertex="1">
           <mxGeometry x="364" y="760" width="100" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J2eA7ku77K5bz3qC4bmP" name="0721-SSO資料比對作法">
+    <mxGraphModel dx="1894" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="DWzKQo3iQUeCrCdxbvNz-0" />
+        <mxCell id="DWzKQo3iQUeCrCdxbvNz-1" parent="DWzKQo3iQUeCrCdxbvNz-0" />
+        <mxCell id="DWzKQo3iQUeCrCdxbvNz-2" value="小幫手進入" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="DWzKQo3iQUeCrCdxbvNz-1">
+          <mxGeometry x="60" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DWzKQo3iQUeCrCdxbvNz-3" value="" style="endArrow=none;html=1;" edge="1" parent="DWzKQo3iQUeCrCdxbvNz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="800" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
