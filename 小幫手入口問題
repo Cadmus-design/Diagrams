@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T06:43:17.727Z" agent="5.0 (Windows)" etag="Ggz18FUbsIZLdG3ye8xP" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T06:44:49.451Z" agent="5.0 (Windows)" etag="1KH4VYhiwMA5PKbWWmW8" version="14.9.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="0721-小幫手入口問題">
     <mxGraphModel dx="1082" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,14 +55,11 @@
         <mxCell id="pOqdFrnbHPyvsih3Tkot-14" value="提問" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-11" target="pOqdFrnbHPyvsih3Tkot-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pOqdFrnbHPyvsih3Tkot-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-11" target="pOqdFrnbHPyvsih3Tkot-10">
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-15" value="查看" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-11" target="pOqdFrnbHPyvsih3Tkot-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-11" value="&lt;div&gt;另開視窗跳至&lt;/div&gt;&lt;div&gt;功能A內容操作&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="290" width="100" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="pOqdFrnbHPyvsih3Tkot-12" value="&lt;div&gt;查看個案說明文件&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-16" value="提問" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-13">
           <mxGeometry relative="1" as="geometry">
@@ -80,6 +77,18 @@
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-18" value="查看個案文件說明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-20" target="pOqdFrnbHPyvsih3Tkot-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-20" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-20" value="&lt;div&gt;查看功能B個案&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-22" value="繼續其他操作" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
