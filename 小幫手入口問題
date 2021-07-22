@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T06:44:49.451Z" agent="5.0 (Windows)" etag="1KH4VYhiwMA5PKbWWmW8" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-22T06:46:50.022Z" agent="5.0 (Windows)" etag="OhVmrBia4FIZWBs9uya5" version="14.9.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="0721-小幫手入口問題">
     <mxGraphModel dx="1082" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="查看" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="查看" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;startArrow=block;startFill=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="350" y="210" as="targetPoint" />
@@ -66,7 +66,7 @@
             <mxPoint x="590" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pOqdFrnbHPyvsih3Tkot-19" value="&lt;div&gt;查看&lt;/div&gt;&lt;div&gt;文件&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-13" target="pOqdFrnbHPyvsih3Tkot-18">
+        <mxCell id="pOqdFrnbHPyvsih3Tkot-19" value="&lt;div&gt;查看&lt;/div&gt;&lt;div&gt;全部文件&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-13" target="pOqdFrnbHPyvsih3Tkot-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-13" value="&lt;div&gt;選擇提問&lt;/div&gt;&lt;div&gt;功能類型&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -76,12 +76,9 @@
           <mxGeometry x="530" y="560" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-18" value="查看個案文件說明" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="430" width="120" height="80" as="geometry" />
+          <mxGeometry x="700" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-20" target="pOqdFrnbHPyvsih3Tkot-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pOqdFrnbHPyvsih3Tkot-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pOqdFrnbHPyvsih3Tkot-20" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pOqdFrnbHPyvsih3Tkot-20" value="&lt;div&gt;查看功能B個案&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
