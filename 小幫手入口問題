@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-25T15:19:49.232Z" agent="5.0 (Windows)" etag="-9q7eN0xIWbcFErCKs50" version="14.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-25T15:27:43.695Z" agent="5.0 (Windows)" etag="SrY3uT5ozryYCLwK35lZ" version="14.9.1" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="0721-小幫手入口問題">
     <mxGraphModel dx="1894" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FdDRuh_FOuAo9WtCv1Zr" name="Page-2">
-    <mxGraphModel dx="1082" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1578" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JEWZV-jLHNcK3sTuymDB-0" />
         <mxCell id="JEWZV-jLHNcK3sTuymDB-1" parent="JEWZV-jLHNcK3sTuymDB-0" />
@@ -114,7 +114,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JEWZV-jLHNcK3sTuymDB-4" value="依選項點選進入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
-          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="371.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JEWZV-jLHNcK3sTuymDB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-7" target="JEWZV-jLHNcK3sTuymDB-11">
           <mxGeometry relative="1" as="geometry" />
@@ -200,8 +200,71 @@
         <mxCell id="JEWZV-jLHNcK3sTuymDB-40" value="&lt;div&gt;UTRAC&lt;/div&gt;&lt;div&gt;提問&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
           <mxGeometry x="1300" y="240" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-42" target="JEWZV-jLHNcK3sTuymDB-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JEWZV-jLHNcK3sTuymDB-42" value="進入加班資料維護" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="371.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-56" value="點選個案" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-48" target="JEWZV-jLHNcK3sTuymDB-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-57" value="&lt;div&gt;點選&lt;/div&gt;&lt;div&gt;需要幫助&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-48" target="JEWZV-jLHNcK3sTuymDB-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-48" value="小幫手" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="490" y="340" width="120" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-49" value="需要幫助" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="500" y="411.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-50" value="個案選項" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="500" y="371.25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-52" value="查看個案說明" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="660" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-63" value="功能選項" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-53" target="JEWZV-jLHNcK3sTuymDB-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-64" value="&lt;div&gt;查看&lt;/div&gt;&lt;div&gt;全部個案&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-53" target="JEWZV-jLHNcK3sTuymDB-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-65" value="提問加班資料維護" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-53" target="JEWZV-jLHNcK3sTuymDB-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-53" value="小幫手" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="660" y="382.5" width="120" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-54" value="查看全部個案" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="670" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-55" value="提問加班資料維護" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="670" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-58" value="功能選項" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#FF3399;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="670" y="420" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JEWZV-jLHNcK3sTuymDB-1" source="JEWZV-jLHNcK3sTuymDB-59" target="JEWZV-jLHNcK3sTuymDB-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-59" value="個案總覽頁面" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="840" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-60" value="&lt;div&gt;UTRAC&lt;/div&gt;&lt;div&gt;提問&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="840" y="577.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-61" value="小幫手" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="840" y="340" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-62" value="頁面選單" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="850" y="375" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-66" value="查看個案說明" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="1020" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JEWZV-jLHNcK3sTuymDB-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;" vertex="1" parent="JEWZV-jLHNcK3sTuymDB-1">
+          <mxGeometry x="330" y="80" width="430" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
