@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T06:29:03.641Z" agent="5.0 (Windows)" etag="B-nyK5EPSZnmzFDWmRzf" version="14.9.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-08-09T06:49:05.666Z" agent="5.0 (Windows)" etag="K8gGR4XsKoZsLHhWCdJf" version="14.9.3" type="github" pages="3">
   <diagram id="t5MdnzDsMMlVQXjwd-16" name="CH5-資料蒐集4個步驟">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,71 @@
         </mxCell>
         <mxCell id="Dc0kGeap-kishrgrV4ab-8" value="提出競品分析中的類別內容，比方說：個人化購物服務、潮流趨勢分類以及功能特徵。" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Dc0kGeap-kishrgrV4ab-1">
           <mxGeometry x="210" y="320" width="590" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V4BmZNV28J7Ln1n6bUJE" name="CH5-競品分析研究結果的直接競爭對手">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LBNQ1QDMqXcmFkVc6fn5-0" />
+        <mxCell id="LBNQ1QDMqXcmFkVc6fn5-1" parent="LBNQ1QDMqXcmFkVc6fn5-0" />
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-0" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="80" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-2" value="競品品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-6" value="網址或APP下載位置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-7" value="特點圖片或UX的優勢圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="260" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-8" value="描述" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-9" value="優勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-10" value="劣勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="40" y="480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-11" value="競品品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-12" value="網址或APP下載位置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-13" value="特點圖片或UX的優勢圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="260" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-14" value="描述" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-15" value="優勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-16" value="劣勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="300" y="480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-17" value="競品品牌" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-18" value="網址或APP下載位置" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="200" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-19" value="特點圖片或UX的優勢圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="260" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-20" value="描述" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="360" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-21" value="優勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="420" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzUbhuGSQFs-VUpuDSKE-22" value="劣勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
+          <mxGeometry x="560" y="480" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
