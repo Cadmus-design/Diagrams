@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-09T06:49:05.666Z" agent="5.0 (Windows)" etag="K8gGR4XsKoZsLHhWCdJf" version="14.9.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-08-09T06:54:14.834Z" agent="5.0 (Windows)" etag="xdES4dQRES6_OICeB9qI" version="14.9.3" type="github" pages="4">
   <diagram id="t5MdnzDsMMlVQXjwd-16" name="CH5-資料蒐集4個步驟">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,6 +118,44 @@
         </mxCell>
         <mxCell id="ZzUbhuGSQFs-VUpuDSKE-22" value="劣勢" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="LBNQ1QDMqXcmFkVc6fn5-1">
           <mxGeometry x="560" y="480" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="CH5-競品分析研究結果的間接競爭對手" id="2zUa0jROlYbX_fhRpz2m">
+    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-0" />
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-1" parent="KiNKAENxKXs_ZAWLamaB-0" />
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-2" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="40" y="80" width="760" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-21" value="圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="40" y="220" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-22" value="描述與說明" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="280" y="160" width="520" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-23" value="標題與網址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="40" y="160" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-24" value="特點" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="40" y="370" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-25" value="特點圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="40" y="430" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-26" value="特點" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="300" y="370" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-27" value="特點圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="300" y="430" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-28" value="特點" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="560" y="370" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KiNKAENxKXs_ZAWLamaB-29" value="特點圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="KiNKAENxKXs_ZAWLamaB-1">
+          <mxGeometry x="560" y="430" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
