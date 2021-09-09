@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T02:22:26.175Z" agent="5.0 (Windows)" etag="F7_Kxb4hlEYka84SvvyT" version="15.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-09T02:30:35.941Z" agent="5.0 (Windows)" etag="LszShFo4AtM79muggCKn" version="15.1.1" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3175.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="61" value="否" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=24;" parent="1" source="ZyYfy9uOhJwxUumnzHFC-141" target="13" edge="1">
+        <mxCell id="61" value="否" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="ZyYfy9uOhJwxUumnzHFC-141" target="13" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="-23" y="235.5" as="sourcePoint" />
             <mxPoint x="77" y="135.5" as="targetPoint" />
@@ -565,8 +565,14 @@
             <mxPoint x="77" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZyYfy9uOhJwxUumnzHFC-125" value="&lt;div&gt;同意存取&lt;/div&gt;&lt;div&gt;健康中的資料&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="407" y="90" width="80" height="100" as="geometry" />
+        <mxCell id="ZyYfy9uOhJwxUumnzHFC-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZyYfy9uOhJwxUumnzHFC-125" target="ZyYfy9uOhJwxUumnzHFC-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyYfy9uOhJwxUumnzHFC-153" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZyYfy9uOhJwxUumnzHFC-125" target="ZyYfy9uOhJwxUumnzHFC-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyYfy9uOhJwxUumnzHFC-125" value="&lt;div&gt;同意存取&lt;/div&gt;&lt;div&gt;手機健康中的資料&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="100" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ZyYfy9uOhJwxUumnzHFC-126" value="分享" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-360" y="315.5" width="80" height="100" as="geometry" />
@@ -612,6 +618,9 @@
         </mxCell>
         <mxCell id="ZyYfy9uOhJwxUumnzHFC-141" value="&lt;div&gt;第一次&lt;/div&gt;&lt;div&gt;使用&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="562" y="110" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZyYfy9uOhJwxUumnzHFC-151" value="&lt;div style=&quot;font-size: 14px&quot;&gt;心率&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;步行&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;步行+跑步&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;運動路線&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;身高&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;體重&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="237" y="100" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
