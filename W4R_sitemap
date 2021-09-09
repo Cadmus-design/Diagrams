@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T06:24:42.659Z" agent="5.0 (Windows)" etag="9cWRjbs_BhLddNu06i-7" version="15.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:26:16.519Z" agent="5.0 (Windows)" etag="EKRaP0-_0fSpUl4lHU_V" version="15.1.1" type="github" pages="2">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3175.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -831,11 +831,26 @@
         <mxCell id="NJHYmRGcAPi_RgZmbEGc-42" value="里程碑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="344" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-43" value="刪除任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-43" value="地圖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="500" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-44" value="新增任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-44" value="切換區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="660" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-45" value="建議事項" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+          <mxGeometry x="36" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-46" value="修改任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+          <mxGeometry x="190" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-47" value="里程碑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+          <mxGeometry x="344" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-48" value="地圖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+          <mxGeometry x="500" y="1410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-49" value="切換區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+          <mxGeometry x="660" y="1410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
