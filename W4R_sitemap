@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T08:52:48.820Z" agent="5.0 (Windows)" etag="LfRSwRIDuw0jyAzKWNVw" version="15.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T08:53:21.623Z" agent="5.0 (Windows)" etag="qD8VZb5cCu3j--J2118a" version="15.1.1" type="github" pages="3">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="4123.5" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -632,7 +632,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MrnDz1_DrxFT7IInA576" name="Card sorting">
-    <mxGraphModel dx="2858" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yeSkQnPDbg7CMuj4fF3F-0" />
         <mxCell id="yeSkQnPDbg7CMuj4fF3F-1" parent="yeSkQnPDbg7CMuj4fF3F-0" />
@@ -1181,6 +1181,9 @@
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-31" value="社群" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="2707" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwfx66JdQniMcnGKRM10-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=none;startFill=0;" edge="1" parent="yeSkQnPDbg7CMuj4fF3F-1" source="yZgPneCDnlDDLmoO1xeA-32" target="yZgPneCDnlDDLmoO1xeA-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-32" value="群組" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="2707" y="850" width="120" height="60" as="geometry" />
