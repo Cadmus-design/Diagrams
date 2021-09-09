@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T06:55:10.872Z" agent="5.0 (Windows)" etag="GiWXh_M3f0_hOSFkP6iK" version="15.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T06:56:41.668Z" agent="5.0 (Windows)" etag="hKhFpQxA5KVHR9rmpIGA" version="15.1.1" type="github" pages="3">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3175.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -801,37 +801,37 @@
         <mxCell id="NJHYmRGcAPi_RgZmbEGc-32" value="任務排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="354" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-33" value="我的任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-33" value="我的任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="510" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-34" value="進行中任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-34" value="進行中任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="670" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-35" value="已完成任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-35" value="已完成任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="50" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-36" value="分享任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-36" value="分享任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="200" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-37" value="查看任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-37" value="查看任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="354" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-38" value="刪除任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-38" value="刪除任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="510" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-39" value="新增任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-39" value="新增任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="670" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-40" value="任務內容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-40" value="任務內容" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="50" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-41" value="獎章" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-41" value="獎章" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="200" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-42" value="里程碑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-42" value="里程碑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="354" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NJHYmRGcAPi_RgZmbEGc-43" value="地圖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
+        <mxCell id="NJHYmRGcAPi_RgZmbEGc-43" value="地圖" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="510" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NJHYmRGcAPi_RgZmbEGc-44" value="切換區域" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
