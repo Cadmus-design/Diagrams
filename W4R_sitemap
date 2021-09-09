@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-09T07:09:38.343Z" agent="5.0 (Windows)" etag="teqo6WZ074JGmlmGbmQV" version="15.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-09T07:10:53.975Z" agent="5.0 (Windows)" etag="nhcO1-97NdSPzUY9S3fI" version="15.1.1" type="github" pages="3">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3175.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -913,34 +913,34 @@
           <mxGeometry x="1880" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-15" value="設定運動目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-16" value="運動目標1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1300" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-17" value="運動目標2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-18" value="運動目標3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1420" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-19" value="運動目標4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-20" value="設定捐米目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-21" value="捐米目標1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1660" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-22" value="捐米目標2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1720" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-23" value="捐米目標3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1780" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-24" value="捐米目標4" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1880" y="1840" width="120" height="60" as="geometry" />
+          <mxGeometry x="2200" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-25" value="健康數據" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="1160" y="570" width="120" height="60" as="geometry" />
@@ -961,19 +961,19 @@
           <mxGeometry x="1510" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-31" value="社群" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1310" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-32" value="群組" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1470" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-33" value="排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1630" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-34" value="建立群組" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="1010" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-35" value="群組頁面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1160" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-36" value="社群任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="1314" y="770" width="120" height="60" as="geometry" />
@@ -991,10 +991,10 @@
           <mxGeometry x="1160" y="870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-41" value="社群任務卡1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1314" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-42" value="社群任務卡2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1470" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="2550" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-43" value="管理社群" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
           <mxGeometry x="1630" y="870" width="120" height="60" as="geometry" />
@@ -1090,7 +1090,7 @@
           <mxGeometry x="-170" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yZgPneCDnlDDLmoO1xeA-75" value="設定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="yeSkQnPDbg7CMuj4fF3F-1">
-          <mxGeometry x="1510" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
