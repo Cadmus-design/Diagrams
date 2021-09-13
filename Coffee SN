@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T08:24:08.845Z" agent="5.0 (Windows)" etag="dIAxCcDkttfIcApBIo2S" version="15.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-13T08:28:50.212Z" agent="5.0 (Windows)" etag="JDr5si9TwI1_QmqOwq3d" version="15.1.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="0913 開發序號兌換流程">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,7 +187,7 @@
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-0" />
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-1" parent="WxYTEwbw8T9gxmRyWPNf-0" />
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="200" y="630" width="120" height="350" as="geometry" />
+          <mxGeometry x="200" y="700" width="120" height="350" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-3" value="" style="endArrow=none;html=1;" edge="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -246,14 +246,15 @@
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-21" value="剩餘數量不足" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;dashed=1;" edge="1" parent="WxYTEwbw8T9gxmRyWPNf-1" source="WxYTEwbw8T9gxmRyWPNf-22" target="WxYTEwbw8T9gxmRyWPNf-31">
           <mxGeometry x="-0.7511" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="690" />
+              <mxPoint x="440" y="760" />
               <mxPoint x="440" y="1053" />
+              <mxPoint x="380" y="1053" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-22" value="&lt;div&gt;判斷商品&lt;/div&gt;&lt;div&gt;剩餘數量&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="220" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-23" value="積分符合" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WxYTEwbw8T9gxmRyWPNf-1" source="WxYTEwbw8T9gxmRyWPNf-25" target="WxYTEwbw8T9gxmRyWPNf-29">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-25" value="&lt;div&gt;判斷&lt;/div&gt;積分" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="220" y="770" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-26" value="已達兌換限制" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;dashed=1;" edge="1" parent="WxYTEwbw8T9gxmRyWPNf-1" source="WxYTEwbw8T9gxmRyWPNf-29" target="WxYTEwbw8T9gxmRyWPNf-33">
           <mxGeometry x="-0.7091" relative="1" as="geometry">
@@ -286,19 +287,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-29" value="&lt;div&gt;判斷&lt;/div&gt;限制兌換數量規則" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="220" y="890" width="80" height="80" as="geometry" />
+          <mxGeometry x="220" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-30" value="兌換成功，請至【酷碰券】查看使用方式" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="150" y="1020" width="100" height="65" as="geometry" />
+          <mxGeometry x="150" y="1135" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-31" value="&lt;div&gt;此商品&lt;/div&gt;&lt;div&gt;已兌換完畢&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="280" y="1020" width="100" height="65" as="geometry" />
+          <mxGeometry x="280" y="1135" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-32" value="積分不足，請至個人頁面確認積分" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="280" y="1085" width="100" height="65" as="geometry" />
+          <mxGeometry x="280" y="1200" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-33" value="&lt;div&gt;個人兌換商品&lt;/div&gt;&lt;div&gt;數量已滿&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="450" y="1015" width="100" height="65" as="geometry" />
+          <mxGeometry x="450" y="1130" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-37" value="咖啡序號資料" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
           <mxGeometry x="360" y="155" width="110" height="75" as="geometry" />
@@ -335,7 +336,7 @@
           <mxGeometry x="450" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WxYTEwbw8T9gxmRyWPNf-51" value="連線異常，請稍後再試" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
-          <mxGeometry x="450" y="1080" width="100" height="65" as="geometry" />
+          <mxGeometry x="450" y="1195" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="3ZXH9rq--2RBdWqvmHs--0" value="&lt;div&gt;積分換咖啡&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WxYTEwbw8T9gxmRyWPNf-1">
           <mxGeometry x="40" y="150" width="120" height="70" as="geometry" />
