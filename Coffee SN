@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T06:39:18.891Z" agent="5.0 (Windows)" etag="SHHosucAsAc3CZfv2QFx" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-13T06:45:35.686Z" agent="5.0 (Windows)" etag="lNNoDCbOr-hUMtiViwjH" version="15.1.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="0913 開發序號兌換流程">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,12 @@
         <mxCell id="q2WsnubQnvhzdRIASjSv-6" value="店內結帳櫃檯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q2WsnubQnvhzdRIASjSv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-7" target="q2WsnubQnvhzdRIASjSv-9">
+        <mxCell id="q2WsnubQnvhzdRIASjSv-16" value="&lt;div&gt;積分換&lt;/div&gt;&lt;div&gt;咖啡&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-7" target="q2WsnubQnvhzdRIASjSv-9">
+          <mxGeometry y="25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2WsnubQnvhzdRIASjSv-46" value="店內換咖啡" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-7" target="q2WsnubQnvhzdRIASjSv-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q2WsnubQnvhzdRIASjSv-7" value="選擇好好玩平台" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -93,10 +98,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2WsnubQnvhzdRIASjSv-43" value="未達兌換限制" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-15" target="q2WsnubQnvhzdRIASjSv-38">
+        <mxCell id="q2WsnubQnvhzdRIASjSv-43" value="&lt;div&gt;未達兌換限制&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-15" target="q2WsnubQnvhzdRIASjSv-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q2WsnubQnvhzdRIASjSv-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-15" target="q2WsnubQnvhzdRIASjSv-27">
+        <mxCell id="q2WsnubQnvhzdRIASjSv-45" value="未達兌換限制" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=0.062;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-15" target="q2WsnubQnvhzdRIASjSv-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q2WsnubQnvhzdRIASjSv-15" value="&lt;div&gt;判斷&lt;/div&gt;限制兌換數量規則" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -114,14 +119,27 @@
         <mxCell id="q2WsnubQnvhzdRIASjSv-33" value="&lt;div&gt;個人兌換商品&lt;/div&gt;&lt;div&gt;數量已滿&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="1150" width="100" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="q2WsnubQnvhzdRIASjSv-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q2WsnubQnvhzdRIASjSv-35" value="酷碰券" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q2WsnubQnvhzdRIASjSv-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-38" target="q2WsnubQnvhzdRIASjSv-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="q2WsnubQnvhzdRIASjSv-44" value="咖啡兌換序號" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;startArrow=none;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="q2WsnubQnvhzdRIASjSv-38" target="q2WsnubQnvhzdRIASjSv-35">
+          <mxGeometry x="0.4247" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="q2WsnubQnvhzdRIASjSv-38" value="咖啡序號資料" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="155" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WsnubQnvhzdRIASjSv-48" value="紅利PIN碼頁籤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q2WsnubQnvhzdRIASjSv-50" value="門市人員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705" y="155" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
