@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T02:17:47.840Z" agent="5.0 (Windows)" etag="PO_fZPlno6gJ_4vaR67T" version="15.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-09-24T14:12:10.575Z" agent="5.0 (Windows)" etag="RUakzXnCNShXquNf4Jca" version="15.0.5" type="github" pages="3">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2798.5" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3175.5" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,6 +70,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="VOa5jVz7YL_6H1IEWgmn-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="VOa5jVz7YL_6H1IEWgmn-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1042" y="430" />
+              <mxPoint x="950" y="430" />
+              <mxPoint x="950" y="806" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="10" value="社群" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="947" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
@@ -82,7 +91,7 @@
         <mxCell id="14" value="健康數據&#xa;性別" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="57" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oQodO12PodJC6eJT7IlQ-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="15" target="8JUq13jtefhjmV4229g7-123">
+        <mxCell id="oQodO12PodJC6eJT7IlQ-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="15" target="8JUq13jtefhjmV4229g7-123" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="15" value="身高" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -142,13 +151,13 @@
         <mxCell id="29" value="已完成" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="592" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="33" value="XMI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="33" value="設定任務" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="767" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="34" value="任務選擇" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="767" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="35" value="HTTP" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="35" value="任務卡" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="767" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="36" value="HTS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -163,19 +172,19 @@
         <mxCell id="39" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="767" y="995.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="41" value="FAQ" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="41" value="交友" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="42" value="Know Issues" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="42" value="社團" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="Knowhow" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="43" value="留言板" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="44" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="44" value="成就標章" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="455.50000000000006" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="45" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="45" value="標章設定" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1217" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="46" value="Client / Server" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -589,7 +598,7 @@
         <mxCell id="30Tjzm7ygVPr1ktOmFrA-123" value="a.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#FFFF00;" parent="1" vertex="1">
           <mxGeometry x="-120" y="335.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="oQodO12PodJC6eJT7IlQ-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8JUq13jtefhjmV4229g7-123" target="8JUq13jtefhjmV4229g7-124">
+        <mxCell id="oQodO12PodJC6eJT7IlQ-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="8JUq13jtefhjmV4229g7-123" target="8JUq13jtefhjmV4229g7-124" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8JUq13jtefhjmV4229g7-123" value="體重" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -604,11 +613,14 @@
         <mxCell id="ZyYfy9uOhJwxUumnzHFC-126" value="會員 ID" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="445.5" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oQodO12PodJC6eJT7IlQ-125" value="&lt;div&gt;性別&lt;/div&gt;&lt;div&gt;出生年&lt;/div&gt;&lt;div&gt;體重&lt;/div&gt;&lt;div&gt;身高&lt;/div&gt;&lt;div&gt;地區&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQodO12PodJC6eJT7IlQ-125" value="&lt;div&gt;性別&lt;/div&gt;&lt;div&gt;出生年&lt;/div&gt;&lt;div&gt;體重&lt;/div&gt;&lt;div&gt;身高&lt;/div&gt;&lt;div&gt;地區&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="570" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oQodO12PodJC6eJT7IlQ-126" value="&lt;div&gt;語言切換&lt;/div&gt;&lt;div&gt;反饋&lt;/div&gt;&lt;div&gt;關於我們&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="oQodO12PodJC6eJT7IlQ-126" value="&lt;div&gt;語言切換&lt;/div&gt;&lt;div&gt;反饋&lt;/div&gt;&lt;div&gt;關於我們&lt;br&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="570.5" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VOa5jVz7YL_6H1IEWgmn-123" value="貢獻排行榜" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Tahoma;fontSize=14;fontColor=#FFFFFF;fontStyle=1;strokeColor=none;fillColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="982" y="775.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
