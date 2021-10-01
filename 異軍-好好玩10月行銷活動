@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T08:00:08.117Z" agent="5.0 (Windows)" etag="X_gngKefcjohDLlOnkNh" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T08:00:34.923Z" agent="5.0 (Windows)" etag="qIfOhEPrjvtfDUE99crc" version="15.3.7" type="github">
   <diagram id="W6xCtf8HIXXnqTc9RiWC" name="行銷活動流程">
     <mxGraphModel dx="1185" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="T-bHmayrYxUPUulMcxei-35" value="&lt;div&gt;按鈕文字: 複製連結&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 邀請連結&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T-bHmayrYxUPUulMcxei-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-37" target="T-bHmayrYxUPUulMcxei-63">
+        <mxCell id="T-bHmayrYxUPUulMcxei-64" value="邀請好友" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-37" target="T-bHmayrYxUPUulMcxei-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-37" value="&lt;div&gt;按鈕文字: 邀請好友&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 隱藏&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
