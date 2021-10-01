@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T06:56:34.041Z" agent="5.0 (Windows)" version="15.3.7" etag="0dx1IxWVdFPG1Ufzmntj" type="github"><diagram id="W6xCtf8HIXXnqTc9RiWC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T07:56:50.574Z" agent="5.0 (Windows)" etag="gf-HQ9wxIJ-NFjI02_-s" version="15.3.7" type="github">
+  <diagram id="W6xCtf8HIXXnqTc9RiWC" name="行銷活動流程">
+    <mxGraphModel dx="1185" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-bHmayrYxUPUulMcxei-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;imageAspect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="330" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="70" as="sourcePoint" />
+            <mxPoint x="770" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T-bHmayrYxUPUulMcxei-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="105" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-4" value="全家APP or Fami APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-5" value="活動頁面" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-13" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T-bHmayrYxUPUulMcxei-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="265" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-15" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-23" target="T-bHmayrYxUPUulMcxei-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="360" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175" y="345" />
+              <mxPoint x="175" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-7" target="T-bHmayrYxUPUulMcxei-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-7" value="進入頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-12" target="T-bHmayrYxUPUulMcxei-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-12" value="登入的頁面內容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="415" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-14" target="T-bHmayrYxUPUulMcxei-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-14" value="未登入頁面內容" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="510" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-21" target="T-bHmayrYxUPUulMcxei-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-21" value="登入判斷" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-23" value="登入" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="215" y="310" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-27" value="判斷登入流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="260" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-33" value="點選banner" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="70" y="75" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-35" value="&lt;div&gt;按鈕文字: 複製連結&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 邀請連結&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-37" value="&lt;div&gt;按鈕文字: 邀請好友&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 隱藏&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
+          <mxGeometry x="354" y="495" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-39" value="透過邀請連結" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-41" target="T-bHmayrYxUPUulMcxei-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-41" value="進入頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="75" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-42" target="T-bHmayrYxUPUulMcxei-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-42" value="登入判斷" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-51" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="535" y="260" width="305" height="330" as="geometry">
+            <mxRectangle x="535" y="260" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="T-bHmayrYxUPUulMcxei-51" source="T-bHmayrYxUPUulMcxei-44" target="T-bHmayrYxUPUulMcxei-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-44" value="&lt;div&gt;頁面蓋章&lt;/div&gt;&lt;div&gt;增加一組內容&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="T-bHmayrYxUPUulMcxei-51">
+          <mxGeometry x="192" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="T-bHmayrYxUPUulMcxei-51" source="T-bHmayrYxUPUulMcxei-52" target="T-bHmayrYxUPUulMcxei-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.457;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" edge="1" parent="T-bHmayrYxUPUulMcxei-51" source="T-bHmayrYxUPUulMcxei-52" target="T-bHmayrYxUPUulMcxei-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-52" value="登入" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="T-bHmayrYxUPUulMcxei-51">
+          <mxGeometry x="10" y="50" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-49" value="進入活動頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="T-bHmayrYxUPUulMcxei-51">
+          <mxGeometry x="192" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" edge="1" parent="T-bHmayrYxUPUulMcxei-51" source="T-bHmayrYxUPUulMcxei-58" target="T-bHmayrYxUPUulMcxei-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-58" value="登入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="T-bHmayrYxUPUulMcxei-51">
+          <mxGeometry x="5" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T-bHmayrYxUPUulMcxei-62" value="邀請連結" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="T-bHmayrYxUPUulMcxei-51">
+          <mxGeometry x="215" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
