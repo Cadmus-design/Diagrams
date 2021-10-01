@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T08:00:34.923Z" agent="5.0 (Windows)" etag="qIfOhEPrjvtfDUE99crc" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T08:01:33.804Z" agent="5.0 (Windows)" etag="K54-yiHMtIZsJ9Bbq4yJ" version="15.3.7" type="github">
   <diagram id="W6xCtf8HIXXnqTc9RiWC" name="行銷活動流程">
     <mxGraphModel dx="1185" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T-bHmayrYxUPUulMcxei-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;imageAspect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="270" width="330" height="330" as="geometry" />
+          <mxGeometry x="100" y="270" width="420" height="420" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-2" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="30" y="70" as="sourcePoint" />
-            <mxPoint x="770" y="70" as="targetPoint" />
+            <mxPoint x="860" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="T-bHmayrYxUPUulMcxei-7">
@@ -66,7 +66,7 @@
           <mxGeometry x="215" y="310" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-27" value="判斷登入流程" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="100" y="270" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-33" value="點選banner" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="70" y="75" width="100" height="60" as="geometry" />
@@ -74,7 +74,7 @@
         <mxCell id="T-bHmayrYxUPUulMcxei-35" value="&lt;div&gt;按鈕文字: 複製連結&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 邀請連結&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
           <mxGeometry x="354" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T-bHmayrYxUPUulMcxei-64" value="邀請好友" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-37" target="T-bHmayrYxUPUulMcxei-63">
+        <mxCell id="T-bHmayrYxUPUulMcxei-64" value="按下邀請好友" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-37" target="T-bHmayrYxUPUulMcxei-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-37" value="&lt;div&gt;按鈕文字: 邀請好友&lt;br&gt;&lt;/div&gt;&lt;div&gt;URL欄位: 隱藏&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;strokeWidth=2;arcSize=14;" vertex="1" parent="1">
@@ -86,7 +86,7 @@
         <mxCell id="T-bHmayrYxUPUulMcxei-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-41" target="T-bHmayrYxUPUulMcxei-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T-bHmayrYxUPUulMcxei-41" value="進入頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="T-bHmayrYxUPUulMcxei-41" value="進入活動頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="545" y="75" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=1 2;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-bHmayrYxUPUulMcxei-42" target="T-bHmayrYxUPUulMcxei-52">
