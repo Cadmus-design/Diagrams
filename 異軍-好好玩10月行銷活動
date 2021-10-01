@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T08:10:41.590Z" agent="5.0 (Windows)" etag="B6hK1uZE8hw07ndetAXy" version="15.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-01T08:42:48.835Z" agent="5.0 (Windows)" etag="24C8DQeLvLCkbp_UGkCQ" version="15.3.7" type="github">
   <diagram id="W6xCtf8HIXXnqTc9RiWC" name="行銷活動流程">
-    <mxGraphModel dx="1422" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,9 +150,6 @@
         </mxCell>
         <mxCell id="T-bHmayrYxUPUulMcxei-63" value="登入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="620" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T-bHmayrYxUPUulMcxei-66" value="進入活動頁面" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="90" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
