@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:13:01.426Z" agent="5.0 (Windows)" etag="BAZcrfoN7vAC-jtsiVRg" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:14:49.379Z" agent="5.0 (Windows)" etag="W_h0tVr2YwlnGZI0ZL7c" version="15.5.2" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-6" value="登入頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-8" target="lveVnhgSFfFMlBAkQ5m6-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-8" value="登入頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -52,14 +55,26 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-16" value="訊息清單" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-18" target="lveVnhgSFfFMlBAkQ5m6-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-18" value="單則訊息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-20" value="活動頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="680" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-21" value="單則訊息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-24" value="連結頁面" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-28" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-26" target="lveVnhgSFfFMlBAkQ5m6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-29" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-26" target="lveVnhgSFfFMlBAkQ5m6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-26" value="登入" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
