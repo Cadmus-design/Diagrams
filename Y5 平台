@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:30:08.853Z" agent="5.0 (Windows)" etag="IRqiJIg82rc69vvng8WF" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:32:09.521Z" agent="5.0 (Windows)" etag="ahpE4N5UDyFNui4_OKNk" version="15.5.2" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,14 +111,6 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-37" value="會員訊息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-44" value="發送後儲存" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-38" target="lveVnhgSFfFMlBAkQ5m6-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1060" y="200" />
-              <mxPoint x="1220" y="200" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-45" value="新增" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-38" target="lveVnhgSFfFMlBAkQ5m6-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -149,19 +141,22 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-48" value="發送端處理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1320" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-55" target="lveVnhgSFfFMlBAkQ5m6-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-55" value="訊息預覽" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-64" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-60" target="lveVnhgSFfFMlBAkQ5m6-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-60" target="lveVnhgSFfFMlBAkQ5m6-63">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-65" value="失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-60" target="lveVnhgSFfFMlBAkQ5m6-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1350" y="190" />
               <mxPoint x="1290" y="190" />
-              <mxPoint x="1290" y="480" />
-              <mxPoint x="1060" y="480" />
+              <mxPoint x="1290" y="610" />
+              <mxPoint x="1060" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,6 +167,12 @@
           <mxGeometry x="1320" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-63" value="訊息重送頁面" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-70" value="儲存發送內容" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-68" target="lveVnhgSFfFMlBAkQ5m6-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-68" value="&lt;div&gt;選擇&lt;/div&gt;&lt;div&gt;發送範圍&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
