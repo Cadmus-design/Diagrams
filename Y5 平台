@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:32:49.416Z" agent="5.0 (Windows)" etag="m1cno91TFSgYrGdLJ8GU" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:33:02.695Z" agent="5.0 (Windows)" etag="lw03t3POsvZIQFQ8c3ZR" version="15.5.2" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,8 +155,8 @@
             <Array as="points">
               <mxPoint x="1350" y="190" />
               <mxPoint x="1290" y="190" />
-              <mxPoint x="1290" y="610" />
-              <mxPoint x="1060" y="610" />
+              <mxPoint x="1290" y="590" />
+              <mxPoint x="1060" y="590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -164,7 +164,7 @@
           <mxGeometry x="1320" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-62" value="發送狀態回報" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="210" width="120" height="80" as="geometry" />
+          <mxGeometry x="1320" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-63" value="訊息重送頁面" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="630" width="120" height="60" as="geometry" />
