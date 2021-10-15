@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:19:22.215Z" agent="5.0 (Windows)" etag="3MOpu6WP4ji4UYjNTwa0" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:22:28.706Z" agent="5.0 (Windows)" etag="dUZCvtfbT6Fr659uGKFM" version="15.5.2" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="OtFK9FbX5Zxkhvt2TrKG-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="80" as="sourcePoint" />
-            <mxPoint x="810" y="80" as="targetPoint" />
+            <mxPoint x="1430" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-1" value="Y5平台首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
@@ -98,6 +98,24 @@
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-33" value="刪除訊息" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-35" value="後台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-36" target="lveVnhgSFfFMlBAkQ5m6-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-36" value="登入" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-37" value="會員訊息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-38" value="新增訊息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-40" value="訊息" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
