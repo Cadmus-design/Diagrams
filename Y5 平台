@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:33:02.695Z" agent="5.0 (Windows)" etag="lw03t3POsvZIQFQ8c3ZR" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:33:40.442Z" agent="5.0 (Windows)" etag="RBzgsHZcwPsOyq_sKxdO" version="15.5.2" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
             <mxPoint x="1430" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-1" value="Y5平台首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-1" value="Y5平台首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-2" value="會員中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-2" value="會員中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="360" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-3" value="會員訊息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-3" value="會員訊息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-4" target="lveVnhgSFfFMlBAkQ5m6-5">
@@ -34,7 +34,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-5" value="登入" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="374" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-6" value="登入頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-6" value="登入頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="200" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-8" target="lveVnhgSFfFMlBAkQ5m6-26">
@@ -78,7 +78,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-18" value="單則訊息" style="whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-20" value="活動頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-20" value="活動頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="680" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-24" value="連結頁面" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontSize=15;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-33" value="刪除訊息" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-35" value="後台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-35" value="後台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="840" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-36" target="lveVnhgSFfFMlBAkQ5m6-38">
@@ -108,7 +108,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-36" value="登入" style="ellipse;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="840" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-37" value="會員訊息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-37" value="會員訊息管理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="1000" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-45" value="新增" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-38" target="lveVnhgSFfFMlBAkQ5m6-40">
@@ -126,7 +126,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-40" value="編輯器" style="whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1000" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-41" value="會員訊息DB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-41" value="會員訊息DB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="1160" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-42" target="lveVnhgSFfFMlBAkQ5m6-60">
@@ -138,7 +138,7 @@
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-46" value="&lt;div&gt;-新增圖片&lt;/div&gt;&lt;div&gt;-超連結&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1140" y="230" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="lveVnhgSFfFMlBAkQ5m6-48" value="發送端處理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="lveVnhgSFfFMlBAkQ5m6-48" value="發送端處理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="1320" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lveVnhgSFfFMlBAkQ5m6-69" value="選擇範圍" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="lveVnhgSFfFMlBAkQ5m6-55" target="lveVnhgSFfFMlBAkQ5m6-68">
