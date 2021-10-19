@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T11:29:30.962Z" agent="5.0 (Windows)" etag="NyOKHmHDRSaYW2ClV6e1" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T11:31:22.921Z" agent="5.0 (Windows)" etag="B8Pe86ODEo2T_uMLsNtZ" version="15.5.5" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -560,8 +560,20 @@
         <mxCell id="aHKrQbygOVfgCJQxjrWp-138" value="活動訊息提示" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1830" y="255" width="100" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-142" target="aHKrQbygOVfgCJQxjrWp-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-142" value="儲值流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1820" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-149" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-147" target="aHKrQbygOVfgCJQxjrWp-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-147" value="對帳" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1840" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-148" value="&lt;div&gt;系統訊息&lt;/div&gt;&lt;div&gt;告知&lt;/div&gt;&lt;div&gt;折價券發送成功&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1820" y="680" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
