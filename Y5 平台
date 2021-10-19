@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T11:31:36.184Z" agent="5.0 (Windows)" etag="UIPWmZIQy6WzMz0viQMc" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T11:32:41.529Z" agent="5.0 (Windows)" etag="IyPlrCLVbzqkr3dxdx3F" version="15.5.5" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,8 +575,20 @@
         <mxCell id="aHKrQbygOVfgCJQxjrWp-147" value="對帳" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1840" y="545" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-148" target="aHKrQbygOVfgCJQxjrWp-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-148" value="&lt;div&gt;系統訊息&lt;/div&gt;&lt;div&gt;告知&lt;/div&gt;&lt;div&gt;折價券發送成功&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1820" y="680" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-153" value="會員訊息" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="50" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-154" target="aHKrQbygOVfgCJQxjrWp-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-154" value="查看訊息" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1820" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
