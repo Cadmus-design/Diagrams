@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T11:05:00.625Z" agent="5.0 (Windows)" etag="a0n668nuIvqjEAhhaKS3" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T11:07:36.199Z" agent="5.0 (Windows)" etag="0U0ROmN3UzApTFh1H8Kw" version="15.5.5" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -505,8 +505,26 @@
         <mxCell id="aHKrQbygOVfgCJQxjrWp-117" value="點選簽到" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1290" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-123" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-120" target="aHKrQbygOVfgCJQxjrWp-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-129" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-120" target="aHKrQbygOVfgCJQxjrWp-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-120" value="登入" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1310" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-122" value="登入流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1449" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-126" value="完成簽到" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1290" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-128" target="aHKrQbygOVfgCJQxjrWp-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-128" value="依照簽到天數對應獎項" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="1290" y="545" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
