@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T10:21:01.758Z" agent="5.0 (Windows)" etag="Y0U2vqF0Wn0dblmcGCuo" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T10:24:05.031Z" agent="5.0 (Windows)" etag="juaLqInmFpi_PdlnGBhv" version="15.5.5" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
             <mxPoint x="2070" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aHKrQbygOVfgCJQxjrWp-1" value="Y5 首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-1" value="Y5 平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="50" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-2" value="活動頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
@@ -218,6 +218,35 @@
         </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-8" value="會員中心" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1920" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-9" target="aHKrQbygOVfgCJQxjrWp-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-9" value="點選 banner" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="50" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-12" value="進入頁面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-15" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-13" target="aHKrQbygOVfgCJQxjrWp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-17" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-13" target="aHKrQbygOVfgCJQxjrWp-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="230" />
+              <mxPoint x="100" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-13" value="登入" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="320" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-18" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-16" target="aHKrQbygOVfgCJQxjrWp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-16" value="登入" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
