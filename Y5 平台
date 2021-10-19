@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T11:31:22.921Z" agent="5.0 (Windows)" etag="B8Pe86ODEo2T_uMLsNtZ" version="15.5.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-19T11:31:36.184Z" agent="5.0 (Windows)" etag="UIPWmZIQy6WzMz0viQMc" version="15.5.5" type="github" pages="2">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -541,6 +541,9 @@
         </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-131" value="進入頁面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1569" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aHKrQbygOVfgCJQxjrWp-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="_R--FBHdTj_DPUlbteE7-1" source="aHKrQbygOVfgCJQxjrWp-133" target="aHKrQbygOVfgCJQxjrWp-136">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aHKrQbygOVfgCJQxjrWp-133" value="&lt;div&gt;查看&lt;/div&gt;&lt;div&gt;活動內容&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="_R--FBHdTj_DPUlbteE7-1">
           <mxGeometry x="1569" y="250" width="120" height="80" as="geometry" />
