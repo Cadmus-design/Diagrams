@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T06:59:07.143Z" agent="5.0 (Windows)" etag="81mKHO8e2W7x3IlL1xs_" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T07:00:36.692Z" agent="5.0 (Windows)" etag="FjeP_09nCBU2h6CW0u7o" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="iPlay 雙11 行銷活動">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,8 +123,27 @@
         <mxCell id="oXVphatwxA4ZwpqFk5M8-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-20" target="oXVphatwxA4ZwpqFk5M8-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-20" target="oXVphatwxA4ZwpqFk5M8-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="568" y="585" />
+              <mxPoint x="568" y="802" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-20" value="&lt;div&gt;按鈕為&lt;br&gt;&lt;/div&gt;&lt;div&gt;領取禮包&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="428" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-21" target="oXVphatwxA4ZwpqFk5M8-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-21" target="oXVphatwxA4ZwpqFk5M8-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="585" />
+              <mxPoint x="790" y="790" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-21" value="&lt;div&gt;按鈕為&lt;br&gt;&lt;/div&gt;&lt;div&gt;領取禮包&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="555" width="120" height="60" as="geometry" />
@@ -177,6 +196,21 @@
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-48" value="&lt;div id=&quot;u725_text&quot; class=&quot;text &quot;&gt;&lt;br/&gt;          &lt;p&gt;&lt;span&gt;請選擇領取禮包的遊戲名稱&lt;/span&gt;&lt;/p&gt;&lt;br/&gt;        &lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="528" y="970" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-50" target="oXVphatwxA4ZwpqFk5M8-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-50" value="選擇遊戲" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-52" target="oXVphatwxA4ZwpqFk5M8-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-52" value="點選領取禮包" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-54" value="&lt;div id=&quot;u687_text&quot; class=&quot;text &quot;&gt;&lt;br/&gt;          &lt;p&gt;&lt;span&gt;不符禮包活動資格&lt;/span&gt;&lt;/p&gt;&lt;br/&gt;        &lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="880" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
