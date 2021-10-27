@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T07:01:18.860Z" agent="5.0 (Windows)" etag="vSFFJU4hlvcrWS3PaQ4o" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-27T07:09:25.962Z" agent="5.0 (Windows)" etag="pzyG1Dn2GfLdCtBn_AQA" version="15.5.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="iPlay 雙11 行銷活動">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
           <mxGeometry x="428" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-5" value="活動2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-6" value="活動3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1024" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1114" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-7" value="活動4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1218" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="1308" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-8" target="oXVphatwxA4ZwpqFk5M8-9">
           <mxGeometry relative="1" as="geometry" />
@@ -170,6 +170,27 @@
         </mxCell>
         <mxCell id="oXVphatwxA4ZwpqFk5M8-54" value="&lt;div id=&quot;u687_text&quot; class=&quot;text &quot;&gt;&lt;br/&gt;          &lt;p&gt;&lt;span&gt;不符禮包活動資格&lt;/span&gt;&lt;/p&gt;&lt;br/&gt;        &lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="880" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-58" target="oXVphatwxA4ZwpqFk5M8-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-58" value="進入活動頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-62" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-59" target="oXVphatwxA4ZwpqFk5M8-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-64" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.567;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oXVphatwxA4ZwpqFk5M8-59" target="oXVphatwxA4ZwpqFk5M8-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-59" value="登入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-61" value="&lt;div&gt;按鈕為&lt;/div&gt;&lt;div&gt;邀請好友&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oXVphatwxA4ZwpqFk5M8-63" value="&lt;div&gt;按鈕為&lt;/div&gt;&lt;div&gt;立即登入邀請幫助好友&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1020" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
