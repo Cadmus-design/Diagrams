@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T04:09:31.231Z" agent="5.0 (Windows)" etag="CTdwM0p27LTJIqykc2N-" version="15.5.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-27T07:25:18.761Z" agent="5.0 (Windows)" etag="gHhxAuHMDxb8F0baz2CF" version="15.5.9" type="github" pages="4">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -591,7 +591,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f83w1XZdHBOvSNCzPlm5" name="通知中心">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Q8Ru-RgMKaJ5I4etEahT-0" />
         <mxCell id="Q8Ru-RgMKaJ5I4etEahT-1" parent="Q8Ru-RgMKaJ5I4etEahT-0" />
