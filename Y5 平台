@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T09:52:39.589Z" agent="5.0 (Windows)" etag="A4uND31kjeJJ9uF7umST" version="15.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-29T09:53:13.846Z" agent="5.0 (Windows)" etag="9qdeA7ki4YntKrbBjm8t" version="15.6.2" type="github" pages="5">
   <diagram id="slRna-NxD2u4bFrjN4FF" name="會員訊息">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -859,7 +859,7 @@
         <mxCell id="poeHwZzWHd7Ws61muhmm-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="poeHwZzWHd7Ws61muhmm-1" source="poeHwZzWHd7Ws61muhmm-64" target="poeHwZzWHd7Ws61muhmm-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="poeHwZzWHd7Ws61muhmm-64" value="選擇禮包內容" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="poeHwZzWHd7Ws61muhmm-1">
+        <mxCell id="poeHwZzWHd7Ws61muhmm-64" value="&lt;div&gt;點選領取&lt;/div&gt;&lt;div&gt;禮包按鈕&lt;/div&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="poeHwZzWHd7Ws61muhmm-1">
           <mxGeometry x="500" y="500" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="poeHwZzWHd7Ws61muhmm-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startSize=6;endSize=6;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="poeHwZzWHd7Ws61muhmm-1" source="poeHwZzWHd7Ws61muhmm-66" target="poeHwZzWHd7Ws61muhmm-94">
