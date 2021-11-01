@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T09:27:32.173Z" agent="5.0 (Windows)" etag="SXqntzDcQ7mNbswRPP8C" version="15.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T09:43:17.948Z" agent="5.0 (Windows)" etag="tA8bYRHI9ADFyweZSLpK" version="15.6.2" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2272,7 +2272,7 @@
           <mxGeometry x="2470" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-94" value="未設定目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="250" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="788" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-95" value="設定健康目標標題" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
@@ -2657,6 +2657,9 @@
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-213" value="運動" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="4600" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#FFFFFF;endArrow=classic;endFill=1;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="G7fB-Bl_xzHfNJ1eDLJo-214" target="LKh0WhNzxesPDYsXoBJg-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-214" value="任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="3510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2698,9 +2701,6 @@
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-7" value="設定基本資料完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5210" y="800" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LKh0WhNzxesPDYsXoBJg-8" value="未設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="3770" y="895" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-9" value="設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="3920" y="895" width="120" height="60" as="geometry" />
@@ -2846,8 +2846,8 @@
         <mxCell id="LKh0WhNzxesPDYsXoBJg-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fontColor=#FFFFFF;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-81" target="LKh0WhNzxesPDYsXoBJg-92">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4600" y="1580" />
-              <mxPoint x="4850" y="1580" />
+              <mxPoint x="4600" y="1550" />
+              <mxPoint x="4850" y="1550" />
               <mxPoint x="4850" y="1754" />
             </Array>
           </mxGeometry>
@@ -2884,6 +2884,12 @@
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-97" value="設定資料完成文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5370" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3300" y="265" width="540" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-8" value="未設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3300" y="265" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
