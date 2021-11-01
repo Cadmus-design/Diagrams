@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T15:14:59.975Z" agent="5.0 (Windows)" etag="t9O2eurmKUFvsdipxQBU" version="15.5.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T15:16:00.595Z" agent="5.0 (Windows)" etag="XxIFG8KHkCNVVkrHZKTL" version="15.5.8" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3815.5" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2705,7 +2705,7 @@
           <mxGeometry x="5750" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-217" value="社團" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82B366;fontColor=#FFFFFF;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="7260" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="7080" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-3" value="了解更多" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="4990" y="350" width="120" height="60" as="geometry" />
@@ -2761,8 +2761,8 @@
         <mxCell id="LKh0WhNzxesPDYsXoBJg-15" value="個人資料頁面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="4520" y="700" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LKh0WhNzxesPDYsXoBJg-16" value="&lt;div&gt;社團頁面&lt;/div&gt;&lt;div&gt;未加入&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="7516" y="605" width="120" height="60" as="geometry" />
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
+          <mxGeometry x="6770" y="230" width="330" height="290" as="geometry" />
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-17" value="&lt;div&gt;社團頁面&lt;/div&gt;&lt;div&gt;已加入&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="7526" y="695" width="120" height="60" as="geometry" />
@@ -3163,18 +3163,6 @@
         <mxCell id="vpmpZW17oxfpAiyjPMO_-16" value="搜尋後加入好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vpmpZW17oxfpAiyjPMO_-17" value="同意加入好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="6810" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpmpZW17oxfpAiyjPMO_-18" value="拒絕加入好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="6970" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpmpZW17oxfpAiyjPMO_-19" value="刪除好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="7130" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpmpZW17oxfpAiyjPMO_-20" value="完成好友編輯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="7290" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QzxnIDUsY5aE3Qtshshm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="vpmpZW17oxfpAiyjPMO_-21" target="QzxnIDUsY5aE3Qtshshm-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -3207,9 +3195,6 @@
         </mxCell>
         <mxCell id="vpmpZW17oxfpAiyjPMO_-23" value="好友清單編輯" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="5920" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="vpmpZW17oxfpAiyjPMO_-25" value="搜尋後加入好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
-          <mxGeometry x="7560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vpmpZW17oxfpAiyjPMO_-26" value="好友頁面" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" parent="G7fB-Bl_xzHfNJ1eDLJo-1" vertex="1">
           <mxGeometry x="5550" y="230" width="120" height="60" as="geometry" />
@@ -3355,6 +3340,9 @@
         </mxCell>
         <mxCell id="QzxnIDUsY5aE3Qtshshm-32" value="成功刪除好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="6190" y="835" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QzxnIDUsY5aE3Qtshshm-36" value="&lt;div&gt;社團頁面未加入&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#FFCC99;strokeColor=#994C00;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="6770" y="230" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
