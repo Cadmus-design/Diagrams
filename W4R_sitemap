@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T15:45:23.302Z" agent="5.0 (Windows)" etag="AeaQfLwAlFdheLskmGnZ" version="15.5.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T15:45:55.203Z" agent="5.0 (Windows)" etag="OSB-VXBMMj-5I5rs2K1t" version="15.5.8" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3815.5" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -3606,6 +3606,9 @@
         </mxCell>
         <mxCell id="9LQSRQzbszzgdnmMWRDh-13" value="社團排行榜" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="2470" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9LQSRQzbszzgdnmMWRDh-15" value="退出夥伴" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="8437" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
