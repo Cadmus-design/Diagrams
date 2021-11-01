@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T10:06:35.685Z" agent="5.0 (Windows)" etag="0BN8MAWGAXCVAjgceRob" version="15.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T10:09:09.364Z" agent="5.0 (Windows)" etag="wfDf7H0ouexzgjyCp3L0" version="15.6.2" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2692,8 +2692,11 @@
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-214" value="任務" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="3510" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="NZghTdbu19seBMCfoKbs-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#FFFFFF;endArrow=classic;endFill=1;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="G7fB-Bl_xzHfNJ1eDLJo-215" target="LKh0WhNzxesPDYsXoBJg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-215" value="成就" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="4055" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="4080" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-216" value="朋友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#60A917;strokeColor=#82b366;fontColor=#FFFFFF;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5690" y="140" width="120" height="60" as="geometry" />
@@ -3068,8 +3071,14 @@
         <mxCell id="vkBRIoDvkmb3wkE1wIIB-22" value="目標倒數計時" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="4830" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NZghTdbu19seBMCfoKbs-0" value="目標狀態" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="4080" y="450" width="120" height="60" as="geometry" />
+        <mxCell id="NZghTdbu19seBMCfoKbs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#A9C4EB;strokeColor=#7EA6E0;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3890" y="650" width="490" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NZghTdbu19seBMCfoKbs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#A9C4EB;strokeColor=#7EA6E0;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3890" y="1090" width="490" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="NZghTdbu19seBMCfoKbs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#A9C4EB;strokeColor=#7EA6E0;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3890" y="1530" width="490" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
