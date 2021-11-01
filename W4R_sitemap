@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T15:46:35.573Z" agent="5.0 (Windows)" etag="RXeKajHlU7SF86zfAVUf" version="15.5.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T15:47:51.203Z" agent="5.0 (Windows)" etag="CPqDynFL0f6gh4Qvu-z0" version="15.5.8" type="github" pages="4">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3815.5" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1446,14 +1446,6 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="c24HzJs5r6Jvn3N5NOEy" name="customer journey">
-    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="EMZ1FXhNyXXa8GRU2vpX-0" />
-        <mxCell id="EMZ1FXhNyXXa8GRU2vpX-1" parent="EMZ1FXhNyXXa8GRU2vpX-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="R4EdMd3Ew5EsZ4th5Am9" name="Card sorting">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2120,7 +2112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OHNf-l4cSMaatfj-fAZ7" name="sitemap">
-    <mxGraphModel dx="4124" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2946" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-0" />
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-1" parent="G7fB-Bl_xzHfNJ1eDLJo-0" />
@@ -2643,7 +2635,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2450" y="355" />
-              <mxPoint x="2450" y="1545" />
+              <mxPoint x="2450" y="1455" />
             </Array>
           </mxGeometry>
         </mxCell>
