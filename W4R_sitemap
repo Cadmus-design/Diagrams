@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T06:09:49.066Z" agent="5.0 (Windows)" etag="-wzCjj-YCiGfvWpo7K6f" version="15.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-01T06:11:51.139Z" agent="5.0 (Windows)" etag="etFWVX0UnNbgKH9S-wEH" version="15.6.2" type="github" pages="4">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1785,6 +1785,27 @@
         </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-52" value="確認設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="1190" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-53" value="調整設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1350" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-54" value="目標已設定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="554" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-55" value="調整當前目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="710" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-56" value="確認調整設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="554" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-57" value="取消調整設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1510" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-58" value="確定調整設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-59" value="調整目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1350" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
