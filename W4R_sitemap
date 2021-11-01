@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T06:29:10.858Z" agent="5.0 (Windows)" etag="c0jqHgmTQJG2zNBhmRaO" version="15.6.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-11-01T06:33:22.648Z" agent="5.0 (Windows)" etag="z98ayt51S25BiTayVUGy" version="15.6.2" type="github" pages="4">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1866,6 +1866,27 @@
         </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-80" value="好友通知" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-81" value="好友頁數" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="870" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-82" value="&lt;div&gt;搜尋好友&lt;/div&gt;&lt;div&gt;有結果&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="707" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-83" value="搜尋後加入好友" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-84" value="好友頭像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="553" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-85" value="&lt;div&gt;搜尋好友沒有結果&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="707" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-86" value="關閉視窗" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1190" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mUgrHljtETrYQ0OisNKH-87" value="搜尋好友沒有結果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#d80073;strokeColor=#A50040;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="870" y="995" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
