@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T09:43:17.948Z" agent="5.0 (Windows)" etag="tA8bYRHI9ADFyweZSLpK" version="15.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T09:46:40.012Z" agent="5.0 (Windows)" etag="7BWFrXPf4Dwhylu-uZoe" version="15.6.2" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1735,29 +1735,8 @@
         <mxCell id="mUgrHljtETrYQ0OisNKH-35" value="設定健康目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="2470" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-36" value="未設定目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="250" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-37" value="設定健康目標標題" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-38" value="目標1文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="554" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-39" value="目標2文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="710" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-40" value="未設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="250" y="1690" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-41" value="目標3文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="870" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-42" value="目標4文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="1026" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-43" value="目標5文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="1190" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-44" value="設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="400" y="1690" width="120" height="60" as="geometry" />
@@ -1803,9 +1782,6 @@
         </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-58" value="確定調整設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="1670" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mUgrHljtETrYQ0OisNKH-59" value="調整目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
-          <mxGeometry x="1350" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mUgrHljtETrYQ0OisNKH-60" value="成就" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="870" y="1690" width="120" height="60" as="geometry" />
@@ -2089,6 +2065,33 @@
         <mxCell id="mUgrHljtETrYQ0OisNKH-160" value="退出夥伴" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
           <mxGeometry x="1030" y="500" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-0" value="未設定目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="250" y="788" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-1" value="設定健康目標標題" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-2" value="目標1文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="710" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-3" value="目標2文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="866" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-4" value="目標3文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1026" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-5" value="目標4文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1182" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-6" value="目標5文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1346" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-7" value="調整目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="1506" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xRYVCWKGPqqRD01ZKAzn-8" value="健康小知識指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="rKJ_rN_PaNkqB0QZaGlN-1">
+          <mxGeometry x="554" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -2278,22 +2281,22 @@
           <mxGeometry x="400" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-96" value="目標1文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="554" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-97" value="目標2文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="710" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="866" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-98" value="未設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="250" y="1690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-99" value="目標3文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="870" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-100" value="目標4文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="1026" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-100" value="目標4文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="1182" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-101" value="目標5文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="1190" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1346" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-102" value="設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="400" y="1690" width="120" height="60" as="geometry" />
@@ -2341,7 +2344,7 @@
           <mxGeometry x="1670" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-117" value="調整目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
-          <mxGeometry x="1350" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1506" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7fB-Bl_xzHfNJ1eDLJo-118" value="成就" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="870" y="1690" width="120" height="60" as="geometry" />
@@ -2890,6 +2893,24 @@
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-8" value="未設定目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="3300" y="265" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-103" value="設定健康目標" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3325" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-104" value="未設定目標文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3508" y="458" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-105" value="設定健康目標標題" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3690" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-106" value="暱稱(第三方)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="3325" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-108" value="健康小知識指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="554" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-109" value="健康小知識指南" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="2020" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
