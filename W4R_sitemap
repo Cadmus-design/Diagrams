@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T09:26:43.943Z" agent="5.0 (Windows)" etag="2B5Iut-DyW3DX55OMPHr" version="15.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-11-01T09:27:32.173Z" agent="5.0 (Windows)" etag="SXqntzDcQ7mNbswRPP8C" version="15.6.2" type="github" pages="5">
   <diagram name="UML" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3007.5" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2678,14 +2678,23 @@
         <mxCell id="LKh0WhNzxesPDYsXoBJg-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#FFFFFF;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-5" target="LKh0WhNzxesPDYsXoBJg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fontColor=#FFFFFF;endArrow=none;endFill=0;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-5" target="LKh0WhNzxesPDYsXoBJg-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-5" value="設定性別" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5210" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#FFFFFF;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-6" target="LKh0WhNzxesPDYsXoBJg-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fontColor=#FFFFFF;endArrow=none;endFill=0;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-6" target="LKh0WhNzxesPDYsXoBJg-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-6" value="設定年齡" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5210" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#FFFFFF;endArrow=none;endFill=0;" edge="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1" source="LKh0WhNzxesPDYsXoBJg-7" target="LKh0WhNzxesPDYsXoBJg-97">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-7" value="設定基本資料完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="5210" y="800" width="120" height="60" as="geometry" />
@@ -2866,6 +2875,15 @@
         </mxCell>
         <mxCell id="LKh0WhNzxesPDYsXoBJg-92" value="異軍官網" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#ffffff;align=center;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
           <mxGeometry x="4962" y="1724" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-95" value="設定性別文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="5370" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-96" value="設定出生年 文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="5370" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LKh0WhNzxesPDYsXoBJg-97" value="設定資料完成文字" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;align=center;fillColor=#E6D0DE;strokeColor=#9673A6;" vertex="1" parent="G7fB-Bl_xzHfNJ1eDLJo-1">
+          <mxGeometry x="5370" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
