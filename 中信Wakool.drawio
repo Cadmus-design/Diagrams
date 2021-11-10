@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:20:00.051Z" agent="5.0 (Windows)" etag="eiriMTQyHL9BpTcCs3yd" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-10T09:26:50.239Z" agent="5.0 (Windows)" etag="-kNbirbOnn_bXC0oJr6W" version="15.7.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1254" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -535,10 +535,10 @@
           <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-11" value="小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1160" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-12" value="電子券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1344" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-13" value="會員" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="1528" y="180" width="120" height="60" as="geometry" />
@@ -789,6 +789,72 @@
         </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-100" value="雜誌單文頁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="895" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-103" value="女生言情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-104" value="懸疑靈異" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-105" value="熱門小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-106" value="仙俠歷史" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-107" value="科幻競技" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-108" value="站長推薦" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-109" value="新書登場" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-110" value="創作文學" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-111" value="宮廷穿越" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-113" value="懸疑驚悚" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-114" value="末日懸疑" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-115" value="正宗武俠" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-116" value="武俠歷史" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-117" target="jJl6HKamd_gqL-oOaHwr-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-117" value="歷史軍事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-118" value="&lt;div&gt;玄幻修真&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-119" value="現代冒險" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-120" value="科幻奇想" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-122" value="網遊競技" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-123" value="西方魔法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-124" value="輕小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-125" value="都會愛情" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
