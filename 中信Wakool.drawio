@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T07:50:04.823Z" agent="5.0 (Windows)" etag="Opf1jxS8Eisyk_HWck5l" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-10T08:17:30.779Z" agent="5.0 (Windows)" etag="v385Ri4XHytDiQnPm2Fz" version="15.7.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1254" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -510,16 +510,16 @@
           <mxGeometry x="364" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-10" value="閱讀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="548" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="890" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-11" value="小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="732" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1074" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-12" value="電子券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="916" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1258" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-13" value="會員" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1100" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1442" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-14" value="Banner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
@@ -572,23 +572,95 @@
         <mxCell id="jJl6HKamd_gqL-oOaHwr-18" value="玩理財" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="364" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-20" value="玩理財" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="364" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-20" target="jJl6HKamd_gqL-oOaHwr-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-21" value="影片目錄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="364" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-20" target="jJl6HKamd_gqL-oOaHwr-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-22" value="品牌介紹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="364" y="1060" width="120" height="60" as="geometry" />
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-20" target="jJl6HKamd_gqL-oOaHwr-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-23" value="內容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="364" y="980" width="120" height="60" as="geometry" />
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-20" value="&lt;div&gt;玩理財&lt;/div&gt;&lt;div&gt;單文頁&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="364" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-24" target="jJl6HKamd_gqL-oOaHwr-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-24" value="&lt;div&gt;玩英文&lt;/div&gt;&lt;div&gt;課程清單&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="364" y="360" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-25" target="jJl6HKamd_gqL-oOaHwr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-25" value="&lt;div&gt;玩理財&lt;/div&gt;&lt;div&gt;課程清單&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="364" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-30" target="jJl6HKamd_gqL-oOaHwr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-30" target="jJl6HKamd_gqL-oOaHwr-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-30" target="jJl6HKamd_gqL-oOaHwr-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-30" value="&lt;div&gt;玩英文&lt;/div&gt;&lt;div&gt;單文頁&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="530" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-36" value="影片目錄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;verticalAlign=top;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="530" y="540" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-37" value="品牌介紹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;verticalAlign=top;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="530" y="960" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-38" value="品牌介紹內容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="540" y="1040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-43" value="名師簡介" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-48" value="" style="group" vertex="1" connectable="0" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="540" y="590" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-39" value="課程目錄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-48">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-40" value="整套購買" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-48">
+          <mxGeometry y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-41" value="試看" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-48">
+          <mxGeometry y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-42" value="單課程購買" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-48">
+          <mxGeometry y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-49" value="影片目錄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;verticalAlign=top;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="364" y="810" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-50" value="品牌介紹" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;verticalAlign=top;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="364" y="1230" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-51" value="品牌介紹內容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="374" y="1310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-52" value="名師簡介" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="364" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-53" value="" style="group" vertex="1" connectable="0" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="374" y="860" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-54" value="課程目錄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-53">
+          <mxGeometry width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-55" value="整套購買" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-53">
+          <mxGeometry y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-56" value="試看" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-53">
+          <mxGeometry y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-57" value="單課程購買" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="jJl6HKamd_gqL-oOaHwr-53">
+          <mxGeometry y="240" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
