@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T08:17:30.779Z" agent="5.0 (Windows)" etag="v385Ri4XHytDiQnPm2Fz" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-10T08:19:29.476Z" agent="5.0 (Windows)" etag="_jYC7yon3RQ30wiRTHO5" version="15.7.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1254" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -510,16 +510,16 @@
           <mxGeometry x="364" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-10" value="閱讀" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="890" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-11" value="小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1074" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="894" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-12" value="電子券" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1258" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1078" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-13" value="會員" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1442" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1262" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-14" value="Banner" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
