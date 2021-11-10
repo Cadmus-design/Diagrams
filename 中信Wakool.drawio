@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:54:48.766Z" agent="5.0 (Windows)" etag="JLPi7WevdFkhsaKL0H-y" version="15.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-10T09:59:47.485Z" agent="5.0 (Windows)" etag="YZiNYeuVzJl-t0a6vybP" version="15.7.0" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1254" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -476,9 +476,6 @@
       <root>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-0" />
         <mxCell id="KaW1TfqJIeAFHNLuegCc-1" parent="KaW1TfqJIeAFHNLuegCc-0" />
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-129" target="jJl6HKamd_gqL-oOaHwr-127">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-129" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="1070" y="470" width="370" height="340" as="geometry" />
         </mxCell>
@@ -500,7 +497,7 @@
         <mxCell id="KaW1TfqJIeAFHNLuegCc-5" value="頁籤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KaW1TfqJIeAFHNLuegCc-6" value="選項" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+        <mxCell id="KaW1TfqJIeAFHNLuegCc-6" value="功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="20" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KaW1TfqJIeAFHNLuegCc-8" value="遊戲(首頁)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
@@ -582,7 +579,7 @@
         <mxCell id="jJl6HKamd_gqL-oOaHwr-10" value="內容" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="20" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jJl6HKamd_gqL-oOaHwr-11" value="功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-11" value="選項" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="20" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-16" target="jJl6HKamd_gqL-oOaHwr-24">
@@ -869,7 +866,25 @@
           <mxGeometry x="1070" y="750" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jJl6HKamd_gqL-oOaHwr-127" value="小說單文頁" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=18;fontColor=#333333;verticalAlign=top;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
-          <mxGeometry x="1070" y="890" width="360" height="240" as="geometry" />
+          <mxGeometry x="1070" y="860" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-133" value="小說內容資訊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="900" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-137" value="免費試閱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1167" y="900" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-138" value="購買單章節" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1263" y="900" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="jJl6HKamd_gqL-oOaHwr-140" target="jJl6HKamd_gqL-oOaHwr-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-140" value="小說item" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1167" y="750" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jJl6HKamd_gqL-oOaHwr-143" value="變更排序" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1070" y="980" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
