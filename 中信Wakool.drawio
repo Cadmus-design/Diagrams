@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-11T07:23:30.343Z" agent="5.0 (Windows)" etag="7vu_6vM4aEiblaglUlqT" version="15.7.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-11-11T07:28:44.091Z" agent="5.0 (Windows)" etag="29bV_z85VOYaP1P5uVE4" version="15.7.1" type="github" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1254" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1041,6 +1041,9 @@
         <mxCell id="2GPcoaCJw0jkzkUdtnLj-26" value="帳號資訊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="1810" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="2GPcoaCJw0jkzkUdtnLj-27" target="2GPcoaCJw0jkzkUdtnLj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2GPcoaCJw0jkzkUdtnLj-27" value="修改資料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="1810" y="360" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1057,7 +1060,13 @@
           <mxGeometry x="1810" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2GPcoaCJw0jkzkUdtnLj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="KaW1TfqJIeAFHNLuegCc-1" source="2GPcoaCJw0jkzkUdtnLj-41" target="2GPcoaCJw0jkzkUdtnLj-42">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2460" y="340" />
+              <mxPoint x="2400" y="340" />
+              <mxPoint x="2400" y="950" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2GPcoaCJw0jkzkUdtnLj-41" value="儲值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="2420" y="270" width="80" height="60" as="geometry" />
@@ -1114,6 +1123,42 @@
         </mxCell>
         <mxCell id="2GPcoaCJw0jkzkUdtnLj-56" value="點數交換頁面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;verticalAlign=middle;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
           <mxGeometry x="1930" y="1150" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-60" value="&lt;div&gt;平台帳號&lt;/div&gt;&lt;div&gt;(平台名稱)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="1990" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-61" value="平台點數" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2130" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-62" value="中國信託紅利點數" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2270" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-63" value="會員名稱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2410" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-64" value="紅利綁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2550" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-66" value="綁定" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2810" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-67" value="儲值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2700" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-68" value="修改送出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2920" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-69" value="紅利綁定表單" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="3030" y="360" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-70" value="最近玩過的遊戲" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2780" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-71" value="最近閱讀的小說" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="2920" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2GPcoaCJw0jkzkUdtnLj-72" value="最近閱讀的" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" vertex="1" parent="KaW1TfqJIeAFHNLuegCc-1">
+          <mxGeometry x="3060" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
