@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-11-22T09:13:33.954Z" agent="5.0 (Windows)" etag="m009KeQUCccIliJ9ojq1" version="15.8.3" type="github"><diagram id="-Tf-SAn6svrItmrNyMm4" name="Page-1">dZHBEoIgEEC/hrtCk3Y2q0snD50Z2YQZdBmk0fr6dJCMsWY4LG/fsrAQVrTj2XIjryhAE5qIkbAjoTTdUUrmlYinJ1meeNBYJRZpBZV6wQKD9lAC+kh0iNopE8Mauw5qFzFuLQ6xdkcddzW8gQ2oaq639KaEk57mNFv5BVQjQ+d0f/CZlgd5eUkvucDhC7GSsMIiOh+1YwF6Hl6Yi687/cl+Lmahcz8KpmA9e9pEP8TKNw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-23T04:42:05.673Z" agent="5.0 (Windows)" etag="QPZU6rl2ojrFWBmMzOjP" version="15.8.3" type="github">
+  <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
+    <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-1" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-2" value="理財頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-3" value="英文頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-4" value="&lt;div&gt;教育頻道&lt;/div&gt;&lt;div&gt;(回分類首頁)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="504" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-5" value="商品圖" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="654" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-6" value="商品分類名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-7" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
