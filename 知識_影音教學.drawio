@@ -1,88 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2021-11-23T05:00:32.354Z" agent="5.0 (Windows)" etag="h12rxXXEuHcWqK1fVch3" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T04:24:39.426Z" agent="5.0 (Windows)" etag="m8ZNeA2CQhgHhV6o1R18" version="15.8.4" type="github">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-1" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-1" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-2" value="理財頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-2" value="理財頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-3" value="英文頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-3" value="英文頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-4" value="&lt;div&gt;教育頻道&lt;/div&gt;&lt;div&gt;(回分類首頁)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-4" value="&lt;div&gt;教育頻道&lt;/div&gt;&lt;div&gt;(回分類首頁)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-6" value="商品分類名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-6" value="商品分類名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="490" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-7" value="商品圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-7" value="商品圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-8" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-8" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="190" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-9" value="商品作者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-9" value="商品作者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="240" as="sourcePoint" />
             <mxPoint x="800" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-11" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-11" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-12" value="理財頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-12" value="理財頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="340" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-13" value="英文頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-13" value="英文頁籤" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-22" value="商品介紹" style="swimlane;startSize=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="380" width="270" height="350" as="geometry">
-            <mxRectangle x="40" y="470" width="100" height="20" as="alternateBounds" />
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-17" value="商品作者介紹" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-29" value="品牌簡介" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="370" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-30" value="影片目錄" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-1" value="影片目錄" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="870" width="140" height="340" as="geometry">
+            <mxRectangle x="510" y="660" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-14" value="商品圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
+        <mxCell id="raj0_86jvHdYx3d9Dobu-2" value="課程名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-1">
           <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-15" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
+        <mxCell id="raj0_86jvHdYx3d9Dobu-3" value="&lt;div&gt;課程長度&lt;/div&gt;&lt;div&gt;(時間)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-1">
           <mxGeometry x="10" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-16" value="商品作者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
+        <mxCell id="raj0_86jvHdYx3d9Dobu-4" value="試看" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-1">
           <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-23" value="商品授權" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
+        <mxCell id="raj0_86jvHdYx3d9Dobu-5" value="&lt;div&gt;購買&lt;/div&gt;&lt;div&gt;(含價格)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-1">
           <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-24" value="商品內容數量&lt;br&gt;(影片數量)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
-          <mxGeometry x="130" y="30" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-27" value="播放" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-1">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-25" value="&lt;div&gt;商品規格&lt;/div&gt;&lt;div&gt;(影片長度)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
-          <mxGeometry x="130" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-7" value="全家會員登入" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="140" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-26" value="&lt;div&gt;商品期限&lt;/div&gt;&lt;div&gt;(觀看期限)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
-          <mxGeometry x="130" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-8" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;會員帳號&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;(手機)&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-7">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-27" value="商品介紹文字" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
-          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-11" value="&lt;div style=&quot;font-size: 18px&quot;&gt;會員密碼&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-7">
+          <mxGeometry x="10" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-28" value="商品價格" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7zqT9z4EXzbm1e6yBOuj-22">
-          <mxGeometry x="130" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-12" value="驗證碼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-7">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-17" value="商品作者介紹" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-13" value="忘記密碼" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-7">
+          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-29" value="品牌簡介" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="190" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="raj0_86jvHdYx3d9Dobu-15" value="商品介紹" style="swimlane;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="280" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="7zqT9z4EXzbm1e6yBOuj-30" value="影片目錄" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="40" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-14" value="商品圖片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-15" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="20" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-16" value="商品作者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-23" value="商品授權" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="20" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-28" value="商品價格" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="140" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-27" value="商品介紹文字" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-26" value="&lt;div&gt;商品期限&lt;/div&gt;&lt;div&gt;(觀看期限)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="140" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-25" value="&lt;div&gt;商品規格&lt;/div&gt;&lt;div&gt;(影片長度)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7zqT9z4EXzbm1e6yBOuj-24" value="商品內容數量&lt;br&gt;(影片數量)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="raj0_86jvHdYx3d9Dobu-15" vertex="1">
+          <mxGeometry x="140" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-16" value="購買成功" style="swimlane;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="880" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-17" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-16">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-21" value="購買確認" style="swimlane;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="880" width="140" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-22" value="商品分類名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-21">
+          <mxGeometry x="10" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-23" value="商品名稱" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-21">
+          <mxGeometry x="10" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-24" value="商品價格" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-21">
+          <mxGeometry x="10" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-25" value="&lt;div&gt;儲值方式&lt;/div&gt;&lt;div&gt;(扣款)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-21">
+          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-26" value="購買" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="raj0_86jvHdYx3d9Dobu-21">
+          <mxGeometry x="10" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
