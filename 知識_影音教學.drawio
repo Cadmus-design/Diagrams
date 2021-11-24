@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T07:49:03.082Z" agent="5.0 (Windows)" etag="GuL0Q0JTi24et3G39KRh" version="15.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:49:11.463Z" agent="5.0 (Windows)" etag="oZYdkOM4qzCrNmmPnwTv" version="15.8.4" type="github" pages="3">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
         <mxCell id="r-Rt3po3uZD9v_DPbboP-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="240" as="sourcePoint" />
-            <mxPoint x="1532" y="240" as="targetPoint" />
+            <mxPoint x="1080" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r-Rt3po3uZD9v_DPbboP-56" value="&lt;h1&gt;好好玩知識內容流程圖&lt;br&gt;&lt;/h1&gt;&lt;p&gt;英文與財經瀏覽至購買、試看、上課流程&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
