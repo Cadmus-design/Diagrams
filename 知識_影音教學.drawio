@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T06:51:26.488Z" agent="5.0 (Windows)" etag="Q5TXPHO-OVJMob_J6ZJj" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T06:52:29.120Z" agent="5.0 (Windows)" etag="OZloxAzrKphlL1cbwcyG" version="15.8.4" type="github">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,6 +173,9 @@
         </mxCell>
         <mxCell id="raj0_86jvHdYx3d9Dobu-38" value="購物車" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1310" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-39" value="FB messenger" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
