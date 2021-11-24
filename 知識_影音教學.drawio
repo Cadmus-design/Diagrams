@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T04:34:22.103Z" agent="5.0 (Windows)" etag="K1w8YHRIuXzkMaYy0257" version="15.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T06:21:00.074Z" agent="5.0 (Windows)" etag="LN7ss5JCXsSDlsocn-C-" version="15.8.4" type="github">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="7zqT9z4EXzbm1e6yBOuj-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="240" as="sourcePoint" />
-            <mxPoint x="800" y="240" as="targetPoint" />
+            <mxPoint x="1562" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7zqT9z4EXzbm1e6yBOuj-11" value="標題" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -143,6 +143,9 @@
         </mxCell>
         <mxCell id="raj0_86jvHdYx3d9Dobu-28" value="簡介內容" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="650" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="raj0_86jvHdYx3d9Dobu-29" value="簡介影片" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="860" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
