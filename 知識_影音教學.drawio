@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T07:08:43.616Z" agent="5.0 (Windows)" etag="1N3DyCe_FaXhVZg1jYBp" version="15.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:10:30.926Z" agent="5.0 (Windows)" etag="c-v-rNPhVABZ4N8UdYId" version="15.8.4" type="github" pages="3">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -460,7 +460,7 @@
         <mxCell id="r-Rt3po3uZD9v_DPbboP-58" value="好好玩平台" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="10" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r-Rt3po3uZD9v_DPbboP-59" value="知識首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-59" value="知識分類首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r-Rt3po3uZD9v_DPbboP-60" value="課程簡介頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
@@ -478,7 +478,7 @@
         <mxCell id="r-Rt3po3uZD9v_DPbboP-62" value="&lt;div&gt;知識課程系列&lt;/div&gt;&lt;div&gt;(英文)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r-Rt3po3uZD9v_DPbboP-65" value="知識首頁" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-65" value="&lt;div&gt;知識課程分類&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r-Rt3po3uZD9v_DPbboP-66" value="&lt;div&gt;知識課程系列&lt;/div&gt;&lt;div&gt;(財經)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
