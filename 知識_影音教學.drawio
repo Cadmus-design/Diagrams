@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T07:10:30.926Z" agent="5.0 (Windows)" etag="c-v-rNPhVABZ4N8UdYId" version="15.8.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-11-24T07:16:31.251Z" agent="5.0 (Windows)" etag="GXtZryoEf5W5135n9duA" version="15.8.4" type="github" pages="3">
   <diagram id="-Tf-SAn6svrItmrNyMm4" name="card sorting">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -475,14 +475,35 @@
         <mxCell id="r-Rt3po3uZD9v_DPbboP-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="ykpBzMcwRIyluqaoR1PD-1" source="r-Rt3po3uZD9v_DPbboP-62" target="r-Rt3po3uZD9v_DPbboP-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="ykpBzMcwRIyluqaoR1PD-1" source="r-Rt3po3uZD9v_DPbboP-62" target="r-Rt3po3uZD9v_DPbboP-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r-Rt3po3uZD9v_DPbboP-62" value="&lt;div&gt;知識課程系列&lt;/div&gt;&lt;div&gt;(英文)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="250" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="r-Rt3po3uZD9v_DPbboP-65" value="&lt;div&gt;知識課程分類&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-65" value="&lt;div&gt;課程簡介&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="490" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="ykpBzMcwRIyluqaoR1PD-1" source="r-Rt3po3uZD9v_DPbboP-66" target="r-Rt3po3uZD9v_DPbboP-65">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r-Rt3po3uZD9v_DPbboP-66" value="&lt;div&gt;知識課程系列&lt;/div&gt;&lt;div&gt;(財經)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
           <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-68" value="&lt;div&gt;單一課程項目觀看&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-69" value="課程觀看頁面" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+          <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-74" value="登入" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+          <mxGeometry x="610" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-76" value="平台登入" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+          <mxGeometry x="10" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-Rt3po3uZD9v_DPbboP-77" value="購買" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;" vertex="1" parent="ykpBzMcwRIyluqaoR1PD-1">
+          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
