@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T09:24:15.584Z" agent="5.0 (Windows)" etag="m0qwEXSDFZlv7JKyK6M0" version="15.8.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-06T09:24:32.580Z" agent="5.0 (Windows)" etag="BqJ5dxkINSSQ2OASERaE" version="15.8.9" type="github" pages="2">
   <diagram id="_2rpDQU9gDpVVWDG5fEd" name="廣告優化過場頁面">
     <mxGraphModel dx="1254" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="3P_xqcSUDhqFPb0pXvM5-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3P_xqcSUDhqFPb0pXvM5-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="20" y="110" as="sourcePoint" />
-            <mxPoint x="830" y="110" as="targetPoint" />
+            <mxPoint x="810" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3P_xqcSUDhqFPb0pXvM5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="3P_xqcSUDhqFPb0pXvM5-1" source="3P_xqcSUDhqFPb0pXvM5-6" target="3P_xqcSUDhqFPb0pXvM5-23">
