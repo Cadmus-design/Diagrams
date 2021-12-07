@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T07:38:25.740Z" agent="5.0 (Windows)" etag="zbdD6Vok8Go9m7a88Lrg" version="15.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-07T07:39:52.933Z" agent="5.0 (Windows)" etag="1ZHKpFgUzB4dKzY7Uycn" version="15.9.1" type="github" pages="3">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="-47" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1751,10 +1751,10 @@
         <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-190" value="點數面額選擇" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=18;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
           <mxGeometry x="1826" y="510" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-191" value="中國信託儲值頁面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;verticalAlign=middle;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
+        <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-191" value="信用卡儲值頁面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;verticalAlign=middle;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
           <mxGeometry x="2236" y="650" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-192" value="點數交換頁面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;verticalAlign=middle;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
+        <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-192" value="MyCARD 儲值頁面" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=18;verticalAlign=middle;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
           <mxGeometry x="2006" y="650" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ys5hY5i7SfUJTXYO6Fxr-193" value="&lt;div&gt;平台帳號&lt;/div&gt;&lt;div&gt;(平台名稱)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=18;" parent="Ys5hY5i7SfUJTXYO6Fxr-1" vertex="1">
