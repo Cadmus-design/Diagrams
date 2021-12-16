@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T07:39:06.926Z" agent="5.0 (Windows)" etag="xvh8atzheceAJ5CqrCUB" version="15.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-16T07:47:24.739Z" agent="5.0 (Windows)" etag="CXP5yECeH0ylg3AyoMUX" version="15.9.1" type="github" pages="3">
   <diagram id="_2rpDQU9gDpVVWDG5fEd" name="廣告優化過場頁面">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,6 +222,14 @@
         </mxCell>
         <mxCell id="oqTmQc6XezWWzgRcoCtJ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="x6W4TscU2_4gFnkvx_ns-1" source="oqTmQc6XezWWzgRcoCtJ-13" target="oqTmQc6XezWWzgRcoCtJ-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqTmQc6XezWWzgRcoCtJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="x6W4TscU2_4gFnkvx_ns-1" source="oqTmQc6XezWWzgRcoCtJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oqTmQc6XezWWzgRcoCtJ-13" value="浮遊球" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="x6W4TscU2_4gFnkvx_ns-1">
           <mxGeometry x="240" y="380" width="100" height="60" as="geometry" />
