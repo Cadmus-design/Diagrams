@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T07:47:24.739Z" agent="5.0 (Windows)" etag="CXP5yECeH0ylg3AyoMUX" version="15.9.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-12-16T08:09:43.489Z" agent="5.0 (Windows)" etag="-GEHjiXEbBTPvZnOw20_" version="15.9.1" type="github" pages="3">
   <diagram id="_2rpDQU9gDpVVWDG5fEd" name="廣告優化過場頁面">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,8 +323,13 @@
         <mxCell id="oqTmQc6XezWWzgRcoCtJ-52" value="回首頁" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;" vertex="1" parent="oqTmQc6XezWWzgRcoCtJ-38">
           <mxGeometry x="20" y="240" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oqTmQc6XezWWzgRcoCtJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="x6W4TscU2_4gFnkvx_ns-1" source="oqTmQc6XezWWzgRcoCtJ-41" target="oqTmQc6XezWWzgRcoCtJ-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oqTmQc6XezWWzgRcoCtJ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="x6W4TscU2_4gFnkvx_ns-1" source="oqTmQc6XezWWzgRcoCtJ-41" target="y0bccYCSBhi_E7ouD19p-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="940" />
+              <mxPoint x="870" y="580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
