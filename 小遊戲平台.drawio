@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:53:27.239Z" agent="5.0 (Windows)" etag="76r9aaj6k3K3GETsEc3f" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:55:22.577Z" agent="5.0 (Windows)" etag="gS7tInovqzoV5eQ8Attl" version="16.0.3" type="github" pages="2">
   <diagram id="Xf0kCihZ-aB_llhnf_z4" name="第1頁">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,32 @@
         </mxCell>
         <mxCell id="-enL-yWNLoUQDlkAJuOZ-65" value="介紹頁面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="epyIMWLhm1WSF7ThA_lB" name="card sorting">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-0" />
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-1" parent="EeFRdfWhdO2TgrpeLr-J-0" />
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-2" value="首頁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-3" value="分類頁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-4" value="遊戲介紹頁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-5" value="遊戲頁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-6" value="Banner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EeFRdfWhdO2TgrpeLr-J-7" value="banner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EeFRdfWhdO2TgrpeLr-J-1">
+          <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
