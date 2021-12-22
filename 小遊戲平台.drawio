@@ -1,11 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T07:12:32.298Z" agent="5.0 (Windows)" etag="SNseMqAY-SYQzKi0CjTO" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-22T07:23:48.300Z" agent="5.0 (Windows)" etag="F39CSwXivZHGjqtnfAsA" version="16.0.3" type="github">
   <diagram id="Xf0kCihZ-aB_llhnf_z4" name="第1頁">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-enL-yWNLoUQDlkAJuOZ-1" value="小遊戲平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-1" value="&lt;div&gt;小遊戲平台&lt;/div&gt;&lt;div&gt;首頁&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="800" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-3" target="-enL-yWNLoUQDlkAJuOZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-3" value="訪客" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-4" value="Google Play " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-5" target="-enL-yWNLoUQDlkAJuOZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-5" value="&amp;nbsp;下載" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-7" target="-enL-yWNLoUQDlkAJuOZ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-7" value="點選app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-9" target="-enL-yWNLoUQDlkAJuOZ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-9" target="-enL-yWNLoUQDlkAJuOZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="260" />
+              <mxPoint x="210" y="260" />
+              <mxPoint x="210" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-9" target="-enL-yWNLoUQDlkAJuOZ-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="260" />
+              <mxPoint x="210" y="260" />
+              <mxPoint x="210" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-9" target="-enL-yWNLoUQDlkAJuOZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="260" />
+              <mxPoint x="210" y="260" />
+              <mxPoint x="210" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-enL-yWNLoUQDlkAJuOZ-9" target="-enL-yWNLoUQDlkAJuOZ-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="260" />
+              <mxPoint x="210" y="260" />
+              <mxPoint x="210" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-9" value="進入app 首頁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-11" value="&lt;div&gt;小遊戲平台&lt;/div&gt;&lt;div&gt;選單&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-12" value="&lt;div&gt;小遊戲平台&lt;/div&gt;&lt;div&gt;選單&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-13" value="app 熱門遊戲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-14" value="app 推薦遊戲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-15" value="&lt;div&gt;app &lt;br&gt;&lt;/div&gt;&lt;div&gt;banner&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-17" value="&lt;div&gt;app &lt;br&gt;&lt;/div&gt;&lt;div&gt;footer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-enL-yWNLoUQDlkAJuOZ-18" value="&lt;div&gt;app &lt;br&gt;&lt;/div&gt;&lt;div&gt;搜尋&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
