@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T01:49:06.015Z" agent="5.0 (Windows)" etag="qogRpSNNIss59xFqeA56" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-11T01:54:05.450Z" agent="5.0 (Windows)" etag="tr52ytXwcSj-OQ2kAI7S" version="16.1.0" type="github" pages="2">
   <diagram id="jI_vOCvLIPqVOaRNoMTb" name="第1頁">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,6 +92,45 @@
             <mxPoint x="40" y="90" as="sourcePoint" />
             <mxPoint x="770" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-0" target="r-s2VWzmtMuxvk5jumoB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-0" value="會員A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="40" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-1" target="r-s2VWzmtMuxvk5jumoB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-1" value="進入活動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-2" target="r-s2VWzmtMuxvk5jumoB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-2" value="複製連結" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-4" target="r-s2VWzmtMuxvk5jumoB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-4" value="提供其他會員連結" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="630" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-8" target="r-s2VWzmtMuxvk5jumoB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-8" value="會員B" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="40" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k1aVPKdRrC1Rq0_R9fJa-1" source="r-s2VWzmtMuxvk5jumoB-10" target="r-s2VWzmtMuxvk5jumoB-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-10" value="進入遊戲" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="250" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r-s2VWzmtMuxvk5jumoB-14" value="&lt;div&gt;紀錄會員A&lt;/div&gt;&lt;div&gt;邀請成功+1&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;" vertex="1" parent="k1aVPKdRrC1Rq0_R9fJa-1">
+          <mxGeometry x="450" y="310" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
