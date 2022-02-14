@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T04:44:19.832Z" agent="5.0 (Macintosh)" etag="J5qBHZHs3surC4sYRPJU" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T06:53:15.978Z" agent="5.0 (Macintosh)" etag="tZ_Gtsxc6WOtT4IJa_Fj" version="16.2.7" type="github">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mZivRL8q-zZgxE8sF1Xp-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZivRL8q-zZgxE8sF1Xp-4" target="mZivRL8q-zZgxE8sF1Xp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZivRL8q-zZgxE8sF1Xp-4" target="mZivRL8q-zZgxE8sF1Xp-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mZivRL8q-zZgxE8sF1Xp-4" value="Guest" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,8 +52,23 @@
         <mxCell id="mZivRL8q-zZgxE8sF1Xp-16" value="Add Site" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mZivRL8q-zZgxE8sF1Xp-18" value="Fully activted" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-18" value="Fully activated" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="584.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZivRL8q-zZgxE8sF1Xp-20" target="mZivRL8q-zZgxE8sF1Xp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-20" value="cookie" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=70;exitDy=80;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mZivRL8q-zZgxE8sF1Xp-21" target="mZivRL8q-zZgxE8sF1Xp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-21" value="GA" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mZivRL8q-zZgxE8sF1Xp-26" value="Dashboard" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="20" y="570" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
