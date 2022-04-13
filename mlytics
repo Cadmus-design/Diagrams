@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T08:52:51.671Z" agent="5.0 (Macintosh)" etag="UxD5oAOPndYsV4cQm2s0" version="17.4.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-13T08:54:51.425Z" agent="5.0 (Macintosh)" etag="43fbaB5YUfwYz6geINub" version="17.4.3" type="github" pages="8">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -703,11 +703,8 @@
         <mxCell id="tBYpqrFYo0qu-9dA8gPn-94" value="&lt;h4 class=&quot;h4-custom-size&quot;&gt;City-level Monitoring &lt;br&gt;City- &amp;amp; Telco-level Orchestration&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="tBYpqrFYo0qu-9dA8gPn-147">
           <mxGeometry x="130" y="177" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tBYpqrFYo0qu-9dA8gPn-95" value="Pricing Calculator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tBYpqrFYo0qu-9dA8gPn-147">
-          <mxGeometry x="85" y="230" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tBYpqrFYo0qu-9dA8gPn-96" value="Speedtest in China" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tBYpqrFYo0qu-9dA8gPn-147">
-          <mxGeometry x="320" y="230" width="160" height="30" as="geometry" />
+          <mxGeometry x="185.01" y="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tBYpqrFYo0qu-9dA8gPn-148" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="630" y="390" width="530" height="560" as="geometry" />
