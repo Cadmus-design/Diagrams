@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T03:09:11.520Z" agent="5.0 (Macintosh)" etag="aicpx6a7_4DH5fgavJxT" version="17.4.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-04-15T08:46:11.663Z" agent="5.0 (Macintosh)" etag="iMg153b3wxmJQmk0-Ssh" version="17.4.4" type="github" pages="9">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
-    <mxGraphModel dx="1426" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -875,7 +875,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8wsSehsXF_hVBD_1ZBU8" name="Replace Calendly for hubspot to enhance the demo flow">
-    <mxGraphModel dx="1678" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1016,19 +1016,19 @@
         <mxCell id="Ofcfm8eWnm9VePp0eyBZ-54" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="30" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-55" value="Work Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
+        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-55" value="Company name" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="129" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-56" value="Company name" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
+        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-56" value="Work Email" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="79" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-57" value="telegram user name(optional)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
+        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-57" value="Language" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="180" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-58" value="Language" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
+        <mxCell id="Ofcfm8eWnm9VePp0eyBZ-58" value="telegram user name(optional)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="230" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bp_9O67wx1haAsTxIRIt-1" value="Note" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ofcfm8eWnm9VePp0eyBZ-53">
+        <mxCell id="bp_9O67wx1haAsTxIRIt-1" value="Note" style="rounded=0;whiteSpace=wrap;html=1;" parent="Ofcfm8eWnm9VePp0eyBZ-53" vertex="1">
           <mxGeometry x="10" y="280" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ofcfm8eWnm9VePp0eyBZ-59" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
