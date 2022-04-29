@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T07:04:11.686Z" agent="5.0 (Macintosh)" etag="FJa3_ZGOVPpAEy8k4al-" version="17.4.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-04-29T08:10:51.078Z" agent="5.0 (Macintosh)" etag="jOViYsT2IElNBzSrqPHn" version="17.4.5" type="github" pages="10">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1075,7 +1075,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Uw6rYmakeWqxa_etck6" name="Help Scout in Website">
-    <mxGraphModel dx="2705" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1791" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1304,7 +1304,7 @@
         <mxCell id="opVK07h7EFtqpPwti_GH-19" value="Demo" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="opVK07h7EFtqpPwti_GH-20" value="Answer and collect from user" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="opVK07h7EFtqpPwti_GH-20" value="&lt;div&gt;Answer and collect&lt;/div&gt;&lt;div&gt;question from user&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-21" value="onboarding assist" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
