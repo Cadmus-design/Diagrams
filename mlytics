@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T03:53:28.289Z" agent="5.0 (Windows)" etag="ANBSyxuePi3CxZ3T1l6x" version="17.4.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-03T04:01:21.205Z" agent="5.0 (Windows)" etag="cBWN93-erpWHLfhGjkA1" version="17.4.6" type="github" pages="10">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1283,16 +1283,18 @@
         <mxCell id="opVK07h7EFtqpPwti_GH-7" value="all pages" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="opVK07h7EFtqpPwti_GH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.333;entryDx=0;entryDy=0;fontColor=#00CCCC;strokeColor=#00CCCC;entryPerimeter=0;" parent="1" source="opVK07h7EFtqpPwti_GH-8" target="opVK07h7EFtqpPwti_GH-19" edge="1">
+        <mxCell id="opVK07h7EFtqpPwti_GH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#00CCCC;strokeColor=#00CCCC;" parent="1" source="opVK07h7EFtqpPwti_GH-8" target="dMfp5TTcyIKJL1yZ7QnS-26" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="530" as="targetPoint" />
+            <mxPoint x="1010" y="629.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-8" value="on boarding assitant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="opVK07h7EFtqpPwti_GH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#00CCCC;strokeColor=#00CCCC;" parent="1" source="opVK07h7EFtqpPwti_GH-9" target="opVK07h7EFtqpPwti_GH-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="opVK07h7EFtqpPwti_GH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#00CCCC;strokeColor=#00CCCC;entryX=0.783;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="opVK07h7EFtqpPwti_GH-9" target="dMfp5TTcyIKJL1yZ7QnS-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-9" value="Schedule a Demo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="610" width="120" height="60" as="geometry" />
@@ -1308,9 +1310,6 @@
         </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-16" value="Perfect flow" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontColor=#00CCCC;" parent="1" vertex="1">
           <mxGeometry x="100" y="770" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="opVK07h7EFtqpPwti_GH-19" value="Demo" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-20" value="&lt;div&gt;Answer and collect&lt;/div&gt;&lt;div&gt;question from user&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="710" width="120" height="60" as="geometry" />
