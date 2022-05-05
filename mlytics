@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-05T05:44:22.729Z" agent="5.0 (Windows)" etag="UrTRlPnt4k4j5JKC329G" version="17.5.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-05T05:44:48.001Z" agent="5.0 (Windows)" etag="-4MYdLTs2BmunmJXnsNV" version="17.5.0" type="github" pages="10">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1232,9 +1232,6 @@
         <mxCell id="opVK07h7EFtqpPwti_GH-6" value="&amp;nbsp;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="opVK07h7EFtqpPwti_GH-4" vertex="1">
           <mxGeometry x="10" y="25" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lyi-eUphVfJ1o7n9kEwI-1" value="&lt;div&gt;1. Real question from users&lt;/div&gt;&lt;div&gt;2.Technique support to first touch&lt;/div&gt;&lt;div&gt;3. Real user account&lt;/div&gt;&lt;div&gt;4. reduce the gap from team-work&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="opVK07h7EFtqpPwti_GH-4">
-          <mxGeometry x="12.5" y="40" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#00CCCC;strokeWidth=3;" parent="1" source="opVK07h7EFtqpPwti_GH-7" target="opVK07h7EFtqpPwti_GH-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1294,6 +1291,9 @@
         </mxCell>
         <mxCell id="nRL9jfpujql_dK1wlY3N-1" value="Engage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="-460" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lyi-eUphVfJ1o7n9kEwI-1" value="&lt;div&gt;1. Real question from users&lt;/div&gt;&lt;div&gt;2.Technique support to first touch&lt;/div&gt;&lt;div&gt;3. Real user account&lt;/div&gt;&lt;div&gt;4. reduce the gap from team-work&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-332.5" y="880" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
