@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T04:07:10.153Z" agent="5.0 (Windows)" etag="jY0saaCw200D3TAZrnav" version="17.4.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-05T05:30:11.573Z" agent="5.0 (Windows)" etag="hFGHpsMxPVUSw51F6CWI" version="17.5.0" type="github" pages="10">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2302" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1075,7 +1075,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1Uw6rYmakeWqxa_etck6" name="Help Scout in Website">
-    <mxGraphModel dx="2889" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3129" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1244,17 +1244,16 @@
         <mxCell id="HQfaKlv0viKCzstLQPQi-15" value="Get Started" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-620" y="460" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HQfaKlv0viKCzstLQPQi-17" value="Engage" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="580" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="opVK07h7EFtqpPwti_GH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="HQfaKlv0viKCzstLQPQi-18" target="opVK07h7EFtqpPwti_GH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HQfaKlv0viKCzstLQPQi-18" value="AMA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="580" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HQfaKlv0viKCzstLQPQi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HQfaKlv0viKCzstLQPQi-20" target="HQfaKlv0viKCzstLQPQi-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HQfaKlv0viKCzstLQPQi-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HQfaKlv0viKCzstLQPQi-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-400" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HQfaKlv0viKCzstLQPQi-20" value="onboarding assist" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="470" width="120" height="60" as="geometry" />
@@ -1314,7 +1313,7 @@
         <mxCell id="opVK07h7EFtqpPwti_GH-20" value="&lt;div&gt;Answer and collect&lt;/div&gt;&lt;div&gt;question from user&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1010" y="780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tycOJq5PqHHNHJGZ01Up-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF3333;strokeColor=#00CCCC;" edge="1" parent="1" source="tycOJq5PqHHNHJGZ01Up-3" target="dMfp5TTcyIKJL1yZ7QnS-26">
+        <mxCell id="tycOJq5PqHHNHJGZ01Up-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#FF3333;strokeColor=#00CCCC;" parent="1" source="tycOJq5PqHHNHJGZ01Up-3" target="dMfp5TTcyIKJL1yZ7QnS-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070" y="540" />
@@ -1322,8 +1321,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tycOJq5PqHHNHJGZ01Up-3" value="Talk to an expert" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tycOJq5PqHHNHJGZ01Up-3" value="Talk to an expert" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nRL9jfpujql_dK1wlY3N-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="nRL9jfpujql_dK1wlY3N-1" target="HQfaKlv0viKCzstLQPQi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nRL9jfpujql_dK1wlY3N-1" value="Engage" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
