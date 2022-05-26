@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T03:37:58.876Z" agent="5.0 (Windows)" etag="b-rJ0Z3gPEWiZgOBJrpR" version="18.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-26T03:47:21.047Z" agent="5.0 (Windows)" etag="PWzvI_KbtzE_qedZPsWO" version="18.1.2" type="github" pages="11">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1362,7 +1362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="57eCY1AzWt7MV-6p4IBT" name="CDNoutage">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1650" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1403,7 +1403,34 @@
           <mxGeometry x="250" y="1860" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="208" y="2030" width="120" height="60" as="geometry" />
+          <mxGeometry x="208" y="2030" width="1242" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-18" value="&lt;p style=&quot;font-size: 24px;&quot;&gt;“&lt;em style=&quot;font-size: 24px;&quot;&gt;Mlytics’ Multi CDN solution helped me to increase global availability, while minimizing management costs.&lt;/em&gt;”&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 24px;&quot;&gt;Mezi Wu, Technical Director, Yile Technology&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#3399FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2060" width="1110" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="208" y="2340" width="1242" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-20" value="&lt;strong&gt;More Mlytics Performance Use Cases&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2370" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2450" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-23" value="How we helped out users mitigation the cloudflare outage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2680" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2450" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-25" value="Another Akamain outage: FedEx, Delta Air Lines and McDonald&#39;s in the dark" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="2680" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2450" width="280" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="xaXTT9cqsAgQ-UFUA5Bn-27" value="Fastly outage: Spotify, Netflix, and Amazon went dark, while Mlytics&#39; users unharmed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2680" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
