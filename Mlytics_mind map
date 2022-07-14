@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:03:26.199Z" agent="5.0 (Macintosh)" etag="pdoKw9jTOfO_Flia37Xl" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-14T04:06:59.275Z" agent="5.0 (Macintosh)" etag="hdPIExsvCCu4d3yRPnrl" version="20.0.4" type="github" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1666" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1152,7 +1152,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YAyp093s_Y5yklw8wNLv" name="Qualified flow">
-    <mxGraphModel dx="1426" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1266,7 +1266,7 @@
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-36" value="Next step pageview" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="610" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i5cEmpEXWUkaqvOorbsQ-40" value="&lt;div&gt;hope&lt;br&gt;&lt;/div&gt;&lt;div&gt;sign up to CANME &lt;br&gt;&lt;/div&gt;&lt;div&gt;100%&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FF8000;" vertex="1" parent="1">
+        <mxCell id="i5cEmpEXWUkaqvOorbsQ-40" value="&lt;div&gt;hope&lt;br&gt;&lt;/div&gt;&lt;div&gt;sign up to CNAME rate 100%&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="330" y="660" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-41" value="CNAME added" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
