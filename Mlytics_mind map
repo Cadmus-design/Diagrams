@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T03:02:42.834Z" agent="5.0 (Macintosh)" etag="z9JSTCuhfFgxMY6xD2Bb" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-14T03:03:26.199Z" agent="5.0 (Macintosh)" etag="pdoKw9jTOfO_Flia37Xl" version="20.0.4" type="github" pages="5">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1666" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1237,9 +1237,6 @@
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-25" value="add payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i5cEmpEXWUkaqvOorbsQ-26" value="CNAME added" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-32" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i5cEmpEXWUkaqvOorbsQ-30" target="i5cEmpEXWUkaqvOorbsQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1255,8 +1252,10 @@
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-30" value="SAAS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="i5cEmpEXWUkaqvOorbsQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5cEmpEXWUkaqvOorbsQ-34" target="i5cEmpEXWUkaqvOorbsQ-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="i5cEmpEXWUkaqvOorbsQ-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i5cEmpEXWUkaqvOorbsQ-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-34" value="add site" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="680" width="120" height="60" as="geometry" />
@@ -1269,6 +1268,9 @@
         </mxCell>
         <mxCell id="i5cEmpEXWUkaqvOorbsQ-40" value="&lt;div&gt;hope&lt;br&gt;&lt;/div&gt;&lt;div&gt;sign up to CANME &lt;br&gt;&lt;/div&gt;&lt;div&gt;100%&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="330" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i5cEmpEXWUkaqvOorbsQ-41" value="CNAME added" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="670" y="780" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
