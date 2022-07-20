@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T06:00:30.712Z" agent="5.0 (Macintosh)" etag="twA_YloofTu0P93SNiMf" version="20.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:28:12.375Z" agent="5.0 (Macintosh)" etag="KxdEv9tFRs1Y-E7JFxa0" version="20.1.1" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1289,15 +1289,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="niyNBZYbs_BT44q_Oouf" name="VSP scope for CW">
-    <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2hDcd4lZcgjBwILqocsC-2" value="VSP scope for CW" style="rounded=1;whiteSpace=wrap;html=1;fontSize=36;arcSize=4;absoluteArcSize=1;fillColor=#7EA6E0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="230" y="110" width="410" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2hDcd4lZcgjBwILqocsC-3" value="Mlytics" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=42;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="355" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2hDcd4lZcgjBwILqocsC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fontColor=#000000;" edge="1" parent="1" target="2hDcd4lZcgjBwILqocsC-13">
           <mxGeometry relative="1" as="geometry">
