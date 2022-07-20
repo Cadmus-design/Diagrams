@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T05:58:24.048Z" agent="5.0 (Macintosh)" etag="Ae2PVNdfSxVj1ZGkCyjh" version="20.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-20T06:00:30.712Z" agent="5.0 (Macintosh)" etag="twA_YloofTu0P93SNiMf" version="20.1.1" type="github" pages="6">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1289,7 +1289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="niyNBZYbs_BT44q_Oouf" name="VSP scope for CW">
-    <mxGraphModel dx="679" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1443,6 +1443,12 @@
               <mxPoint x="600" y="420" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2hDcd4lZcgjBwILqocsC-52" value="Before Product launch date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2hDcd4lZcgjBwILqocsC-53" value="Before Aug" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="315" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
