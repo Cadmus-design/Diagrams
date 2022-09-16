@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T03:54:19.397Z" agent="5.0 (Macintosh)" etag="2Qjuvslov5kDO9R66Jyx" version="20.3.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-16T03:59:16.482Z" agent="5.0 (Macintosh)" etag="V8_w707ijOIYbPurClUN" version="20.3.0" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1666" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,8 +377,29 @@
         <mxCell id="sxj6WPJoAIpa8liXWgSX-7" value="&lt;div&gt;pick a time&lt;/div&gt;&lt;div&gt;(calendly)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.858;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="sxj6WPJoAIpa8liXWgSX-8" target="sxj6WPJoAIpa8liXWgSX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sxj6WPJoAIpa8liXWgSX-8" value="Email" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#C3ABD0;" vertex="1" parent="1">
           <mxGeometry x="500" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-18" value="B" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-19" value="A" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-20" value="D" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="635" y="470" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-21" value="C" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="320" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-22" value="A" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxj6WPJoAIpa8liXWgSX-23" value="C+D" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="70" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
