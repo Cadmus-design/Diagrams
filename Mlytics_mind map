@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T08:58:44.115Z" agent="5.0 (Macintosh)" etag="_iUabXbcMFA6by6W81PD" version="20.3.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-28T09:34:35.963Z" agent="5.0 (Macintosh)" etag="_dRUSqeCSY-xxOnnSbrC" version="20.3.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1621,7 +1621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c8ktrzk-GG3XZ14hOecw" name="Stream structure">
-    <mxGraphModel dx="2253" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1867,13 +1867,13 @@
           <mxGeometry x="710" y="660" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-80" value="Product page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="435" y="920" width="90" height="30" as="geometry" />
+          <mxGeometry x="430" y="870" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#432D57;strokeWidth=2;fontColor=#990000;fillColor=#76608a;" parent="1" source="ujXTBUSQ-C7VbkKTAHP9-81" target="ujXTBUSQ-C7VbkKTAHP9-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-81" value="Stream content" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fontColor=#990000;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="435" y="950" width="90" height="90" as="geometry" />
+          <mxGeometry x="430" y="895" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#990000;strokeColor=#001DBC;strokeWidth=2;dashed=1;fillColor=#0050ef;" parent="1" source="ujXTBUSQ-C7VbkKTAHP9-66" target="ujXTBUSQ-C7VbkKTAHP9-80" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1885,7 +1885,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-83" value="&lt;div style=&quot;font-size: 19px;&quot;&gt;Provide &lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;datasheet&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=default;fontColor=#990000;fontSize=19;" parent="1" vertex="1">
-          <mxGeometry x="590" y="955" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="900" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-97" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;strokeColor=#001DBC;fontSize=22;fontColor=#990000;fillColor=#0050ef;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
