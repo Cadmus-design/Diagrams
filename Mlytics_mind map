@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T07:19:18.433Z" agent="5.0 (Macintosh)" etag="6yz7vO7xOAVINsmDw6_E" version="20.3.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-09-28T07:21:05.688Z" agent="5.0 (Macintosh)" etag="v5pV4PWMlb4TD8Gw9WIR" version="20.3.6" type="github" pages="9">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1666" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1812,11 +1812,11 @@
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-76" value="https://www.mlytics.com/zh-tw/blog/category/web-optimization/" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=default;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="690" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ujXTBUSQ-C7VbkKTAHP9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.526;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=2;" edge="1" parent="1" source="ujXTBUSQ-C7VbkKTAHP9-51" target="ujXTBUSQ-C7VbkKTAHP9-76">
+        <mxCell id="ujXTBUSQ-C7VbkKTAHP9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.526;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#76608a;strokeColor=#432D57;strokeWidth=2;dashed=1;" edge="1" parent="1" source="ujXTBUSQ-C7VbkKTAHP9-51" target="ujXTBUSQ-C7VbkKTAHP9-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="920" y="315" />
-              <mxPoint x="920" y="650" />
+              <mxPoint x="950" y="315" />
+              <mxPoint x="950" y="650" />
               <mxPoint x="894" y="650" />
             </Array>
           </mxGeometry>
@@ -1826,6 +1826,9 @@
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-80" value="Product page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ujXTBUSQ-C7VbkKTAHP9-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#432D57;strokeWidth=2;fontColor=#990000;fillColor=#76608a;" edge="1" parent="1" source="ujXTBUSQ-C7VbkKTAHP9-81" target="ujXTBUSQ-C7VbkKTAHP9-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ujXTBUSQ-C7VbkKTAHP9-81" value="Stream content" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="435" y="950" width="90" height="90" as="geometry" />
@@ -1838,6 +1841,9 @@
               <mxPoint x="480" y="890" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ujXTBUSQ-C7VbkKTAHP9-83" value="&lt;div&gt;Provide &lt;br&gt;&lt;/div&gt;&lt;div&gt;datasheet&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=default;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="590" y="955" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
