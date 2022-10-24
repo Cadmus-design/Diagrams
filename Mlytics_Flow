@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T10:18:00.556Z" agent="5.0 (Macintosh)" etag="_PASSj6tGEPWPSm08w-z" version="20.4.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-10-24T10:18:21.652Z" agent="5.0 (Macintosh)" etag="PaqBidM1T5fOAM_tDLO-" version="20.4.0" type="github" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1186" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -766,321 +766,321 @@
         <mxCell id="1" parent="0" />
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="160" as="sourcePoint" />
-            <mxPoint x="3210" y="160" as="targetPoint" />
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="3260" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-2" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-3" value="&lt;div&gt;Learning center&lt;/div&gt;&lt;div&gt;What is Multi CDN&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="160" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-4" value="CPC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-5" value="9/26" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="310" height="60" as="geometry" />
+          <mxGeometry x="210" y="10" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-6" target="HH2wYRoBNFEG0TrBmdT3-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-6" value="&lt;div&gt;Website&lt;/div&gt;&lt;div&gt;Multi CDN&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-7" target="HH2wYRoBNFEG0TrBmdT3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-7" value="China Access" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-8" target="HH2wYRoBNFEG0TrBmdT3-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-8" value="Hubble" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="350" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-9" target="HH2wYRoBNFEG0TrBmdT3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-9" value="Multi CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-10" target="HH2wYRoBNFEG0TrBmdT3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-10" value="SAD page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="350" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-11" target="HH2wYRoBNFEG0TrBmdT3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-11" value="Multi CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-12" target="HH2wYRoBNFEG0TrBmdT3-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-12" value="China Access" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-13" value="Multi CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-14" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-15" value="&lt;div&gt;9/27&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="520" y="10" width="310" height="60" as="geometry" />
+          <mxGeometry x="570" y="10" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-17" target="HH2wYRoBNFEG0TrBmdT3-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-17" value="&lt;div&gt;Website&lt;/div&gt;&lt;div&gt;Multi CDN&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-25" target="HH2wYRoBNFEG0TrBmdT3-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-25" value="SAD page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-26" target="HH2wYRoBNFEG0TrBmdT3-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-26" value="Multi CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-27" target="HH2wYRoBNFEG0TrBmdT3-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-27" value="Multi CDN performance orchestration" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-28" target="HH2wYRoBNFEG0TrBmdT3-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-28" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Multi CDN: Clearing away the misconceptions&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-29" value="Solutins" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="20" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-30" value="Features" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="20" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-31" value="blog" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-32" value="Hubble" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="20" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-33" value="SAD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="20" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-34" target="HH2wYRoBNFEG0TrBmdT3-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-34" value="How Mlytics Multi CDN supplements top-tier CDNs like Akamai, Cloudflare and Imperva?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-35" value="What is Multi CDN and why businesses are adopting it " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-36" value="learning center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="20" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-37" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-38" target="HH2wYRoBNFEG0TrBmdT3-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-38" value="&lt;div&gt;Learning center&lt;/div&gt;&lt;div&gt;What is Multi CDN&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-39" value="Factors that will impact your Multi CDN strategy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="700" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-46" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-47" value="&lt;div&gt;9/28&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="860" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-48" target="HH2wYRoBNFEG0TrBmdT3-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-48" value="Multi CDN: Clearing away the misconceptions" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="910" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-50" target="HH2wYRoBNFEG0TrBmdT3-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-50" value="How Mlytics Multi CDN supplements top-tier CDNs like Akamai, Cloudflare and Imperva?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-52" target="HH2wYRoBNFEG0TrBmdT3-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-52" value="真实用户监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="860" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-55" target="HH2wYRoBNFEG0TrBmdT3-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-55" value="What is Multi CDN and why businesses are adopting it " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-57" target="HH2wYRoBNFEG0TrBmdT3-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-57" value="综合监控 " style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="860" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-59" target="HH2wYRoBNFEG0TrBmdT3-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-59" value="Why your website is slow in China (and how to fix it) " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-62" target="HH2wYRoBNFEG0TrBmdT3-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-62" value="Why your SaaS service is slow even after using CDN? " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="900" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-64" value="Why intelligent load balancing is key for your website performance" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="860" y="1010" width="120" height="60" as="geometry" />
+          <mxGeometry x="910" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-65" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-66" value="10/09" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1070" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-67" value="&lt;div&gt;Learning center&lt;/div&gt;&lt;div&gt;What is Multi CDN&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="1070" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-68" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1231" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-69" value="10/13" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1231" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-70" target="HH2wYRoBNFEG0TrBmdT3-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-70" value="How Mlytics Multi CDN supplements top-tier CDNs like Akamai, Cloudflare and Imperva?" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="1231" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-72" value="What is Multi CDN and why businesses are adopting it " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1231" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-73" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-74" value="10/18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-76" target="HH2wYRoBNFEG0TrBmdT3-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-76" value="&lt;div&gt;Learning center&lt;/div&gt;&lt;div&gt;What is Multi CDN&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="1390" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-78" target="HH2wYRoBNFEG0TrBmdT3-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-78" value="融合 CDN " style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-80" target="HH2wYRoBNFEG0TrBmdT3-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-80" value="Multi CDN: Clearing away the misconceptions " style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-82" value="How Mlytics Multi CDN supplements top-tier CDNs like Akamai, Cloudflare and Imperva?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-84" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-85" value="10/21" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-86" target="HH2wYRoBNFEG0TrBmdT3-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-86" value="&lt;div&gt;Website&lt;/div&gt;&lt;div&gt;融合 CDN &lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="1550" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-87" target="HH2wYRoBNFEG0TrBmdT3-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-87" value="视频串流解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-88" target="HH2wYRoBNFEG0TrBmdT3-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-88" value="Security operations center" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-89" target="HH2wYRoBNFEG0TrBmdT3-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-89" value="综合监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-93" target="HH2wYRoBNFEG0TrBmdT3-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-93" value="融合 CDN 表演编排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-95" target="HH2wYRoBNFEG0TrBmdT3-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-95" value="LOGIN" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1550" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-96" target="HH2wYRoBNFEG0TrBmdT3-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-96" value="视频串流解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-99" target="HH2wYRoBNFEG0TrBmdT3-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-99" value="Pricing" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-101" target="HH2wYRoBNFEG0TrBmdT3-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-101" value="融合 CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-102" target="HH2wYRoBNFEG0TrBmdT3-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-102" value="CDN中断缓解" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-105" target="HH2wYRoBNFEG0TrBmdT3-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-105" value="Fastly outage: Spotify, Netflix, and Amazon went dark, while Mlytics&#39; users unharmed" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-106" target="HH2wYRoBNFEG0TrBmdT3-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-106" value="Mlytics 性能监测工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;dashed=1;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-109" target="HH2wYRoBNFEG0TrBmdT3-111">
           <mxGeometry relative="1" as="geometry" />
@@ -1089,88 +1089,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-109" value="Hubble" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1760" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-111" value="hubble.mlytics.com/cdn_comparison/result/region/global/0bca8006f3ec42e1a128a56ef9c1012a" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1645" y="1089" width="250" height="80" as="geometry" />
+          <mxGeometry x="1695" y="1089" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-113" target="HH2wYRoBNFEG0TrBmdT3-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-113" value="综合云计算解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-115" target="HH2wYRoBNFEG0TrBmdT3-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-115" value="融合 CDN 表演编排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-117" target="HH2wYRoBNFEG0TrBmdT3-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-117" value="Mlytics - 网站速度测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-118" target="HH2wYRoBNFEG0TrBmdT3-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-118" value="融合 CDN 表演编排" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-119" target="HH2wYRoBNFEG0TrBmdT3-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-119" value="视频串流解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-123" target="HH2wYRoBNFEG0TrBmdT3-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-123" value="Mlytics 性能监测工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-125" target="HH2wYRoBNFEG0TrBmdT3-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-125" value="Our brand new take on Real User Monitoring: Mlytics Pulse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="1960" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-127" target="HH2wYRoBNFEG0TrBmdT3-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-127" value="智能负载平衡" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-129" target="HH2wYRoBNFEG0TrBmdT3-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-129" value="综合监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-131" target="HH2wYRoBNFEG0TrBmdT3-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-131" value="真实用户监控" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-132" target="HH2wYRoBNFEG0TrBmdT3-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-132" value="Pulse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-133" target="HH2wYRoBNFEG0TrBmdT3-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-133" value="视频串流解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-137" target="HH2wYRoBNFEG0TrBmdT3-138">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-137" value="Origin services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;dashed=1;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-138" target="HH2wYRoBNFEG0TrBmdT3-141">
           <mxGeometry relative="1" as="geometry" />
@@ -1178,8 +1178,8 @@
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;dashed=1;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-138" target="HH2wYRoBNFEG0TrBmdT3-143">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2230" y="1070" />
-              <mxPoint x="2445" y="1070" />
+              <mxPoint x="2280" y="1070" />
+              <mxPoint x="2495" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1192,52 +1192,52 @@
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-138" target="HH2wYRoBNFEG0TrBmdT3-146">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2230" y="980" />
-              <mxPoint x="2250" y="980" />
-              <mxPoint x="2250" y="350" />
+              <mxPoint x="2280" y="980" />
+              <mxPoint x="2300" y="980" />
+              <mxPoint x="2300" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-138" value="Mlytics - 网站速度测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2110" y="1000" width="120" height="60" as="geometry" />
+          <mxGeometry x="2160" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-141" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_cdn_comparison/result/region/global/93df15470b234e6d850a672823f50c3b&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2045" y="1089" width="250" height="80" as="geometry" />
+          <mxGeometry x="2095" y="1089" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-143" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_mlytics_comparison/result/region/global/f3eb244320494a398b13bc24044d5ab2&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="1089" width="250" height="80" as="geometry" />
+          <mxGeometry x="2370" y="1089" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-144" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/basic_test/result/region/global/956da0a3c3fd432ba10ea7a702ca7d21&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="870" width="250" height="80" as="geometry" />
+          <mxGeometry x="2370" y="870" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-145" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_mlytics_comparison/result/region/china/9f8a702290d1407faa996cde664db412&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="980" width="250" height="80" as="geometry" />
+          <mxGeometry x="2370" y="980" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-146" target="HH2wYRoBNFEG0TrBmdT3-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-146" value="SAD page" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2380" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-147" target="HH2wYRoBNFEG0TrBmdT3-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-147" value="融合 CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="2380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;dashed=1;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-154" target="HH2wYRoBNFEG0TrBmdT3-157">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2290" y="605" />
-              <mxPoint x="2290" y="790" />
+              <mxPoint x="2340" y="605" />
+              <mxPoint x="2340" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;dashed=1;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-154" target="HH2wYRoBNFEG0TrBmdT3-156">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2360" y="630" />
-              <mxPoint x="2445" y="630" />
+              <mxPoint x="2410" y="630" />
+              <mxPoint x="2495" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1245,66 +1245,66 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-154" value="Mlytics - 网站速度测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2330" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2380" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-156" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_cdn_comparison/result/region/china/5f1bcc1a44864c289b79bbc62ec094aa&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="650" width="250" height="80" as="geometry" />
+          <mxGeometry x="2370" y="650" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-157" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_cdn_comparison/result/region/china/3a0563ac34df4de0a8315cdc9bba1c17&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="750" width="250" height="80" as="geometry" />
+          <mxGeometry x="2370" y="750" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-160" target="HH2wYRoBNFEG0TrBmdT3-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-160" value="Our brand new take on Real User Monitoring: Mlytics Pulse" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2690" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-162" target="HH2wYRoBNFEG0TrBmdT3-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-162" value="视频串流解决方案" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="2690" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-163" target="HH2wYRoBNFEG0TrBmdT3-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-163" value="融合 CDN" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="2690" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-164" target="HH2wYRoBNFEG0TrBmdT3-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-164" value="Hubble" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="2640" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="2690" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-165" value="&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;&lt;div class=&quot;C_USER_ACTIVITY_TABLE_ACTIVITY_DETAIL_ITEM_VALUE&quot;&gt;hubble.mlytics.com/site_mlytics_comparison/result/region/global/d22ec13271694c0489553695ce168a62&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="2600" y="750" width="250" height="80" as="geometry" />
+          <mxGeometry x="2650" y="750" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-170" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="2850" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-171" value="&lt;div&gt;10/23&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="2850" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="HH2wYRoBNFEG0TrBmdT3-172">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2860" y="320" as="targetPoint" />
+            <mxPoint x="2910" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-172" value="Login page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="2850" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-175" value="性能监测工具" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="2850" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-177" value="10/24" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="3060" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-178" value="SAD page" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="3060" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HH2wYRoBNFEG0TrBmdT3-179" value="Organic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="3060" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
