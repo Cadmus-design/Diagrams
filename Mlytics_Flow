@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T06:43:21.066Z" agent="5.0 (Macintosh)" etag="7_ZzMyD0gldZNe7oDCX6" version="20.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-15T06:54:08.999Z" agent="5.0 (Macintosh)" etag="d-nsoU14du8RrnNUHtk9" version="20.6.2" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1418,6 +1418,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-1" target="e6PSxAXLah0mkEtvPuQy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="140" width="120" height="80" as="geometry" />
         </mxCell>
@@ -1433,35 +1436,67 @@
             <mxPoint x="1160" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-5" target="e6PSxAXLah0mkEtvPuQy-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-5" value="Stream tab" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-6" value="Stream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-7" target="e6PSxAXLah0mkEtvPuQy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-7" value="&lt;div&gt;Stream dialogue &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-9" target="e6PSxAXLah0mkEtvPuQy-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-9" value="Upload video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-10" target="e6PSxAXLah0mkEtvPuQy-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-10" value="Add CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-12" value="Asset tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-13" target="e6PSxAXLah0mkEtvPuQy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-13" value="install" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-15" target="e6PSxAXLah0mkEtvPuQy-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="660" />
+              <mxPoint x="530" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-15" value="China RIM and China CDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-16" value="Stream" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-16" value="Name server or CNAME setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-19" target="e6PSxAXLah0mkEtvPuQy-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-19" value="Choose CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-20" value="CTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
