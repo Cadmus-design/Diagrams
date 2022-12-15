@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T08:24:48.173Z" agent="5.0 (Macintosh)" etag="6BPxCI2lRGi79Y80wn8G" version="20.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-15T08:26:57.914Z" agent="5.0 (Macintosh)" etag="oXNyvCu0Lp03oEw5kQZK" version="20.6.2" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1463,7 +1463,7 @@
         <mxCell id="e6PSxAXLah0mkEtvPuQy-10" value="Add CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-26" value="Create" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-9">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-26" value="upload" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-33">
@@ -1495,7 +1495,7 @@
         <mxCell id="e6PSxAXLah0mkEtvPuQy-16" value="Name server or CNAME setting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-32" value="Finish create or finish edit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-20" target="e6PSxAXLah0mkEtvPuQy-12">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-32" value="Finish upload or finish edit" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-20" target="e6PSxAXLah0mkEtvPuQy-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1190" y="160" />
@@ -1623,10 +1623,10 @@
         <mxCell id="e6PSxAXLah0mkEtvPuQy-80" value="Choose CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-92" value="&lt;div&gt;Asset&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-93" value="create stream" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="1090" />
@@ -1634,7 +1634,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-94" value="edit stream" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-90" target="e6PSxAXLah0mkEtvPuQy-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="520" y="1040" />
