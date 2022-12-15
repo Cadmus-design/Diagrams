@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T06:58:31.395Z" agent="5.0 (Macintosh)" etag="9HsVoQKyS0fctvUIjNNg" version="20.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-15T07:05:46.952Z" agent="5.0 (Macintosh)" etag="alCz-rKu36Fo_jOxIR-y" version="20.6.2" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1414,7 +1414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yaDllosn5E4flEGbP2fj" name="Stream Flow">
-    <mxGraphModel dx="1501" dy="837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1466,7 +1466,7 @@
         <mxCell id="e6PSxAXLah0mkEtvPuQy-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e6PSxAXLah0mkEtvPuQy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-33">
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="e6PSxAXLah0mkEtvPuQy-12" target="e6PSxAXLah0mkEtvPuQy-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-12" value="&lt;div&gt;Asset &lt;br&gt;&lt;/div&gt;&lt;div&gt;tab&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1522,6 +1522,18 @@
         </mxCell>
         <mxCell id="e6PSxAXLah0mkEtvPuQy-33" value="&lt;div&gt;Live streams&lt;br&gt;&lt;/div&gt;&lt;div&gt;tab&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-35" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="780" as="sourcePoint" />
+            <mxPoint x="130" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-37" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="820" as="sourcePoint" />
+            <mxPoint x="130" y="820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
