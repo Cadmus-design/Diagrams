@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T07:05:46.952Z" agent="5.0 (Macintosh)" etag="alCz-rKu36Fo_jOxIR-y" version="20.6.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-12-15T07:10:17.559Z" agent="5.0 (Macintosh)" etag="3YuWKOegSHNL1747oqSv" version="20.6.2" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1534,6 +1534,21 @@
             <mxPoint x="70" y="820" as="sourcePoint" />
             <mxPoint x="130" y="820" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-39" value="Action" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-40" value="Stream name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="e6PSxAXLah0mkEtvPuQy-39">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-41" value="Protocol" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="e6PSxAXLah0mkEtvPuQy-39">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-42" value="Origin server (as CDN)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="e6PSxAXLah0mkEtvPuQy-39">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e6PSxAXLah0mkEtvPuQy-43" value="Add CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
