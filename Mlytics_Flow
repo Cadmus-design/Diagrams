@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T10:05:33.750Z" agent="5.0 (Macintosh)" etag="qna9zbXhhrqvy2GyNpB-" version="20.8.18" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-02-15T10:14:03.401Z" agent="5.0 (Macintosh)" etag="bIfPR4hlSJuM5mEc-ZUD" version="20.8.18" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1674" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1682,7 +1682,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9T1TKd-5eafFIvfwSSSM" name="SNEAKER-1123">
+  <diagram id="9T1TKd-5eafFIvfwSSSM" name="SNEAKER-1125">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -1690,7 +1690,7 @@
         <mxCell id="viEN8frTyaupLGXQLAei-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="100" as="sourcePoint" />
-            <mxPoint x="870" y="100" as="targetPoint" />
+            <mxPoint x="1170" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A4vqs7xZaVoM9jyAy4WY-1" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1706,7 +1706,7 @@
           <mxGeometry x="570" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0vx4XEMUfQYeemTXTDOX-1" value="result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-1" target="vFJQzGO3dM1O6iwfRS9G-2">
           <mxGeometry relative="1" as="geometry" />
@@ -1720,17 +1720,66 @@
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-2" value="2nd lv menu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-3" target="vFJQzGO3dM1O6iwfRS9G-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-3" value="upload" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-11" target="vFJQzGO3dM1O6iwfRS9G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-11" value="drag files to upload" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-12" target="vFJQzGO3dM1O6iwfRS9G-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-12" value="browse local files to upload" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vFJQzGO3dM1O6iwfRS9G-13" value="URL upload" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="570" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-14" target="vFJQzGO3dM1O6iwfRS9G-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-14" target="vFJQzGO3dM1O6iwfRS9G-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-14" value="&lt;div&gt;同時上傳&lt;/div&gt;&lt;div&gt;小於5個 檔案&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-15" target="vFJQzGO3dM1O6iwfRS9G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-15" target="vFJQzGO3dM1O6iwfRS9G-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-19" target="vFJQzGO3dM1O6iwfRS9G-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vFJQzGO3dM1O6iwfRS9G-19" target="vFJQzGO3dM1O6iwfRS9G-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-19" value="&lt;div&gt;同時上傳&lt;/div&gt;超過5個 檔案" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-22" value="等候上傳檔案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-26" value="&lt;div&gt;原先小於 5個&lt;/div&gt;&lt;div&gt;上傳檔案繼續上傳，&lt;/div&gt;&lt;div&gt;新增加的上傳檔案&lt;/div&gt;&lt;div&gt;出現視窗提示&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vFJQzGO3dM1O6iwfRS9G-27" value="&lt;div&gt;超過 5個&lt;/div&gt;上傳檔案&lt;div&gt;出現視窗提示&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="430" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
