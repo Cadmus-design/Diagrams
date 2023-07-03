@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T10:12:14.428Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="vFS3jENajTWfvZu6TwFu" version="21.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-03T02:36:24.483Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="mptyczXbz3FFblGjGiW4" version="21.5.2" type="github" pages="8">
   <diagram id="D3Mrw4YArv7A3rUDsQ-K" name="data mining">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -894,6 +894,18 @@
         </mxCell>
         <mxCell id="tZto52jyCRurcRg5fPjb-14" value="Select domain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZto52jyCRurcRg5fPjb-15" value="Mlytics Home" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZto52jyCRurcRg5fPjb-16" value="Multi CDN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZto52jyCRurcRg5fPjb-17" value="Custom page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tZto52jyCRurcRg5fPjb-18" value="Add custoom page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
