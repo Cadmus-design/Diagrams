@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T09:59:40.159Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="TA9T8wJJ8IUlSKVLLHOr" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-11T10:00:00.696Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="z-EevimPdGO76eGaPDA1" version="21.5.2" type="github" pages="11">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2177,6 +2177,9 @@
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-39" value="&lt;div&gt;3.&lt;/div&gt;&lt;div&gt;Add payment&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-42" value="Platform" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
