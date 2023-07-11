@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T09:38:24.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="T2YNcSWX7lRHbrFql1Pj" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-11T09:49:48.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="OEWu7KbMS73DQM9Rwe6K" version="21.5.2" type="github" pages="11">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2129,6 +2129,9 @@
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-21" value="&lt;div&gt;login &lt;br&gt;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-25" value="Sign up confirm pageview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
