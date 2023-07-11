@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T09:49:48.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="OEWu7KbMS73DQM9Rwe6K" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-11T09:58:45.854Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="kw5YKt5VTcYqg9m3uk7H" version="21.5.2" type="github" pages="11">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2064,14 +2064,14 @@
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="80" as="sourcePoint" />
-            <mxPoint x="820" y="80" as="targetPoint" />
+            <mxPoint x="1640" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-3" value="Website" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-4" value="Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="10" width="1120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-5" target="FvTCi2nVKw4-BQxa-LwH-8">
           <mxGeometry relative="1" as="geometry" />
@@ -2091,7 +2091,7 @@
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-8" target="FvTCi2nVKw4-BQxa-LwH-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FvTCi2nVKw4-BQxa-LwH-8" value="Try it free" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-8" value="1. Try it free" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-12" target="FvTCi2nVKw4-BQxa-LwH-14">
@@ -2109,10 +2109,16 @@
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-12" value="Portal sign up page" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FvTCi2nVKw4-BQxa-LwH-14" value="&lt;div&gt;Sign up&amp;nbsp;&lt;/div&gt;&lt;div&gt;with email&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-14" target="FvTCi2nVKw4-BQxa-LwH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-14" value="2-a. &lt;br&gt;&lt;div&gt;Sign up&amp;nbsp;&lt;/div&gt;&lt;div&gt;with email&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FvTCi2nVKw4-BQxa-LwH-15" value="&lt;div&gt;Sign up&amp;nbsp;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-15" target="FvTCi2nVKw4-BQxa-LwH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-15" value="2-b.&lt;div&gt;Sign up&amp;nbsp;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-17" target="FvTCi2nVKw4-BQxa-LwH-19">
@@ -2127,11 +2133,50 @@
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-19" value="Portal login pages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-21" target="FvTCi2nVKw4-BQxa-LwH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvTCi2nVKw4-BQxa-LwH-21" value="&lt;div&gt;login &lt;br&gt;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FvTCi2nVKw4-BQxa-LwH-25" value="Sign up confirm pageview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-25" target="FvTCi2nVKw4-BQxa-LwH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-25" value="&lt;div&gt;google&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sign up page&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-27" target="FvTCi2nVKw4-BQxa-LwH-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-27" value="&lt;div&gt;2-c.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sign up&amp;nbsp;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="840" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-29" target="FvTCi2nVKw4-BQxa-LwH-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-29" value="Add payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-36" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-30" target="FvTCi2nVKw4-BQxa-LwH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-38" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-30" target="FvTCi2nVKw4-BQxa-LwH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-30" value="Stream users" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-35" value="&lt;div&gt;4-a&lt;br&gt;&lt;/div&gt;&lt;div&gt;Portal sign up page&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-37" value="4-b.&lt;br&gt;&lt;div&gt;Add site process&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FvTCi2nVKw4-BQxa-LwH-39" target="FvTCi2nVKw4-BQxa-LwH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvTCi2nVKw4-BQxa-LwH-39" value="&lt;div&gt;3.&lt;/div&gt;&lt;div&gt;Add payment&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
