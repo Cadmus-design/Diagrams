@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-04T09:47:01.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="JaQdJIDc-WvOYP2fRSAw" version="21.6.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-08-04T09:48:58.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="t29t4Mtu1WUQnR7Gbr9U" version="21.6.6" type="github" pages="12">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Mindmap">
     <mxGraphModel dx="2074" dy="1142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -2212,7 +2212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BAUnjFkXVvgPLaTaHH7b" name="GA4 for new sign up flow">
-    <mxGraphModel dx="2019" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="2102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2280,7 +2280,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BdSfSjzeLuH3Lel0TVDa-23" value="&lt;div&gt;login &lt;br&gt;&lt;/div&gt;&lt;div&gt;with google&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="584" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="600" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BdSfSjzeLuH3Lel0TVDa-25" value="&lt;div&gt;google&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sign up page&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="720" y="519" width="150" height="190" as="geometry" />
@@ -2422,6 +2422,9 @@
         </mxCell>
         <mxCell id="BdSfSjzeLuH3Lel0TVDa-77" value="&lt;div&gt;Proceed&lt;/div&gt;&lt;div&gt;(no need to&amp;nbsp;&lt;/div&gt;&lt;div&gt;track)&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#FFFFFF;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="1370" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qu1lVLqnb-koer8BeVEk-1" value="{User has no account}" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="560" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
