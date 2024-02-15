@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T06:59:21.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="6q8iC71CqgOk_xX8FRgH" version="23.1.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-02-15T07:20:24.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:123.0) Gecko/20100101 Firefox/123.0" etag="moTWFGnOwKTndCyh9vMJ" version="23.1.4" type="github" pages="11">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1895,8 +1895,8 @@
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="108.82" y="739" as="sourcePoint" />
-            <mxPoint x="108.82" y="689" as="targetPoint" />
+            <mxPoint x="110" y="751" as="sourcePoint" />
+            <mxPoint x="108.82" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-14" value="日期" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1912,25 +1912,97 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-18" value="AES POC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="650" width="195" height="60" as="geometry" />
+          <mxGeometry x="120" y="650" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-19" value="AES develope" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="280" height="60" as="geometry" />
+          <mxGeometry x="375" y="650" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-20" value="AES QA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="650" width="160" height="60" as="geometry" />
+          <mxGeometry x="655" y="650" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-21" value="AES UXUI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="585" width="240" height="60" as="geometry" />
+          <mxGeometry x="305" y="585" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-22" value="AES environment (UAT PROD)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="440" height="60" as="geometry" />
+          <mxGeometry x="375" y="520" width="440" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-23" value="AES implement" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="650" width="160" height="60" as="geometry" />
+          <mxGeometry x="815" y="650" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tHg5QERcoiYFev3KP7AN-24" value="AES regression test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="650" width="160" height="60" as="geometry" />
+          <mxGeometry x="975" y="650" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="778" as="sourcePoint" />
+            <mxPoint x="120" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-27" value="2 / ?" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1070" y="778" as="sourcePoint" />
+            <mxPoint x="1070" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-30" value="日期未知" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-31" value="AES開發的任務需另外評估，因進行評估也需要中斷目前任務投入3-5個工作天密集討論，而目前人力在開發項目上會需要以 DMI 2月底交付，Open API for integration，以及 Akamai AMD/DD 的 完善為主，要評估工時，也無法在2月底前完成。" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="250" y="820" width="690" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-32" value="AES evaluate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="650" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="776" as="sourcePoint" />
+            <mxPoint x="285" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-34" value="X days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-35" value="3-5 days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="776" as="sourcePoint" />
+            <mxPoint x="375" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-39" value="y days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655" y="776" as="sourcePoint" />
+            <mxPoint x="655" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-41" value="10 days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-42" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="776" as="sourcePoint" />
+            <mxPoint x="815" y="718" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-43" value="3-5 days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="740" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-44" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="975" y="778" as="sourcePoint" />
+            <mxPoint x="975" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tHg5QERcoiYFev3KP7AN-45" value="1-2 days" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="742" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
