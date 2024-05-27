@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T06:29:32.994Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="rhTA7xQGRdguO75X1JN5" version="24.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:29:53.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="dZKPlXTBAMOoqbxh-HAC" version="24.4.8" type="github" pages="2">
   <diagram id="1KbhKDzbHeSJ5B4RdYwa" name="transcoder_streamer">
     <mxGraphModel dx="1793" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="zI27R4wn_CRpD_6jLDSG-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="1150" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="zI27R4wn_CRpD_6jLDSG-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-85" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#006666;strokeColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="732" y="50" width="243" height="670" as="geometry" />
         </mxCell>
         <mxCell id="zI27R4wn_CRpD_6jLDSG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E6E6E6;" edge="1" parent="1" source="_gu4nf4v70kEcznODloV-2" target="4mUheKU-dluLhkkH6MsR-2">
