@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T06:29:53.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="dZKPlXTBAMOoqbxh-HAC" version="24.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T06:31:33.120Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="2SWjGbCGrE_asGtT01aW" version="24.4.8" type="github" pages="2">
   <diagram id="1KbhKDzbHeSJ5B4RdYwa" name="transcoder_streamer">
     <mxGraphModel dx="1793" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
         <mxCell id="zI27R4wn_CRpD_6jLDSG-69" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;strokeColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="935" y="413" width="50" height="277" as="geometry" />
         </mxCell>
-        <mxCell id="zI27R4wn_CRpD_6jLDSG-70" value="config" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-70" value="config" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="445" y="380" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zI27R4wn_CRpD_6jLDSG-76" value="dmipush" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#E6E6E6;fontColor=#FFFFFF;" vertex="1" parent="1">
@@ -225,13 +225,13 @@
         <mxCell id="zI27R4wn_CRpD_6jLDSG-79" value="dmipull" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#E6E6E6;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="115" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zI27R4wn_CRpD_6jLDSG-81" value="VOD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-81" value="VOD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="375" y="610" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zI27R4wn_CRpD_6jLDSG-82" value="VOD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-82" value="VOD" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="245" y="450" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zI27R4wn_CRpD_6jLDSG-83" value="config" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-83" value="config" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#E6E6E6;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="315" y="449" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zI27R4wn_CRpD_6jLDSG-89" value="Migrate without downtime ?" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#E6E6E6;" vertex="1" parent="1">
