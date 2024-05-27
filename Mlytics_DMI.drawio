@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T02:14:50.105Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="IFWP6lmNRZw8A8coooqZ" version="24.4.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-27T02:15:55.931Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="jsmErjJcFIQg3CRG2AlK" version="24.4.8" type="github" pages="2">
   <diagram id="1KbhKDzbHeSJ5B4RdYwa" name="transcoder_streamer">
     <mxGraphModel dx="658" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="4mUheKU-dluLhkkH6MsR-11" value="Transcoder 3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zI27R4wn_CRpD_6jLDSG-1" value="dmipush" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="558" width="120" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
