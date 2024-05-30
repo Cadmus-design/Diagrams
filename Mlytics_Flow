@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T07:58:05.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Yo3lhbzUPg-yofxkeeb7" version="24.4.8" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:04:55.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:127.0) Gecko/20100101 Firefox/127.0" etag="29zxNMJLe4M17WTqluMZ" version="24.4.8" type="github" pages="12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2128,6 +2128,27 @@
         </mxCell>
         <mxCell id="JdwYAWqxf5xmQKBNnE3E-36" value="&lt;div&gt;Mlytics partner&lt;/div&gt;&lt;div&gt;portal&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFE6CC;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-38" value="&lt;p data-renderer-start-pos=&quot;274&quot;&gt;Login as&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-39" value="&lt;p data-renderer-start-pos=&quot;302&quot;&gt;Update&amp;nbsp;&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;302&quot;&gt;free credit&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;274&quot;&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-40" value="&lt;p data-renderer-start-pos=&quot;355&quot;&gt;Update&amp;nbsp;&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;355&quot;&gt;credit limit&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;274&quot;&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-41" value="&lt;p data-renderer-start-pos=&quot;393&quot;&gt;Sync Chargebee&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;274&quot;&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-42" value="&lt;p data-renderer-start-pos=&quot;440&quot;&gt;Suspend Customer&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;274&quot;&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-43" value="&lt;p data-renderer-start-pos=&quot;478&quot;&gt;Activate&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;478&quot;&gt;Customer&lt;/p&gt;&lt;p data-renderer-start-pos=&quot;274&quot;&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JdwYAWqxf5xmQKBNnE3E-44" value="Send Invitation" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
