@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T05:58:43.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="pMS6wBkyIzn7kDV2crtt" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T06:00:00.806Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:128.0) Gecko/20100101 Firefox/128.0" etag="ubAFb3tUyowLU4u4W0P7" version="24.6.4" type="github">
   <diagram name="第 1 页" id="LZ5Ib-XKXefDqkbRXiGa">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WXuH-bFewpUDQMmmI7yl-1" value="&lt;div&gt;NAS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[ iTunes library ]&lt;/div&gt;&lt;div&gt;[.Plex library ]&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="411.43" y="280" width="120" height="180" as="geometry" />
+          <mxGeometry x="460" y="280" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="WXuH-bFewpUDQMmmI7yl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-3" target="WXuH-bFewpUDQMmmI7yl-19">
+        <mxCell id="WXuH-bFewpUDQMmmI7yl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-3" target="WXuH-bFewpUDQMmmI7yl-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-3" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.phone_android" vertex="1" parent="1">
-          <mxGeometry x="710" y="85" width="56" height="100" as="geometry" />
+          <mxGeometry x="820" y="85" width="56" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-12" value="Sync library" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;endArrow=classic;endFill=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-4" target="WXuH-bFewpUDQMmmI7yl-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-4" value="iTunes" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.note;pointerEvents=1" vertex="1" parent="1">
-          <mxGeometry x="220.14999999999998" y="200" width="29.7" height="29.7" as="geometry" />
+          <mxGeometry x="220.14999999999998" y="120.14999999999999" width="29.7" height="29.7" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-9" value="320 Kbps m4r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-6" target="WXuH-bFewpUDQMmmI7yl-1">
           <mxGeometry x="-0.2727" relative="1" as="geometry">
@@ -36,26 +36,26 @@
         <mxCell id="WXuH-bFewpUDQMmmI7yl-7" value="CD" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cd_dvd.svg;" vertex="1" parent="1">
           <mxGeometry x="185" y="460" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WXuH-bFewpUDQMmmI7yl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-10" target="WXuH-bFewpUDQMmmI7yl-13">
+        <mxCell id="WXuH-bFewpUDQMmmI7yl-16" value="DATA SYNC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;startArrow=classic;startFill=1;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-10" target="WXuH-bFewpUDQMmmI7yl-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-10" value="iTune cloud" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="388.57" y="90" width="142.86" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WXuH-bFewpUDQMmmI7yl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-13" target="WXuH-bFewpUDQMmmI7yl-3">
+        <mxCell id="WXuH-bFewpUDQMmmI7yl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-13" target="WXuH-bFewpUDQMmmI7yl-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WXuH-bFewpUDQMmmI7yl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-13" target="WXuH-bFewpUDQMmmI7yl-15">
+        <mxCell id="WXuH-bFewpUDQMmmI7yl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" edge="1" parent="1" source="WXuH-bFewpUDQMmmI7yl-13" target="WXuH-bFewpUDQMmmI7yl-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-13" value="Stream" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.stream2;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="580" y="105" width="60" height="60" as="geometry" />
+          <mxGeometry x="630" y="105" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-15" value="" style="image;html=1;image=img/lib/clip_art/computers/IBM_Tablet_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="700" y="229.7" width="130" height="130" as="geometry" />
+          <mxGeometry x="810" y="229.7" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="WXuH-bFewpUDQMmmI7yl-19" value="" style="shape=mxgraph.signs.transportation.car_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="850" y="116" width="99" height="38" as="geometry" />
+          <mxGeometry x="960" y="116" width="99" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
