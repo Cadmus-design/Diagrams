@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-09-02T09:34:44.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" etag="vE9cJ8lPpw8JH9c24ZTi" version="24.6.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-09-03T08:57:46.011Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:130.0) Gecko/20100101 Firefox/130.0" etag="yI1LaQ3mxBzSePHyz5Eg" version="24.6.4" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2148,10 +2148,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IgTZ-u0d4u_KWb2A4BT-" name="Roadmap structure 2024 Q4">
-    <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQIsCBp4aOa4p71OqDMU-1" target="YQIsCBp4aOa4p71OqDMU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-1" value="OPPO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-2" value="合約簽署對象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQIsCBp4aOa4p71OqDMU-4" target="YQIsCBp4aOa4p71OqDMU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-4" value="華為" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQIsCBp4aOa4p71OqDMU-5" target="YQIsCBp4aOa4p71OqDMU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-5" value="競信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQIsCBp4aOa4p71OqDMU-6" target="YQIsCBp4aOa4p71OqDMU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-6" value="東莞移動" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YQIsCBp4aOa4p71OqDMU-7" target="YQIsCBp4aOa4p71OqDMU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-7" value="CMI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQIsCBp4aOa4p71OqDMU-8" value="Mlytics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
