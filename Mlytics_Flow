@@ -2299,10 +2299,10 @@
           <mxGeometry x="1930" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U9XPbeVf2N8TWZTx5ZZF-47" value="tmp" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="1754" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U9XPbeVf2N8TWZTx5ZZF-48" value="zip" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="40" width="100" height="60" as="geometry" />
+          <mxGeometry x="1880" y="40" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
