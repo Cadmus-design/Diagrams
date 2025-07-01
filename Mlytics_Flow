@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.7.17" pages="15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:141.0) Gecko/20100101 Firefox/141.0" version="27.2.0" pages="16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Schedule a demo flow">
     <mxGraphModel dx="1434" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2389,6 +2389,93 @@
         </mxCell>
         <mxCell id="NaALv15RGtWmUSYRiktq-22" value="GCP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wGpC2ie8wsSo30nDzD57" name="Okta SSO">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="760" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-4" value="Okta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-8" value="Authorization Server" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="620" y="174" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-10" value="Daashboard" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard.svg;" vertex="1" parent="1">
+          <mxGeometry x="196" y="190" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="760" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-12" value="Mlytics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="436" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-13" value="Portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-15" value="Backend APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="225" y="560" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="386" width="425" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-23" value="2. Redirect OIDC" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-17" target="6iTUvaLw0Op4VJNrPXfd-8">
+          <mxGeometry x="0.1832" y="30" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-25" value="4. Verify code" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-17" target="6iTUvaLw0Op4VJNrPXfd-8">
+          <mxGeometry x="0.2742" y="-10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="436" />
+              <mxPoint x="810" y="214" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-27" value="6. Redirect with JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-17" target="6iTUvaLw0Op4VJNrPXfd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-17" value="Auth APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="635" y="406" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-18" value="Account APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="635" y="550" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-2" target="6iTUvaLw0Op4VJNrPXfd-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-2" value="Meta user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-22" value="1. Login request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-10" target="6iTUvaLw0Op4VJNrPXfd-17">
+          <mxGeometry x="-0.117" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="214" />
+              <mxPoint x="470" y="436" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-24" value="3. Success Authoruzation" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-8" target="6iTUvaLw0Op4VJNrPXfd-17">
+          <mxGeometry x="-0.1832" y="50" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-26" value="5. id token/user info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.72;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-8" target="6iTUvaLw0Op4VJNrPXfd-17">
+          <mxGeometry x="0.0374" y="30" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="194" />
+              <mxPoint x="880" y="454" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
