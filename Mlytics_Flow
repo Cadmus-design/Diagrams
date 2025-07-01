@@ -2554,23 +2554,41 @@
         <mxCell id="5Mj06AV9izJF5SNzxAqN-11" value="1. login Okta" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="250" as="sourcePoint" />
-            <mxPoint x="340" y="250" as="targetPoint" />
+            <mxPoint x="310" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Mj06AV9izJF5SNzxAqN-12" value="Okta dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5Mj06AV9izJF5SNzxAqN-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="339.5" y="680" as="sourcePoint" />
-            <mxPoint x="339.5" y="180" as="targetPoint" />
+            <mxPoint x="309.5" y="680" as="sourcePoint" />
+            <mxPoint x="309.5" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5Mj06AV9izJF5SNzxAqN-14" value="2. click Mlytics icon" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="270" as="sourcePoint" />
+            <mxPoint x="310" y="270" as="sourcePoint" />
             <mxPoint x="510" y="270" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Mj06AV9izJF5SNzxAqN-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="300" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Mj06AV9izJF5SNzxAqN-16" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Mj06AV9izJF5SNzxAqN-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
