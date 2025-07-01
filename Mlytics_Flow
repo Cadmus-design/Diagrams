@@ -2394,7 +2394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGpC2ie8wsSo30nDzD57" name="Okta SSO">
-    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2439,20 +2439,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6iTUvaLw0Op4VJNrPXfd-27" value="6. Redirect with JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-17" target="6iTUvaLw0Op4VJNrPXfd-13">
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-27" value="6. Redirect with JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-17" target="6iTUvaLw0Op4VJNrPXfd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6iTUvaLw0Op4VJNrPXfd-17" value="Auth APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="635" y="406" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6iTUvaLw0Op4VJNrPXfd-18" value="Account APIs" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="635" y="550" width="50" height="48" as="geometry" />
+          <mxGeometry x="635" y="560" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="6iTUvaLw0Op4VJNrPXfd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-2" target="6iTUvaLw0Op4VJNrPXfd-10">
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-2" target="6iTUvaLw0Op4VJNrPXfd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6iTUvaLw0Op4VJNrPXfd-2" value="Meta user" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6iTUvaLw0Op4VJNrPXfd-22" value="1. Login request" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-10" target="6iTUvaLw0Op4VJNrPXfd-17">
           <mxGeometry x="-0.117" y="10" relative="1" as="geometry">
@@ -2476,6 +2476,27 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-29" value="7. Use JWT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.9;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-13" target="6iTUvaLw0Op4VJNrPXfd-15">
+          <mxGeometry x="-0.2187" y="-30" relative="1" as="geometry">
+            <mxPoint x="30" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-30" value="8. Verify permissions" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-15" target="6iTUvaLw0Op4VJNrPXfd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-31" value="9. Success Authorization" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.28;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.72;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-18" target="6iTUvaLw0Op4VJNrPXfd-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="652" y="657.49" as="sourcePoint" />
+            <mxPoint x="264" y="657.49" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="652" y="607" />
+              <mxPoint x="264" y="608" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6iTUvaLw0Op4VJNrPXfd-32" value="&lt;div&gt;10. data&amp;nbsp;&lt;/div&gt;&lt;div&gt;fetched&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.328;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#0000FF;" edge="1" parent="1" source="6iTUvaLw0Op4VJNrPXfd-15" target="6iTUvaLw0Op4VJNrPXfd-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
