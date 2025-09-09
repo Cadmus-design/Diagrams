@@ -1576,12 +1576,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Sn_twqQzCGzgraTwe2vr" name="C2G ">
-    <mxGraphModel dx="815" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YkQpBiCqASWyrfVu_BIi-1" value="實現路徑：" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="110" height="30" as="geometry" />
+          <mxGeometry x="40" y="97" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YkQpBiCqASWyrfVu_BIi-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.381;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.32;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YkQpBiCqASWyrfVu_BIi-3" target="YkQpBiCqASWyrfVu_BIi-4">
           <mxGeometry relative="1" as="geometry" />
