@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.5">
   <diagram name="第 1 页" id="7KOVuoNR6yLcS_YiWcBr">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sAVfpXOolL90ge-oOt5B-1" value="GTM 團隊發起客戶帳號停用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="50" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-2" value="&lt;div&gt;建立 客戶帳號&lt;/div&gt;&lt;div&gt;停用的JIRA 工單&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-3" target="sAVfpXOolL90ge-oOt5B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-3" target="sAVfpXOolL90ge-oOt5B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-3" value="工單資訊完整性檢查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-4" target="sAVfpXOolL90ge-oOt5B-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-4" value="重新填寫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-5" value="&lt;div&gt;確保停用流程&lt;/div&gt;&lt;div&gt;一張工單一個客戶&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="414" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-9" value="&lt;div&gt;確認&lt;/div&gt;&lt;div&gt;帳號資訊正確性&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-10" value="&lt;div&gt;GTM 再次確認&lt;/div&gt;&lt;div&gt;帳號正確性&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="285" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-11" value="請GTM 重新填寫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="295" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
