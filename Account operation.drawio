@@ -4,13 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sAVfpXOolL90ge-oOt5B-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-1" target="sAVfpXOolL90ge-oOt5B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sAVfpXOolL90ge-oOt5B-1" value="GTM 團隊發起客戶帳號停用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="50" width="170" height="80" as="geometry" />
+          <mxGeometry x="150" y="30" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-2" target="sAVfpXOolL90ge-oOt5B-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sAVfpXOolL90ge-oOt5B-2" value="&lt;div&gt;建立 客戶帳號&lt;/div&gt;&lt;div&gt;停用的JIRA 工單&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sAVfpXOolL90ge-oOt5B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-3" target="sAVfpXOolL90ge-oOt5B-4">
+        <mxCell id="sAVfpXOolL90ge-oOt5B-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-3" target="sAVfpXOolL90ge-oOt5B-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sAVfpXOolL90ge-oOt5B-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-3" target="sAVfpXOolL90ge-oOt5B-5">
@@ -18,13 +24,6 @@
         </mxCell>
         <mxCell id="sAVfpXOolL90ge-oOt5B-3" value="工單資訊完整性檢查" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="290" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="sAVfpXOolL90ge-oOt5B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-4" target="sAVfpXOolL90ge-oOt5B-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="210" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="sAVfpXOolL90ge-oOt5B-4" value="重新填寫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="295" width="120" height="60" as="geometry" />
