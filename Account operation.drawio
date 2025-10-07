@@ -112,8 +112,14 @@
         <mxCell id="sAVfpXOolL90ge-oOt5B-33" value="Product 執行 suspend 帳戶作業" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sAVfpXOolL90ge-oOt5B-36" value="&lt;div&gt;Product 確認&lt;/div&gt;&lt;div&gt;客戶帳戶 Pause 成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sAVfpXOolL90ge-oOt5B-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sAVfpXOolL90ge-oOt5B-36" target="sAVfpXOolL90ge-oOt5B-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-36" value="&lt;div&gt;Product 確認&lt;/div&gt;&lt;div&gt;客戶帳號 suspend 成功&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="330" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sAVfpXOolL90ge-oOt5B-39" value="&lt;div&gt;完成作業，回覆 GTM&amp;nbsp;&lt;/div&gt;&lt;div&gt;客戶帳號停用完成&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="430" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
