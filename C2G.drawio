@@ -118,10 +118,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rfGW7l7K45J85RhH1_x_" name="第 2 页">
-    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1570" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S-d44Twx8Tk8yZ1dI5Ju-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="1250" height="1020" as="geometry" />
+        </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-99" value="Multi-CDN Traffic API 整合架構" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="640" y="390" width="430" height="40" as="geometry" />
         </mxCell>
@@ -146,32 +149,23 @@
         <mxCell id="NWe40YDavx-3O5DiC_-B-106" value="Tencent CDN&lt;br&gt;Traffic API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#FF0000;fontSize=12;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-104">
           <mxGeometry x="580" y="40" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="S-d44Twx8Tk8yZ1dI5Ju-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=light-dark(#FFFFFF,#FF9999);" edge="1" parent="NWe40YDavx-3O5DiC_-B-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499.76" y="110" as="sourcePoint" />
+            <mxPoint x="499.76" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-107" value="Mlytics 數據處理層" style="swimlane;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="350" y="880" width="1000" height="320" as="geometry" />
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-108" value="API Gateway&lt;br&gt;統一入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;strokeColor=#666666;fontSize=12;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-107">
           <mxGeometry x="420" y="40" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-109" value="數據收集" style="swimlane;whiteSpace=wrap;html=1;fillColor=#E8F5E9;strokeColor=#4CAF50;fontSize=12;fontStyle=1" vertex="1" parent="NWe40YDavx-3O5DiC_-B-107">
-          <mxGeometry x="40" y="120" width="300" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-110" value="Akamai Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#4CAF50;fontSize=11;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-109">
-          <mxGeometry x="10" y="35" width="130" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-111" value="Tencent Collector" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C8E6C9;strokeColor=#4CAF50;fontSize=11;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-109">
-          <mxGeometry x="155" y="35" width="130" height="35" as="geometry" />
-        </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-112" value="數據轉換" style="swimlane;whiteSpace=wrap;html=1;fillColor=#FFF9C4;strokeColor=#FBC02D;fontSize=12;fontStyle=1" vertex="1" parent="NWe40YDavx-3O5DiC_-B-107">
           <mxGeometry x="380" y="120" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-113" value="Common Schema&lt;br&gt;Transformer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF59D;strokeColor=#FBC02D;fontSize=11;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-112">
           <mxGeometry x="40" y="35" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-114" value="數據存儲" style="swimlane;whiteSpace=wrap;html=1;fillColor=#F0E1FF;strokeColor=#9C27B0;fontSize=12;fontStyle=1" vertex="1" parent="NWe40YDavx-3O5DiC_-B-107">
-          <mxGeometry x="660" y="120" width="300" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-115" value="ClickHouse&lt;br&gt;時序數據庫" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1BEE7;strokeColor=#9C27B0;fontSize=11;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-114">
-          <mxGeometry x="70" y="35" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-116" value="API 服務" style="swimlane;whiteSpace=wrap;html=1;fillColor=#E1FFE1;strokeColor=#4CAF50;fontSize=12;fontStyle=1" vertex="1" parent="NWe40YDavx-3O5DiC_-B-107">
           <mxGeometry x="360" y="220" width="280" height="80" as="geometry" />
@@ -203,36 +197,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4CAF50;dashed=1;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-105" target="NWe40YDavx-3O5DiC_-B-110">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-125" value="流量數據" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NWe40YDavx-3O5DiC_-B-124">
-          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4CAF50;dashed=1;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-106" target="NWe40YDavx-3O5DiC_-B-111">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-127" value="流量數據" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NWe40YDavx-3O5DiC_-B-126">
-          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-110" target="NWe40YDavx-3O5DiC_-B-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-111" target="NWe40YDavx-3O5DiC_-B-113">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#9C27B0;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-113" target="NWe40YDavx-3O5DiC_-B-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-131" value="標準化數據" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NWe40YDavx-3O5DiC_-B-130">
-          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#0066CC;dashed=1;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-101" target="NWe40YDavx-3O5DiC_-B-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -248,14 +212,6 @@
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4CAF50;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-108" target="NWe40YDavx-3O5DiC_-B-117">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#9C27B0;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-117" target="NWe40YDavx-3O5DiC_-B-115">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-136" value="聚合查詢" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="NWe40YDavx-3O5DiC_-B-135">
-          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4CAF50;dashed=1;" edge="1" parent="1" source="NWe40YDavx-3O5DiC_-B-117" target="NWe40YDavx-3O5DiC_-B-101">
           <mxGeometry relative="1" as="geometry">
@@ -284,12 +240,6 @@
         </mxCell>
         <mxCell id="NWe40YDavx-3O5DiC_-B-143" value="數據收集" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-139">
           <mxGeometry x="90" y="50" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-144" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#9C27B0;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-139">
-          <mxGeometry x="20" y="75" width="60" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="NWe40YDavx-3O5DiC_-B-145" value="數據查詢" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="NWe40YDavx-3O5DiC_-B-139">
-          <mxGeometry x="90" y="70" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
