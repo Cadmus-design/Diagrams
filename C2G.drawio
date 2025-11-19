@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="28.2.8" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="28.2.8" pages="8">
   <diagram name="第 1 页" id="D1RUgCIsTHPNFqiDUUMz">
     <mxGraphModel dx="989" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -380,82 +380,82 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-195" value="&lt;b style=&#39;font-size: 24px&#39;&gt;������ Cachefly CDN 集成專案時程 (6週快速版)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-195" value="&lt;b style=&#39;font-size: 24px&#39;&gt;������ Cachefly CDN 集成專案時程 (6週快速版)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-196" value="&lt;b&gt;圖例:&lt;/b&gt; ������階段 ������進行中 ������開發中 ������測試中 ������里程碑" style="text;html=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-196" value="&lt;b&gt;圖例:&lt;/b&gt; ������階段 ������進行中 ������開發中 ������測試中 ������里程碑" style="text;html=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="140" y="270" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-197" value="&lt;b&gt;������ Phase 1: 需求+設計+環境 (2週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-197" value="&lt;b&gt;������ Phase 1: 需求+設計+環境 (2週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="1100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-198" value="&lt;b&gt;1.1 需求分析 (含商務)&lt;/b&gt;&lt;br&gt;������ 11/03-11/11 (7天)&lt;br&gt;������ 龍哥" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-198" value="&lt;b&gt;1.1 需求分析 (含商務)&lt;/b&gt;&lt;br&gt;������ 11/03-11/11 (7天)&lt;br&gt;������ 龍哥" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-199" value="&lt;b&gt;1.2 系統設計&lt;/b&gt;&lt;br&gt;������ 11/04-11/12 (7天)&lt;br&gt;������ Henry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-199" value="&lt;b&gt;1.2 系統設計&lt;/b&gt;&lt;br&gt;������ 11/04-11/12 (7天)&lt;br&gt;������ Henry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="410" y="360" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-200" value="&lt;b&gt;1.3 環境準備&lt;/b&gt;&lt;br&gt;������ 11/05-11/14 (8天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-200" value="&lt;b&gt;1.3 環境準備&lt;/b&gt;&lt;br&gt;������ 11/05-11/14 (8天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="360" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-201" value="&lt;b&gt;������ M1: 需求評審通過&lt;/b&gt;&lt;br&gt;������ 11/14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-201" value="&lt;b&gt;������ M1: 需求評審通過&lt;/b&gt;&lt;br&gt;������ 11/14" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="950" y="360" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-202" value="&lt;b&gt;������ Phase 2: 開發階段 (高度並行) (2週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-202" value="&lt;b&gt;������ Phase 2: 開發階段 (高度並行) (2週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="460" width="1100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-203" value="&lt;b&gt;2.1 格式轉換規則&lt;/b&gt;&lt;br&gt;������ 11/17-11/26 (8天)&lt;br&gt;������ 龍哥" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-203" value="&lt;b&gt;2.1 格式轉換規則&lt;/b&gt;&lt;br&gt;������ 11/17-11/26 (8天)&lt;br&gt;������ 龍哥" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
           <mxGeometry x="140" y="510" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-204" value="&lt;b&gt;2.2 S3 拉取模組&lt;/b&gt;&lt;br&gt;������ 11/17-11/26 (8天)&lt;br&gt;������ Henry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-204" value="&lt;b&gt;2.2 S3 拉取模組&lt;/b&gt;&lt;br&gt;������ 11/17-11/26 (8天)&lt;br&gt;������ Henry" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
           <mxGeometry x="410" y="510" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-205" value="&lt;b&gt;2.3 Log Processor 集成&lt;/b&gt;&lt;br&gt;������ 11/24-11/27 (4天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-205" value="&lt;b&gt;2.3 Log Processor 集成&lt;/b&gt;&lt;br&gt;������ 11/24-11/27 (4天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
           <mxGeometry x="680" y="510" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-206" value="&lt;b&gt;2.4 文檔快速版&lt;/b&gt;&lt;br&gt;������ 11/27-11/28 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-206" value="&lt;b&gt;2.4 文檔快速版&lt;/b&gt;&lt;br&gt;������ 11/27-11/28 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c9daf8;strokeColor=#6d9eeb;" vertex="1" parent="1">
           <mxGeometry x="950" y="510" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-207" value="&lt;b&gt;������ M2: 開發完成&lt;/b&gt;&lt;br&gt;������ 11/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-207" value="&lt;b&gt;������ M2: 開發完成&lt;/b&gt;&lt;br&gt;������ 11/28" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1170" y="510" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-208" value="&lt;b&gt;������ Phase 3: QA 測試與修正 (1週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-208" value="&lt;b&gt;������ Phase 3: QA 測試與修正 (1週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="610" width="1100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-209" value="&lt;b&gt;3.1 單元測試驗證&lt;/b&gt;&lt;br&gt;������ 12/01-12/02 (2天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-209" value="&lt;b&gt;3.1 單元測試驗證&lt;/b&gt;&lt;br&gt;������ 12/01-12/02 (2天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
           <mxGeometry x="140" y="660" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-210" value="&lt;b&gt;3.2 集成測試&lt;/b&gt;&lt;br&gt;������ 12/02-12/04 (3天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-210" value="&lt;b&gt;3.2 集成測試&lt;/b&gt;&lt;br&gt;������ 12/02-12/04 (3天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
           <mxGeometry x="410" y="660" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-211" value="&lt;b&gt;3.3 效能測試&lt;/b&gt;&lt;br&gt;������ 12/03-12/05 (3天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-211" value="&lt;b&gt;3.3 效能測試&lt;/b&gt;&lt;br&gt;������ 12/03-12/05 (3天)&lt;br&gt;������ QA團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
           <mxGeometry x="680" y="660" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-212" value="&lt;b&gt;3.4 開發修正 (並行)&lt;/b&gt;&lt;br&gt;������ 12/01-12/05 (5天)&lt;br&gt;������ 開發團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-212" value="&lt;b&gt;3.4 開發修正 (並行)&lt;/b&gt;&lt;br&gt;������ 12/01-12/05 (5天)&lt;br&gt;������ 開發團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ea9999;strokeColor=#cc4125;" vertex="1" parent="1">
           <mxGeometry x="950" y="660" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-213" value="&lt;b&gt;������ M3: 測試驗證通過&lt;/b&gt;&lt;br&gt;������ 12/05" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-213" value="&lt;b&gt;������ M3: 測試驗證通過&lt;/b&gt;&lt;br&gt;������ 12/05" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5a6bd;strokeColor=#a64d79;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1220" y="660" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-214" value="&lt;b&gt;������ Phase 4: 部署上線 (1週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-214" value="&lt;b&gt;������ Phase 4: 部署上線 (1週)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4d90fe;strokeColor=#1a5fb4;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="140" y="760" width="1100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-215" value="&lt;b&gt;4.1 生產環境準備&lt;/b&gt;&lt;br&gt;������ 12/08-12/09 (2天)&lt;br&gt;������ 運維團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-215" value="&lt;b&gt;4.1 生產環境準備&lt;/b&gt;&lt;br&gt;������ 12/08-12/09 (2天)&lt;br&gt;������ 運維團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
           <mxGeometry x="140" y="810" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-216" value="&lt;b&gt;4.2 上線驗證&lt;/b&gt;&lt;br&gt;������ 12/09-12/10 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-216" value="&lt;b&gt;4.2 上線驗證&lt;/b&gt;&lt;br&gt;������ 12/09-12/10 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
           <mxGeometry x="410" y="810" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-217" value="&lt;b&gt;4.3 監控告警配置&lt;/b&gt;&lt;br&gt;������ 12/10-12/11 (2天)&lt;br&gt;������ 運維團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-217" value="&lt;b&gt;4.3 監控告警配置&lt;/b&gt;&lt;br&gt;������ 12/10-12/11 (2天)&lt;br&gt;������ 運維團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
           <mxGeometry x="680" y="810" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-218" value="&lt;b&gt;4.4 最終文檔&lt;/b&gt;&lt;br&gt;������ 12/11-12/12 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-218" value="&lt;b&gt;4.4 最終文檔&lt;/b&gt;&lt;br&gt;������ 12/11-12/12 (2天)&lt;br&gt;������ 團隊" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
           <mxGeometry x="950" y="810" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-219" value="&lt;b&gt;4.5 專案總結&lt;/b&gt;&lt;br&gt;������ 12/12&lt;br&gt;������ PM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-219" value="&lt;b&gt;4.5 專案總結&lt;/b&gt;&lt;br&gt;������ 12/12&lt;br&gt;������ PM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b6d7a8;strokeColor=#6aa84f;" vertex="1" parent="1">
           <mxGeometry x="1220" y="810" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lm9oKPD17I8IJrIdRi_8-220" value="&lt;b&gt;������ M4: 生產上線完成&lt;/b&gt;&lt;br&gt;������ 12/15&lt;br&gt;✅ 專案完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd966;strokeColor=#bf9000;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lm9oKPD17I8IJrIdRi_8-220" value="&lt;b&gt;������ M4: 生產上線完成&lt;/b&gt;&lt;br&gt;������ 12/15&lt;br&gt;✅ 專案完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd966;strokeColor=#bf9000;fontColor=#000000;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="590" y="910" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lm9oKPD17I8IJrIdRi_8-221" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;exitX=0.5;exitY=1;strokeWidth=2;strokeColor=#666666;" edge="1" parent="1" source="lm9oKPD17I8IJrIdRi_8-197" target="lm9oKPD17I8IJrIdRi_8-202">
@@ -475,6 +475,424 @@
             <mxPoint x="690" y="760" as="sourcePoint" />
             <mxPoint x="740" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uKgbgpOgVa1xG_5K2Gzh" name="第 5 页">
+    <mxGraphModel dx="3700" dy="1782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="主要排查流程" id="BP7RFHOilDS_j5BAm3M7">
+    <mxGraphModel dx="1884" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="start" value="Zabbix 監控發現&#xa;14:46 有 30+ 個 500 錯誤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="check-gateway" value="檢查 Gateway Log&#xa;Traefik/Loki" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="start" target="check-gateway" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gateway-decision" value="Gateway Log&#xa;有 5xx access log?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="460" y="260" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="check-gateway" target="gateway-decision" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="analyze-gateway" value="分析 Gateway 5xx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3" value="找到 5xx" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-decision" target="analyze-gateway" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="no-match" value="❌ 時間對不上!&#xa;Gateway 都是 200" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow4" value="只有 200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-decision" target="no-match" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gateway-error-type" value="5xx 類型?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="220" y="500" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="analyze-gateway" target="gateway-error-type" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="error-502" value="502 Bad Gateway&#xa;後端服務不可用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="error-503" value="503 Service Unavailable&#xa;服務過載/熔斷" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="200" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="error-504" value="504 Gateway Timeout&#xa;後端回應超時" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="360" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="error-500" value="500 Internal Error&#xa;Gateway 配置錯誤" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="520" y="640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow6" value="502" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-error-type" target="error-502" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow7" value="503" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-error-type" target="error-503" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow8" value="504" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-error-type" target="error-504" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow9" value="500" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gateway-error-type" target="error-500" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="multi-pod" value="是否有多個&#xa;Traefik Pod?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="700" y="500" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="no-match" target="multi-pod" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="check-other-pods" value="查詢其他 Pod 的 log&#xa;可能錯誤在別的 Pod" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="580" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow11" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="multi-pod" target="check-other-pods" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="check-backend" value="檢查後端服務 log&#xa;http://10.24.8.111:80" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="900" y="640" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow12" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="multi-pod" target="check-backend" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="other-pod-result" value="其他 Pod&#xa;有 5xx?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="560" y="740" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="check-other-pods" target="other-pod-result" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow14" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="other-pod-result" target="analyze-gateway" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="780" />
+              <mxPoint x="500" y="860" />
+              <mxPoint x="320" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow15" value="沒有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="other-pod-result" target="check-backend" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="780" />
+              <mxPoint x="820" y="720" />
+              <mxPoint x="980" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="backend-result" value="後端 log&#xa;有 5xx 錯誤?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13" parent="1" vertex="1">
+          <mxGeometry x="880" y="760" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="check-backend" target="backend-result" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="backend-issue" value="������ 問題在後端服務&#xa;Gateway 只是轉發" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="900" y="900" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow17" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="backend-result" target="backend-issue" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mystery" value="❓ 無法定位&#xa;需要加入 Trace ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="720" y="900" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow18" value="沒有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="backend-result" target="mystery" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="add-trace" value="建議: 加入分散式追蹤&#xa;(Request ID / Trace ID)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="700" y="1000" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mystery" target="add-trace" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="noop-error" value="發現: noop@internal 錯誤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="500" y="380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="check-gateway" target="noop-error" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="190" />
+              <mxPoint x="720" y="240" />
+              <mxPoint x="450" y="240" />
+              <mxPoint x="450" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="noop-analysis" value="noop 錯誤&#xa;影響請求嗎?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="230" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="noop-error" target="noop-analysis" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="370" />
+              <mxPoint x="390" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fix-noop" value="修復 IngressRoute 配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cleanup-later" value="記錄為技術債&#xa;之後清理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow22" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="noop-analysis" target="fix-noop" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="180" />
+              <mxPoint x="270" y="225" />
+              <mxPoint x="180" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow23" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="noop-analysis" target="cleanup-later" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="320" />
+              <mxPoint x="180" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="title" value="C2G API 5xx 錯誤排查流程圖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="390" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-title" value="圖例" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-1" value="起始/問題" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=11" parent="1" vertex="1">
+          <mxGeometry x="50" y="75" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-2" value="處理步驟" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11" parent="1" vertex="1">
+          <mxGeometry x="50" y="95" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-3" value="決策點" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" parent="1" vertex="1">
+          <mxGeometry x="50" y="115" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-4" value="成功/解決" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=11" parent="1" vertex="1">
+          <mxGeometry x="50" y="140" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-5" value="警告/待定" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=11" parent="1" vertex="1">
+          <mxGeometry x="50" y="160" width="140" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="當前狀態圖" id="yUaOWR2FgNASUtTCCC4W">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- 標題 -->
+        <mxCell id="title2" value="當前問題狀態 - 無法追蹤請求路徑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="500" height="30" as="geometry" />
+        </mxCell>
+        <!-- Zabbix -->
+        <mxCell id="zabbix" value="Zabbix 監控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <!-- Gateway -->
+        <mxCell id="gateway2" value="Gateway (Traefik)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <!-- Backend -->
+        <mxCell id="backend2" value="Backend 服務&#xa;10.24.8.111:80" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <!-- 箭頭和說明 -->
+        <mxCell id="arrow2-1" value="報告 5xx" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff6b6b;strokeWidth=3;" edge="1" parent="1" source="zabbix" target="gateway2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-2" value="應該轉發到" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#666666;strokeWidth=2;" edge="1" parent="1" source="gateway2" target="backend2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 查詢結果 -->
+        <mxCell id="zabbix-result" value="✓ 明確: 14:46 有 500" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gateway-result" value="? 查詢 Loki&#xa;只看到 200 和 noop 錯誤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="backend-result2" value="✗ 沒權限查看 log" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zabbix" target="zabbix-result">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gateway2" target="gateway-result">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="backend2" target="backend-result2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 問題總結 -->
+        <mxCell id="problem-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="800" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="problem-title" value="⚠️ 核心問題" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="problem-1" value="❌ 無法對應: Zabbix 的 5xx 和 Gateway log 對不上" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13" vertex="1" parent="1">
+          <mxGeometry x="140" y="425" width="740" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="problem-2" value="❌ 時間不精確: 只能靠時間戳對比，14:46 這一分鐘有上百個請求" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13" vertex="1" parent="1">
+          <mxGeometry x="140" y="455" width="740" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="problem-3" value="❌ 缺少追蹤: 沒有 Request ID / Trace ID 來串連整條鏈路" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13" vertex="1" parent="1">
+          <mxGeometry x="140" y="485" width="740" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="problem-4" value="❌ 權限限制: 無法查看後端服務日誌" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13" vertex="1" parent="1">
+          <mxGeometry x="140" y="515" width="740" height="25" as="geometry" />
+        </mxCell>
+        <!-- 結論 -->
+        <mxCell id="conclusion" value="������ 結論: 無法定位問題根源，需要加入 Request ID 追蹤系統" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="620" width="640" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Trace ID 重要性" id="M_pCLrqXFOQU4Y9oKStK">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- 標題 -->
+        <mxCell id="title3" value="為什麼需要 Trace ID / Request ID ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="500" height="30" as="geometry" />
+        </mxCell>
+        <!-- 沒有 Trace ID 的情況 -->
+        <mxCell id="without-title" value="❌ 沒有 Trace ID（當前狀況）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="without-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4f4;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="880" height="350" as="geometry" />
+        </mxCell>
+        <!-- Zabbix -->
+        <mxCell id="w-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w-zabbix-log" value="14:46:42 說有 500 錯誤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-zabbix" target="w-zabbix-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Gateway -->
+        <mxCell id="w-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w-gateway-log" value="14:46:42 ~ 14:46:59&#xa;有 100 個請求&#xa;都是 200 OK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-gateway" target="w-gateway-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Backend -->
+        <mxCell id="w-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w-backend-log" value="看不到 log&#xa;(沒權限)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-backend" target="w-backend-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 問題 -->
+        <mxCell id="w-problem" value="❓ 哪一個才是 Zabbix 說的那個 500?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="w-zabbix-log" target="w-problem">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="w-gateway-log" target="w-problem">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w-conclusion" value="❌ 無法確定問題在哪裡！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#ff6b6b;" edge="1" parent="1" source="w-problem" target="w-conclusion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 有 Trace ID 的情況 -->
+        <mxCell id="with-title" value="✅ 有 Trace ID（建議實施）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="120" y="530" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="with-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4fff4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="570" width="880" height="400" as="geometry" />
+        </mxCell>
+        <!-- Zabbix with ID -->
+        <mxCell id="id-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="id-zabbix-log" value="[req-abc123]&#xa;14:46:42.100&#xa;發送請求 → 收到 500" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-zabbix" target="id-zabbix-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Gateway with ID -->
+        <mxCell id="id-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="id-gateway-log" value="[req-abc123]&#xa;14:46:42.105&#xa;收到請求 → 轉發" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-gateway" target="id-gateway-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Backend with ID -->
+        <mxCell id="id-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="610" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="id-backend-log" value="[req-abc123]&#xa;14:46:42.110&#xa;500 Error&#xa;DB timeout!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+          <mxGeometry x="640" y="670" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-backend" target="id-backend-log">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 追蹤線 -->
+        <mxCell id="trace-line" value="������ 用 req-abc123 串起整條鏈路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="780" width="600" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-zabbix-log" target="trace-line">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-gateway-log" target="trace-line">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-backend-log" target="trace-line">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 結論 -->
+        <mxCell id="id-conclusion" value="������ 一眼就能看出: 問題在 Backend 的 Database timeout！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="870" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#6bcf7f;" edge="1" parent="1" source="trace-line" target="id-conclusion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- 比較總結 -->
+        <mxCell id="compare-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020" width="880" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="compare-title" value="������ 對比總結" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="140" y="1030" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="compare-1" value="❌ 沒有 Trace ID: 像瞎子摸象，只能猜測，浪費大量排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="140" y="1065" width="740" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="compare-2" value="✅ 有 Trace ID: 像有 GPS 導航，精確定位問題，節省 80% 排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="140" y="1095" width="740" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
