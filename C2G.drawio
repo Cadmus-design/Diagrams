@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="28.2.8" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.0.3" pages="11">
   <diagram name="第 1 页" id="D1RUgCIsTHPNFqiDUUMz">
     <mxGraphModel dx="989" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -596,7 +596,7 @@
         <mxCell id="arrow16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="check-backend" target="backend-result" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="backend-issue" value="������ 問題在後端服務&#xa;Gateway 只是轉發" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="backend-issue" value="������ 問題在後端服務&#xa;Gateway 只是轉發" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1040" y="900" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arrow17" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="backend-result" target="backend-issue" edge="1">
@@ -755,143 +755,515 @@
           <mxGeometry x="140" y="515" width="740" height="25" as="geometry" />
         </mxCell>
         <!-- 結論 -->
-        <mxCell id="conclusion" value="������ 結論: 無法定位問題根源，需要加入 Request ID 追蹤系統" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="conclusion" value="������ 結論: 無法定位問題根源，需要加入 Request ID 追蹤系統" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="620" width="640" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Trace ID 重要性" id="M_pCLrqXFOQU4Y9oKStK">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <!-- 標題 -->
-        <mxCell id="title3" value="為什麼需要 Trace ID / Request ID ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="title3" value="為什麼需要 Trace ID / Request ID ?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="300" y="40" width="500" height="30" as="geometry" />
         </mxCell>
-        <!-- 沒有 Trace ID 的情況 -->
-        <mxCell id="without-title" value="❌ 沒有 Trace ID（當前狀況）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="without-title" value="❌ 沒有 Trace ID（當前狀況）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="120" y="100" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="without-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4f4;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="without-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff4f4;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="120" y="140" width="880" height="350" as="geometry" />
         </mxCell>
-        <!-- Zabbix -->
-        <mxCell id="w-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w-zabbix-log" value="14:46:42 說有 500 錯誤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+        <mxCell id="w-zabbix-log" value="14:46:42 說有 500 錯誤" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-zabbix" target="w-zabbix-log">
+        <mxCell id="arrow3-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-zabbix" target="w-zabbix-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- Gateway -->
-        <mxCell id="w-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="180" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w-gateway-log" value="14:46:42 ~ 14:46:59&#xa;有 100 個請求&#xa;都是 200 OK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+        <mxCell id="w-gateway-log" value="14:46:42 ~ 14:46:59&#xa;有 100 個請求&#xa;都是 200 OK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" parent="1" vertex="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-gateway" target="w-gateway-log">
+        <mxCell id="arrow3-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-gateway" target="w-gateway-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- Backend -->
-        <mxCell id="w-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="640" y="180" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="w-backend-log" value="看不到 log&#xa;(沒權限)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center" vertex="1" parent="1">
+        <mxCell id="w-backend-log" value="看不到 log&#xa;(沒權限)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;align=center" parent="1" vertex="1">
           <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w-backend" target="w-backend-log">
+        <mxCell id="arrow3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w-backend" target="w-backend-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- 問題 -->
-        <mxCell id="w-problem" value="❓ 哪一個才是 Zabbix 說的那個 500?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w-problem" value="❓ 哪一個才是 Zabbix 說的那個 500?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffd93d;strokeColor=#d6b656;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="340" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="w-zabbix-log" target="w-problem">
+        <mxCell id="arrow3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="w-zabbix-log" target="w-problem" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="w-gateway-log" target="w-problem">
+        <mxCell id="arrow3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" parent="1" source="w-gateway-log" target="w-problem" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w-conclusion" value="❌ 無法確定問題在哪裡！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="w-conclusion" value="❌ 無法確定問題在哪裡！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="420" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#ff6b6b;" edge="1" parent="1" source="w-problem" target="w-conclusion">
+        <mxCell id="arrow3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#ff6b6b;" parent="1" source="w-problem" target="w-conclusion" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- 有 Trace ID 的情況 -->
-        <mxCell id="with-title" value="✅ 有 Trace ID（建議實施）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#d5e8d4;" vertex="1" parent="1">
+        <mxCell id="with-title" value="✅ 有 Trace ID（建議實施）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="120" y="530" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="with-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4fff4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="with-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f4fff4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="570" width="880" height="400" as="geometry" />
         </mxCell>
-        <!-- Zabbix with ID -->
-        <mxCell id="id-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="id-zabbix" value="Zabbix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ff6b6b;strokeColor=#b85450;fontColor=#ffffff;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="id-zabbix-log" value="[req-abc123]&#xa;14:46:42.100&#xa;發送請求 → 收到 500" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+        <mxCell id="id-zabbix-log" value="[req-abc123]&#xa;14:46:42.100&#xa;發送請求 → 收到 500" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" parent="1" vertex="1">
           <mxGeometry x="160" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-zabbix" target="id-zabbix-log">
+        <mxCell id="arrow3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="id-zabbix" target="id-zabbix-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- Gateway with ID -->
-        <mxCell id="id-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="id-gateway" value="Gateway" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="400" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="id-gateway-log" value="[req-abc123]&#xa;14:46:42.105&#xa;收到請求 → 轉發" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+        <mxCell id="id-gateway-log" value="[req-abc123]&#xa;14:46:42.105&#xa;收到請求 → 轉發" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" parent="1" vertex="1">
           <mxGeometry x="400" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-gateway" target="id-gateway-log">
+        <mxCell id="arrow3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="id-gateway" target="id-gateway-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- Backend with ID -->
-        <mxCell id="id-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="id-backend" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="640" y="610" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="id-backend-log" value="[req-abc123]&#xa;14:46:42.110&#xa;500 Error&#xa;DB timeout!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" vertex="1" parent="1">
+        <mxCell id="id-backend-log" value="[req-abc123]&#xa;14:46:42.110&#xa;500 Error&#xa;DB timeout!" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=11;align=left" parent="1" vertex="1">
           <mxGeometry x="640" y="670" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="id-backend" target="id-backend-log">
+        <mxCell id="arrow3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="id-backend" target="id-backend-log" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- 追蹤線 -->
-        <mxCell id="trace-line" value="������ 用 req-abc123 串起整條鏈路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=14;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="trace-line" value="������ 用 req-abc123 串起整條鏈路" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4ecdc4;strokeColor=#0e8088;fontColor=#ffffff;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="780" width="600" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-zabbix-log" target="trace-line">
+        <mxCell id="arrow3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" parent="1" source="id-zabbix-log" target="trace-line" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-gateway-log" target="trace-line">
+        <mxCell id="arrow3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" parent="1" source="id-gateway-log" target="trace-line" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" edge="1" parent="1" source="id-backend-log" target="trace-line">
+        <mxCell id="arrow3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4ecdc4;" parent="1" source="id-backend-log" target="trace-line" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- 結論 -->
-        <mxCell id="id-conclusion" value="������ 一眼就能看出: 問題在 Backend 的 Database timeout！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="id-conclusion" value="������ 一眼就能看出: 問題在 Backend 的 Database timeout！" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6bcf7f;strokeColor=#82b366;fontColor=#ffffff;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="870" width="600" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arrow3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#6bcf7f;" edge="1" parent="1" source="trace-line" target="id-conclusion">
+        <mxCell id="arrow3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#6bcf7f;" parent="1" source="trace-line" target="id-conclusion" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <!-- 比較總結 -->
-        <mxCell id="compare-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="compare-box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="120" y="1020" width="880" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="compare-title" value="������ 對比總結" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="compare-title" value="������ 對比總結" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="140" y="1030" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="compare-1" value="❌ 沒有 Trace ID: 像瞎子摸象，只能猜測，浪費大量排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+        <mxCell id="compare-1" value="❌ 沒有 Trace ID: 像瞎子摸象，只能猜測，浪費大量排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="140" y="1065" width="740" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="compare-2" value="✅ 有 Trace ID: 像有 GPS 導航，精確定位問題，節省 80% 排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" vertex="1" parent="1">
+        <mxCell id="compare-2" value="✅ 有 Trace ID: 像有 GPS 導航，精確定位問題，節省 80% 排查時間" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="140" y="1095" width="740" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="方案一-SQS分流方案(已否決)" id="xevsGTucaQ8q6XOWv17Q">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Title -->
+        <mxCell id="title1" value="方案一：SQS 分流方案（已否決）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="400" height="40" as="geometry" />
+        </mxCell>
+        <!-- Warning Banner -->
+        <mxCell id="warning1" value="⚠️ 此方案已被否決 - 架構過度複雜、單點故障風險、無法精準控制流量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="300" y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <!-- CDN Providers -->
+        <mxCell id="cdn1-1" value="火山 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn1-2" value="GCore CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn1-3" value="Akamai CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn1-4" value="其他 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <!-- S3 Bucket -->
+        <mxCell id="s3-1" value="AWS S3 Bucket&#xa;(CDN Logs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <!-- Arrows from CDN to S3 -->
+        <mxCell id="arrow1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdn1-1" target="s3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdn1-2" target="s3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdn1-3" target="s3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cdn1-4" target="s3-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- SQS A1 (Original) -->
+        <mxCell id="sqs-a1" value="SQS Queue A1&#xa;(Original)&#xa;⚠️ 單點故障風險" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="s3-1" target="sqs-a1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label1-1" value="S3 Event Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arrow1-5">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <!-- Router Service (新開發的分流服務) -->
+        <mxCell id="router1" value="分流服務&#xa;(成都新開發)&#xa;部署在 K8S" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sqs-a1" target="router1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label1-2" value="消費訊息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="arrow1-6">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <!-- SQS B1 (For Old Processor) -->
+        <mxCell id="sqs-b1" value="SQS Queue B1&#xa;(給舊版 Log Processor)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="670" width="180" height="60" as="geometry" />
+        </mxCell>
+        <!-- SQS B2 (For Bloom Filter) -->
+        <mxCell id="sqs-b2" value="SQS Queue B2&#xa;(給新版 Bloom Filter)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1" source="router1" target="sqs-b1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label1-3" value="分流（全量複製）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#ff0000;fontStyle=1" vertex="1" connectable="0" parent="arrow1-7">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#ff0000;" edge="1" parent="1" source="router1" target="sqs-b2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label1-4" value="分流（全量複製）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#ff0000;fontStyle=1" vertex="1" connectable="0" parent="arrow1-8">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint x="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <!-- Old Log Processor -->
+        <mxCell id="old-processor1" value="舊版 Log Processor&#xa;(Golang)&#xa;使用舊版 Redis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="50" y="780" width="240" height="80" as="geometry" />
+        </mxCell>
+        <!-- New Log Processor (Bloom Filter) -->
+        <mxCell id="new-processor1" value="新版 Log Processor&#xa;(Golang + Bloom Filter)&#xa;使用 Valkey 8.1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="780" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sqs-b1" target="old-processor1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sqs-b2" target="new-processor1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- ClickHouse -->
+        <mxCell id="clickhouse1" value="ClickHouse&#xa;(Analytics Database)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="920" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="old-processor1" target="clickhouse1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="new-processor1" target="clickhouse1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Problem Annotations -->
+        <mxCell id="problem1-1" value="問題 1: A1 掛掉全部中斷" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="380" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="problem1-2" value="問題 2: 不是真正的分流&#xa;是全量複製，無法控制比例" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="540" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="problem1-3" value="問題 3: 架構複雜&#xa;需維護額外的分流服務" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="650" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="problem1-4" value="問題 4: Rollback 策略不明確&#xa;不知道要相信哪邊的資料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="700" y="780" width="200" height="50" as="geometry" />
+        </mxCell>
+        <!-- Arrows to problems -->
+        <mxCell id="prob-arrow1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;strokeWidth=2;dashed=1;" edge="1" parent="1" source="sqs-a1" target="problem1-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="prob-arrow1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;strokeWidth=2;dashed=1;" edge="1" parent="1" source="router1" target="problem1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="方案二-Pod數量控制方案" id="Xc2euTMV4jbmfsWaWTnU">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title2" value="方案二：Pod 數量控制方案 (Tim 提案)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="status2" value="✅ 快速實現 | ⚠️ 去重短期失效 | 適合時程緊急情況" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="600" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn2-1" value="火山 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn2-2" value="GCore CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn2-3" value="Akamai CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn2-4" value="其他 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3-2" value="AWS S3 Bucket&#xa;(CDN Logs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cdn2-1" target="s3-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+              <mxPoint x="350" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn2-2" target="s3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn2-3" target="s3-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cdn2-4" target="s3-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="350" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqs2" value="SQS Queue&#xa;(單一 Queue)&#xa;✅ 維持原有架構" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="225" y="390" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="s3-2" target="sqs2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="compete2" value="兩組 Pods 競爭消費同一個 Queue" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="530" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="old-pods2" value="舊版 Log Processor Pods&#xa;(KEDA min replica = 5)&#xa;使用舊版 Redis&#xa;&#xa;Pod 1 | Pod 2 | Pod 3 | Pod 4 | Pod 5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="620" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="new-pods2" value="新版 Log Processor Pod&#xa;(只開 1 台測試)&#xa;使用 Valkey 8.1 + Bloom Filter&#xa;&#xa;Pod 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="420" y="620" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#009900;" parent="1" source="sqs2" target="old-pods2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="500" />
+              <mxPoint x="190" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label2-1" value="約 83% 流量&#xa;(5/6)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#009900;" parent="arrow2-6" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="-30" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#0066cc;" parent="1" source="sqs2" target="new-pods2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="500" />
+              <mxPoint x="560" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label2-2" value="約 17% 流量&#xa;(1/6)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#0066cc;" parent="arrow2-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="35" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="old-redis2" value="舊版 Redis&#xa;(原有 data structure)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="80" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="new-redis2" value="新版 Redis&#xa;(Valkey 8.1 + Bloom Filter)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="450" y="780" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="old-pods2" target="old-redis2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label2-3" value="去重" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="arrow2-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="new-pods2" target="new-redis2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label2-4" value="去重" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="arrow2-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clickhouse2" value="ClickHouse&#xa;(Analytics Database)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="220" y="900" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="old-redis2" target="clickhouse2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="new-redis2" target="clickhouse2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="warning2-1" value="⚠️ 主要風險：兩組 Redis 無法 Global 去重&#xa;可能導致同一筆 log 被處理兩次" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="750" y="670" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="adv2" value="✅ 優點&#xa;• 實作快速&#xa;• 不需開發新功能&#xa;• 架構簡單&#xa;• 可隨時調整 pod 數量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="750" y="400" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="risk2" value="⚠️ 風險&#xa;• 短期去重失效&#xa;• 流量比例不精確 (受 KEDA 影響)&#xa;• 需監控重複率變化" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="750" y="520" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="recommend2" value="������ 建議&#xa;• 適合時程緊急的情況&#xa;• 需設定監控告警&#xa;• 定義可接受的重複率閾值 (&lt;5%)&#xa;• 觀察 1-2 週後評估是否切換到方案三" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="750" y="780" width="300" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="方案三-Feature Flag方案" id="aLnXyctakhGCfeOyVpZV">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title3" value="方案三：Feature Flag 方案 (Okis 推薦)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="350" y="20" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="status3" value="������ 最佳方案 | ✅ 精準控制 | ✅ 快速 Rollback | ✅ 符合最佳實踐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="70" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn3-1" value="火山 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="80" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn3-2" value="GCore CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn3-3" value="Akamai CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdn3-4" value="其他 CDN" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="500" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s3-3" value="AWS S3 Bucket&#xa;(CDN Logs)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="250" y="270" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn3-1" target="s3-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+              <mxPoint x="350" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn3-2" target="s3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn3-3" target="s3-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cdn3-4" target="s3-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="350" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sqs3" value="SQS Queue&#xa;(單一 Queue)&#xa;✅ 維持原有架構" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="225" y="390" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="s3-3" target="sqs3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="processor3" value="統一的 Log Processor (單一版本)&#xa;(Golang - 內建 Feature Flag 邏輯)&#xa;K8S Deployment with KEDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="175" y="530" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="sqs3" target="processor3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ff-controller" value="Feature Flag Controller&#xa;(程式內建開關)&#xa;&#xa;if (featureFlag.isEnabled(&quot;bloom_filter&quot;)) {&#xa;    useBloomFilter()  // 20%&#xa;} else {&#xa;    useOldRedis()     // 80%&#xa;}" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="140" y="680" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="processor3" target="ff-controller" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="old-redis3" value="舊版 Redis&#xa;(原有 data structure)&#xa;&#xa;80% 流量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="850" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="new-redis3" value="新版 Redis&#xa;(Valkey 8.1 + Bloom Filter)&#xa;&#xa;20% 流量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="450" y="850" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#009900;" parent="1" source="ff-controller" target="old-redis3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label3-1" value="80% 流量&#xa;(可動態調整)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#009900;" parent="arrow3-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#0066cc;" parent="1" source="ff-controller" target="new-redis3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="label3-2" value="20% 流量&#xa;(可動態調整)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontStyle=1;fontColor=#0066cc;" parent="arrow3-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="2" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clickhouse3" value="ClickHouse (Analytics Database)&#xa;✅ 所有資料經過單一處理邏輯&#xa;✅ Global 去重有效" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="200" y="990" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="old-redis3" target="clickhouse3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="new-redis3" target="clickhouse3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rollout3" value="������ 漸進式上線流程&#xa;&#xa;Phase 1: 1%  → 觀察 1 天&#xa;Phase 2: 10% → 觀察 1-2 天&#xa;Phase 3: 30% → 觀察 1 天&#xa;Phase 4: 50% → 觀察 1 天&#xa;Phase 5: 100% → 全量上線&#xa;&#xa;有問題立即設定回 0% (秒級切換)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="730" y="380" width="320" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="adv3" value="✅ 核心優勢&#xa;&#xa;• 精準的流量控制 (任意 %)&#xa;• 快速 Rollback (秒級)&#xa;• Global 去重完全有效&#xa;• 符合業界最佳實踐&#xa;• 無技術債累積&#xa;• 可複用於未來功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="730" y="590" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tradeoff3" value="⚠️ 代價&#xa;&#xa;• 需要重新開發 (預估 1-1.5 人週)&#xa;• 需要完整測試與壓測&#xa;• 時程較方案二長 2-3 週" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="730" y="770" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="recommend3" value="������ 最終建議&#xa;&#xa;如果可接受 3-4 週開發時間：&#xa;→ 強烈推薦此方案&#xa;&#xa;如果時程極度緊急：&#xa;→ 先用方案二快速驗證&#xa;→ 並行開發此方案&#xa;→ 驗證成功後立即切換" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="730" y="890" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
