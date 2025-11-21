@@ -1253,16 +1253,16 @@
         <mxCell id="arrow3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="new-redis3" target="clickhouse3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rollout3" value="������ 漸進式上線流程&#xa;&#xa;Phase 1: 1%  → 觀察 1 天&#xa;Phase 2: 10% → 觀察 1-2 天&#xa;Phase 3: 30% → 觀察 1 天&#xa;Phase 4: 50% → 觀察 1 天&#xa;Phase 5: 100% → 全量上線&#xa;&#xa;有問題立即設定回 0% (秒級切換)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rollout3" value="������ 漸進式上線流程&lt;br&gt;&lt;br&gt;有問題立即設定回 0% (秒級切換)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="380" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="adv3" value="✅ 核心優勢&#xa;&#xa;• 精準的流量控制 (任意 %)&#xa;• 快速 Rollback (秒級)&#xa;• Global 去重完全有效&#xa;• 符合業界最佳實踐&#xa;• 無技術債累積&#xa;• 可複用於未來功能" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="590" width="320" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="tradeoff3" value="⚠️ 代價&#xa;&#xa;• 需要重新開發 (預估 1-1.5 人週)&#xa;• 需要完整測試與壓測&#xa;• 時程較方案二長 2-3 週" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=left;" parent="1" vertex="1">
+        <mxCell id="tradeoff3" value="⚠️ 代價&lt;br&gt;&lt;br&gt;• 需要重新開發&lt;br&gt;• 需要完整測試與壓測&lt;br&gt;• 時程較方案二長" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;align=left;" parent="1" vertex="1">
           <mxGeometry x="730" y="770" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="recommend3" value="������ 最終建議&#xa;&#xa;如果可接受 3-4 週開發時間：&#xa;→ 強烈推薦此方案&#xa;&#xa;如果時程極度緊急：&#xa;→ 先用方案二快速驗證&#xa;→ 並行開發此方案&#xa;→ 驗證成功後立即切換" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="recommend3" value="������ 最終建議&lt;br&gt;&lt;br&gt;&lt;br&gt;如果時程極度緊急：&lt;br&gt;→ 先用方案二快速驗證&lt;br&gt;→ 並行開發此方案&lt;br&gt;→ 驗證成功後立即切換" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="890" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
