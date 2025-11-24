@@ -1255,24 +1255,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QsvSfEesNbIP_dLMAhT3" name="第 12 页">
-    <mxGraphModel dx="1665" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1009" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y2h4No22U4O0RzQahHpB-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" value="Low-cost, Scheduled CMI Processing Pipeline" vertex="1">
           <mxGeometry height="40" width="400" x="340" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="Y2h4No22U4O0RzQahHpB-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Raw Logs requiring&lt;br&gt;1% Sampling (Douyin)" vertex="1">
+        <mxCell id="Y2h4No22U4O0RzQahHpB-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Raw Logs requiring&lt;br&gt;&lt;div&gt;1% Sampling (Douyin)&lt;/div&gt;&lt;span class=&quot;router-outlet-wrapper ng-tns-c2785337336-0&quot;&gt;&lt;span style=&quot;font-style: italic;&quot; class=&quot;ng-star-inserted&quot;&gt;&lt;span class=&quot;ng-star-inserted&quot;&gt;Vendor: Tencent / Akamai /Cloudflare&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="90" width="160" x="180" y="180" as="geometry" />
         </mxCell>
         <mxCell id="Y2h4No22U4O0RzQahHpB-3" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Byteplus Processed Logs&lt;br&gt;(OPPO/Honor)" vertex="1">
           <mxGeometry height="80" width="110" x="205" y="320" as="geometry" />
         </mxCell>
-        <mxCell id="Y2h4No22U4O0RzQahHpB-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=10;" value="&lt;b&gt;Scheduled/Serverless&lt;br&gt;Batch Processor&lt;/b&gt;&lt;br&gt;(e.g., AWS Lambda)" vertex="1">
-          <mxGeometry height="140" width="200" x="440" y="220" as="geometry" />
+        <mxCell id="Y2h4No22U4O0RzQahHpB-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=10;" value="&lt;b&gt;Scheduled/Serverless&lt;br&gt;Batch Processor&lt;/b&gt;" vertex="1">
+          <mxGeometry height="120" width="200" x="440" y="230" as="geometry" />
         </mxCell>
         <mxCell id="Y2h4No22U4O0RzQahHpB-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc00;strokeColor=#d6b656;fontStyle=1;fontSize=24;fontColor=#FFFFFF;" value="S" vertex="1">
-          <mxGeometry height="40" width="40" x="520" y="235" as="geometry" />
+          <mxGeometry height="40" width="40" x="520" y="215" as="geometry" />
         </mxCell>
         <mxCell id="Y2h4No22U4O0RzQahHpB-6" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;" value="CMI Client" vertex="1">
           <mxGeometry height="70" width="90" x="790" y="200" as="geometry" />
