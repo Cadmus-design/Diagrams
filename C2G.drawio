@@ -1317,20 +1317,20 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3vxKjsgAzTF_wdDXxrA5" name="第 13 页">
-    <mxGraphModel dx="815" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1141" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3TteVD_mxV1rOCrqPmHG-87" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1E90FF;" value="Tencent edge one" vertex="1">
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="Tencent edge one" vertex="1">
           <mxGeometry height="40" width="100" x="520" y="490" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-86" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1E90FF;" value="cachefly" vertex="1">
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="cachefly" vertex="1">
           <mxGeometry height="40" width="100" x="660" y="490" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-57" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3TteVD_mxV1rOCrqPmHG-7">
@@ -1422,10 +1422,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="CDN Customer API (Ali, Tencent)" vertex="1">
-          <mxGeometry height="60" width="180" x="1000" y="1050" as="geometry" />
+          <mxGeometry height="60" width="190" x="1000" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-93" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-91" value="Get Log Downlaod Link">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#b85400;" value="Custom Client (Rust)" vertex="1">
           <mxGeometry height="60" width="140" x="770" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-94" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="3TteVD_mxV1rOCrqPmHG-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#b85400;" value="Analytics Go (Golang)" vertex="1">
           <mxGeometry height="60" width="180" x="940" y="1170" as="geometry" />
@@ -1437,19 +1443,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="c2g-log-exporter" vertex="1">
-          <mxGeometry height="40" width="120" x="590" y="1060" as="geometry" />
+          <mxGeometry height="40" width="120" x="580" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="S3" vertex="1">
-          <mxGeometry height="40" width="100" x="390" y="1060" as="geometry" />
+          <mxGeometry height="40" width="100" x="360" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-78" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cloudfront (Mlytics Custom CDN)" vertex="1">
-          <mxGeometry height="60" width="140" x="370" y="1170" as="geometry" />
+          <mxGeometry height="60" width="140" x="340" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="print error log" vertex="1">
-          <mxGeometry height="40" width="100" x="540" y="980" as="geometry" />
+          <mxGeometry height="40" width="100" x="570" y="980" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-64" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-8">
           <mxGeometry relative="1" as="geometry">
@@ -1501,8 +1507,8 @@
         <mxCell id="3TteVD_mxV1rOCrqPmHG-47" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" value="dedup before customer publish&lt;br&gt;but this is not for clickhouse&lt;br&gt;clickhouse use replace merge tree to dedup" vertex="1">
           <mxGeometry height="60" width="160" x="700" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-51" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" value="2. Log processor get notified by sqs&lt;br&gt;3. Log processor read CDN log from s3 bucket&lt;br&gt;4. Log processor parse CDM log&lt;br&gt;&amp;nbsp;&amp;nbsp;1. Store common format log&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;into Clickhouse&lt;br&gt;&amp;nbsp;&amp;nbsp;2. Send customer format log to customer&lt;br&gt;5. Analytic go read report out of Clickhouse for customer" vertex="1">
-          <mxGeometry height="150" width="180" x="1320" y="490" as="geometry" />
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-51" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Code Repo&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Log processor&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Analytic go&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Flow&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;CDN provider send log to s3 bucket&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Log processor get notified by sqs&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Log processor read CDN log from s3 bucket&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Log processor parse CDM log&lt;/font&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Store common format log into C&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;lickhouse&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Send customer format log to customer&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Analytic go read report out of Clickhouse for customer&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="450" x="1320" y="430" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-84" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
           <mxGeometry relative="1" as="geometry" />
@@ -1521,14 +1527,23 @@
         <mxCell id="3TteVD_mxV1rOCrqPmHG-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#b85400;" value="CMI server" vertex="1">
           <mxGeometry height="60" width="140" x="610" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="CMI API" vertex="1">
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-81" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="CMI API" vertex="1">
           <mxGeometry height="60" width="120" x="390" y="890" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-83" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="3TteVD_mxV1rOCrqPmHG-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-85" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="sample 1%" vertex="1">
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-85" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="sample 1%" vertex="1">
           <mxGeometry height="60" width="120" x="870" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-90" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="CDN Customer&amp;nbsp; (Ali, Tencent, Oppo 離線)" vertex="1">
+          <mxGeometry height="60" width="290" x="885" y="1390" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-92" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-17" value="Download log (Oppo only)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="CDN Customer&amp;nbsp; (Oppo 實時 &amp;amp; Future Customer)" vertex="1">
+          <mxGeometry height="60" width="300" x="570" y="1390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
