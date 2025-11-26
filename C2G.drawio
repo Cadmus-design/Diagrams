@@ -1321,8 +1321,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-87" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1E90FF;" value="Tencent edge one" vertex="1">
           <mxGeometry height="40" width="100" x="520" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-86" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#1E90FF;" value="cachefly" vertex="1">
           <mxGeometry height="40" width="100" x="660" y="490" as="geometry" />
@@ -1425,7 +1431,7 @@
           <mxGeometry height="60" width="180" x="940" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Redis (Bloom Filter)" vertex="1">
-          <mxGeometry height="40" width="120" x="630" y="920" as="geometry" />
+          <mxGeometry height="40" width="120" x="590" y="920" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-79" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="3TteVD_mxV1rOCrqPmHG-16" value="multi upload">
           <mxGeometry relative="1" as="geometry" />
@@ -1468,24 +1474,6 @@
         <mxCell id="3TteVD_mxV1rOCrqPmHG-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="SQS Publish Failed Queue" vertex="1">
           <mxGeometry height="50" width="120" x="1410" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-21" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-1" style="endArrow=classic;html=1;rounded=0;strokeColor=#1E90FF;strokeWidth=3;" target="3TteVD_mxV1rOCrqPmHG-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="570" y="740" />
-            </Array>
-            <mxPoint x="570" y="670" as="sourcePoint" />
-            <mxPoint x="800" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-22" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-2" style="endArrow=classic;html=1;rounded=0;strokeColor=#1E90FF;strokeWidth=3;" target="3TteVD_mxV1rOCrqPmHG-7" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="710" y="740" />
-            </Array>
-            <mxPoint x="710" y="670" as="sourcePoint" />
-            <mxPoint x="800" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-27" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-7" style="endArrow=classic;html=1;rounded=0;" target="3TteVD_mxV1rOCrqPmHG-8" value="notification">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1050" y="770" as="sourcePoint" />
@@ -1511,18 +1499,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-47" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" value="dedup before customer publish&lt;br&gt;but this is not for clickhouse&lt;br&gt;clickhouse use replace merge tree to dedup" vertex="1">
-          <mxGeometry height="60" width="160" x="690" y="840" as="geometry" />
-        </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-48" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=30;" value="sample 1%" vertex="1">
-          <mxGeometry height="40" width="170" x="1120" y="595" as="geometry" />
+          <mxGeometry height="60" width="160" x="700" y="870" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-51" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" value="2. Log processor get notified by sqs&lt;br&gt;3. Log processor read CDN log from s3 bucket&lt;br&gt;4. Log processor parse CDM log&lt;br&gt;&amp;nbsp;&amp;nbsp;1. Store common format log&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;into Clickhouse&lt;br&gt;&amp;nbsp;&amp;nbsp;2. Send customer format log to customer&lt;br&gt;5. Analytic go read report out of Clickhouse for customer" vertex="1">
           <mxGeometry height="150" width="180" x="1320" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-54" parent="1" style="strokeColor=#FF0000;fillColor=none;html=1;whiteSpace=wrap;rounded=1;dashed=0;" value="" vertex="1">
-          <mxGeometry height="130" width="510" x="790" y="550" as="geometry" />
-        </mxCell>
-        <mxCell id="3TteVD_mxV1rOCrqPmHG-60" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-84" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="3TteVD_mxV1rOCrqPmHG-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Cloudflare" vertex="1">
@@ -1544,6 +1526,9 @@
         </mxCell>
         <mxCell id="3TteVD_mxV1rOCrqPmHG-83" edge="1" parent="1" source="3TteVD_mxV1rOCrqPmHG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.529;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="3TteVD_mxV1rOCrqPmHG-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TteVD_mxV1rOCrqPmHG-85" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="sample 1%" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
