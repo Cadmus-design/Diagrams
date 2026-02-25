@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0" version="29.2.7" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.3.8" pages="11">
   <diagram name="1. 整體平台架構" id="5mj-qehcZ8JXOVGM4dQ6">
     <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2373,6 +2373,190 @@
         </mxCell>
         <mxCell id="I9MRAp5z1NhkA46a2nAS-24" edge="1" parent="1" source="I9MRAp5z1NhkA46a2nAS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" target="I9MRAp5z1NhkA46a2nAS-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="StSusaGunpdoBK2yag3o" name="第 11 页">
+    <mxGraphModel dx="1884" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-2" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=16;fontStyle=1;" value="Byteplus CDN 整合架構 — Two-Layer CNAME Strategy (PG-2235)" vertex="1">
+          <mxGeometry height="40" width="1100" x="250" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-3" parent="1" style="text;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;align=center;fontStyle=1;fontSize=11;" value="① 流量路由 (Traffic Routing)" vertex="1">
+          <mxGeometry height="28" width="380" x="110" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-4" parent="1" style="text;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;align=center;fontStyle=1;fontSize=11;" value="② 微服務配置 (Microservices)" vertex="1">
+          <mxGeometry height="28" width="180" x="510" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-5" parent="1" style="text;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;align=center;fontStyle=1;fontSize=11;" value="③ 數據管線 (Data Pipeline)" vertex="1">
+          <mxGeometry height="28" width="650" x="710" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=12;" value="&lt;b&gt;客戶網域&lt;/b&gt;&lt;br&gt;Client Domain" vertex="1">
+          <mxGeometry height="60" width="180" x="180" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;opacity=40;" value="" vertex="1">
+          <mxGeometry height="110" width="380" x="110" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-8" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontStyle=3;fontColor=#6c8ebf;" value="Layer 1 CNAME ─ 對外入口" vertex="1">
+          <mxGeometry height="16" width="200" x="118" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;*.cdn.mlytics.com&lt;/b&gt;&lt;br&gt;提供給客戶的入口 CNAME&lt;br&gt;指向 Mlytics Platform" vertex="1">
+          <mxGeometry height="70" width="220" x="150" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;" value="&lt;b&gt;Decisive Engine&lt;/b&gt;&lt;br&gt;智能調度引擎&lt;br&gt;依 Latency 數據自動切換" vertex="1">
+          <mxGeometry height="65" width="220" x="160" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;opacity=40;" value="" vertex="1">
+          <mxGeometry height="110" width="380" x="110" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-12" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=9;fontStyle=3;fontColor=#82b366;" value="Layer 2 CNAME ─ 內部調度（供應商隱藏）" vertex="1">
+          <mxGeometry height="16" width="280" x="118" y="538" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;internal.dispatch.mlytics.com&lt;/b&gt;&lt;br&gt;底層供應商對外完全隱藏&lt;br&gt;動態路由至最終 CDN" vertex="1">
+          <mxGeometry height="70" width="220" x="150" y="558" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;Byteplus CDN&lt;/b&gt;&lt;br&gt;White Label: Mlytics CDN&lt;br&gt;產品線：Mlytics CDN / CN2 plus" vertex="1">
+          <mxGeometry height="70" width="185" x="110" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;Baishan / 白山&lt;/b&gt;&lt;br&gt;Near-china 線路&lt;br&gt;CN2 plus 搭配節點" vertex="1">
+          <mxGeometry height="70" width="185" x="305" y="695" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="⚠ &lt;b&gt;CNAME 衝突風險&lt;/b&gt;&lt;br&gt;若客戶已自採 Byteplus&lt;br&gt;→ 直接判定安裝失敗" vertex="1">
+          <mxGeometry height="60" width="380" x="110" y="785" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;micro-ssl&lt;/b&gt;&lt;br&gt;DNS 驗證憑證&lt;br&gt;(避免 GMA 費用)" vertex="1">
+          <mxGeometry height="65" width="160" x="520" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;micro-platform&lt;/b&gt;&lt;br&gt;Platform 定義&lt;br&gt;Constants + DB Migration" vertex="1">
+          <mxGeometry height="70" width="160" x="520" y="288" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;micro-zone-v3&lt;/b&gt;&lt;br&gt;Two-layer CNAME 邏輯&lt;br&gt;Byteplus Provider 實作" vertex="1">
+          <mxGeometry height="65" width="160" x="520" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="&lt;b&gt;micro-decisive&lt;/b&gt;&lt;br&gt;Byteplus 加入 Config&lt;br&gt;+ Auto Strategy 清單" vertex="1">
+          <mxGeometry height="65" width="160" x="520" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;Byteplus API&lt;/b&gt;&lt;br&gt;原始數據來源&lt;br&gt;(流量 / 日誌 / 效能)" vertex="1">
+          <mxGeometry height="65" width="180" x="1020" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;opacity=40;" value="" vertex="1">
+          <mxGeometry height="125" width="510" x="720" y="265" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-23" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontStyle=3;fontSize=9;fontColor=#d6b656;" value="Collector Layer" vertex="1">
+          <mxGeometry height="16" width="150" x="728" y="268" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;micro-mdns&lt;/b&gt;&lt;br&gt;數據收集 JSON 配置&lt;br&gt;Byteplus 節點設定" vertex="1">
+          <mxGeometry height="80" width="185" x="738" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;micro-realwave&lt;/b&gt; Collector&lt;br&gt;接入 Byteplus API&lt;br&gt;Geo Code: 3位 → 2位轉換&lt;br&gt;Byte Hit Rate 正規化" vertex="1">
+          <mxGeometry height="80" width="255" x="955" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="&lt;b&gt;micro-analytics&lt;/b&gt;&lt;br&gt;Byteplus CDN Provider Module&lt;br&gt;・Byte Hit Rate (無 Request Hit Rate)&lt;br&gt;・Status Code 對齊規格" vertex="1">
+          <mxGeometry height="85" width="250" x="830" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" value="&lt;b&gt;micro-billing-go&lt;/b&gt;&lt;br&gt;Byteplus SKU + Addon 元件&lt;br&gt;計費邏輯 (SOC 模式手動安裝)" vertex="1">
+          <mxGeometry height="70" width="250" x="830" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;fontStyle=1;" value="&lt;b&gt;Homepage Dashboard&lt;/b&gt;&lt;br&gt;流量 / 計費數據呈現" vertex="1">
+          <mxGeometry height="60" width="210" x="720" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;fontStyle=1;" value="&lt;b&gt;Realwave Monitoring&lt;/b&gt;&lt;br&gt;DEM &gt; Pulse&lt;br&gt;Latency 效能圖表" vertex="1">
+          <mxGeometry height="60" width="210" x="980" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-30" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#6c8ebf;" target="6EBEY5ooTq-QTdPo4gaQ-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-31" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#6c8ebf;" target="6EBEY5ooTq-QTdPo4gaQ-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-32" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#82b366;" target="6EBEY5ooTq-QTdPo4gaQ-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-33" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#b85450;" target="6EBEY5ooTq-QTdPo4gaQ-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-34" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#b85450;" target="6EBEY5ooTq-QTdPo4gaQ-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-35" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-17" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#d6b656;fontSize=9;endArrow=open;endFill=0;" target="6EBEY5ooTq-QTdPo4gaQ-6" value="DNS 驗證">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-36" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-18" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#d6b656;fontSize=9;endArrow=open;endFill=0;" target="6EBEY5ooTq-QTdPo4gaQ-7" value="配置">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-37" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-19" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#d6b656;fontSize=9;endArrow=open;endFill=0;" target="6EBEY5ooTq-QTdPo4gaQ-10" value="配置">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-38" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-20" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#9673a6;fontSize=9;endArrow=open;endFill=0;" target="6EBEY5ooTq-QTdPo4gaQ-11" value="配置">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-39" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-21" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#b85450;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-25" value="原始數據">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-40" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-24" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-41" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-25" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-42" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-26" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-27" value="計費數據">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-43" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-26" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-44" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-27" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-45" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-25" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#9673a6;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-29" value="Latency 數據">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-46" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-29" style="edgeStyle=orthogonalEdgeStyle;dashed=1;strokeColor=#9673a6;strokeWidth=1;fontSize=9;endArrow=block;endFill=1;" target="6EBEY5ooTq-QTdPo4gaQ-10" value="調度依據回饋">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="740" />
+              <mxPoint x="700" y="457" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-47" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontStyle=1;fontSize=11;" value="圖例 (Legend)" vertex="1">
+          <mxGeometry height="20" width="120" x="1270" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-48" parent="1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="1270" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-49" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=10;" value="流量路由" vertex="1">
+          <mxGeometry height="20" width="100" x="1298" y="488" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-50" parent="1" style="rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="1270" y="518" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-51" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=10;" value="微服務 (配置層)" vertex="1">
+          <mxGeometry height="20" width="100" x="1298" y="518" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-52" parent="1" style="rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="1270" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-53" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=10;" value="Decisive / Realwave" vertex="1">
+          <mxGeometry height="20" width="130" x="1298" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-54" parent="1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="1270" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-55" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=10;" value="數據 / 前端呈現" vertex="1">
+          <mxGeometry height="20" width="100" x="1298" y="578" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-56" parent="1" style="rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="1270" y="608" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-57" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=10;" value="CDN 供應商 / API" vertex="1">
+          <mxGeometry height="20" width="100" x="1298" y="608" as="geometry" />
+        </mxCell>
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-58" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=10;align=left;spacingLeft=10;" value="&lt;b&gt;Acceptance Criteria (驗收標準)&lt;/b&gt;&lt;br&gt;✅ Portal &gt; Monitoring CDN 可新增 Mlytics CDN&lt;br&gt;✅ DEM &gt; Pulse 可看到 Byteplus latency 效能數據&lt;br&gt;✅ billing-go 可計費，SOC 可 addon 手動安裝&lt;br&gt;✅ Decisive Engine 依 latency 自動切換 Byteplus/Baishan&lt;br&gt;✅ Geo Code 轉換正確（3位 → 2位）&lt;br&gt;✅ CNAME 衝突情境回傳安裝失敗" vertex="1">
+          <mxGeometry height="145" width="350" x="1265" y="660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
