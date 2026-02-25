@@ -2470,7 +2470,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EBEY5ooTq-QTdPo4gaQ-31" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#6c8ebf;" target="6EBEY5ooTq-QTdPo4gaQ-10" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="410" />
+              <mxPoint x="260" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="6EBEY5ooTq-QTdPo4gaQ-32" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;strokeWidth=2;strokeColor=#82b366;" target="6EBEY5ooTq-QTdPo4gaQ-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -2502,7 +2507,7 @@
         <mxCell id="6EBEY5ooTq-QTdPo4gaQ-41" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-25" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-26" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-42" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-26" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-27" value="計費數據">
+        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-42" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-26" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#6c8ebf;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EBEY5ooTq-QTdPo4gaQ-43" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-26" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-28" value="">
@@ -2511,9 +2516,6 @@
               <mxPoint x="800" y="488" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6EBEY5ooTq-QTdPo4gaQ-44" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-27" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#82b366;strokeWidth=2;" target="6EBEY5ooTq-QTdPo4gaQ-28" value="">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6EBEY5ooTq-QTdPo4gaQ-45" edge="1" parent="1" source="6EBEY5ooTq-QTdPo4gaQ-25" style="edgeStyle=orthogonalEdgeStyle;strokeColor=#9673a6;strokeWidth=2;fontSize=9;" target="6EBEY5ooTq-QTdPo4gaQ-29" value="Latency 數據">
           <mxGeometry relative="1" as="geometry">
