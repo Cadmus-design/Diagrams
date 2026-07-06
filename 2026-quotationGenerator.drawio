@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:153.0) Gecko/20100101 Firefox/153.0" version="29.6.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:153.0) Gecko/20100101 Firefox/153.0" version="29.6.4" pages="2">
   <diagram name="第 1 页" id="976qzj5npbrb64O-djXI">
     <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -205,6 +205,81 @@
               <mxPoint x="493" y="2327" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4OI0VIeWHth-uaZTFlf4" name="第 2 页">
+    <mxGraphModel dx="1426" dy="1971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uyCBsopVUw8OT3-arDmP-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Sales Rep" vertex="1">
+          <mxGeometry height="639" width="35" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Quote (aggregate)" vertex="1">
+          <mxGeometry height="639" width="174" x="502" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="QuoteLine" vertex="1">
+          <mxGeometry height="639" width="150" x="896" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="pricing.py(純函數)" vertex="1">
+          <mxGeometry height="639" width="155" x="1171" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-5" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-2" value="addLine(Bandwidth, qty=1, markup=0, discount=0)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-6" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-3" value="from_rate_card_item(item) — pin 行級快照">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-7" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-2" value="price(term_months=12)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-8" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-4" value="quoted_unit_price(line) = 45×(1+0)×(1−0)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="927" y="337" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-9" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-3" value="$45 寫回 quoted_unit_price">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1121" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-10" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-2" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-4" value="compute_margin(lines, term_months=12)">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="927" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-11" edge="1" parent="1" source="uyCBsopVUw8OT3-arDmP-4" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="uyCBsopVUw8OT3-arDmP-2" value="MRR $45/月 · TCV $540 · GP% 51.1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-12" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="sku / list $45 / cost $22 / version 1" vertex="1">
+          <mxGeometry height="50" width="310" x="816" y="203" as="geometry" />
+        </mxCell>
+        <mxCell id="uyCBsopVUw8OT3-arDmP-13" parent="1" style="fillColor=#ffff88;strokeColor=#9E916F;fontColor=light-dark(#333333,#cccccc);" value="驗 invariant" vertex="1">
+          <mxGeometry height="53" width="174" x="502" y="521" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
