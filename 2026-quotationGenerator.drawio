@@ -1,0 +1,212 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:153.0) Gecko/20100101 Firefox/153.0" version="29.6.4">
+  <diagram name="第 1 页" id="976qzj5npbrb64O-djXI">
+    <mxGraphModel dx="1426" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="發佈與開帳轉換" vertex="1">
+          <mxGeometry height="918" width="691" x="342" y="1537" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Sales Manager 主管" vertex="1">
+          <mxGeometry height="352" width="583" x="20" y="958" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="系統核准守衛" vertex="1">
+          <mxGeometry height="786" width="274" x="623" y="677" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Sales Rep 業務人員" vertex="1">
+          <mxGeometry height="1443" width="479" x="917" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-6" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="D" vertex="1">
+          <mxGeometry height="54" width="70" x="1176" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-7" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="狀態: Priced" vertex="1">
+          <mxGeometry height="54" width="117" x="1152" y="173" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="B" vertex="1">
+          <mxGeometry height="54" width="69" x="1235" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-9" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="系統檢查 Invariant:&#xa;GP% &amp;gt;= 40% 且 Discount &amp;lt;= 5% ?" vertex="1">
+          <mxGeometry height="302" width="302" x="967" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="自動核准" vertex="1">
+          <mxGeometry height="54" width="124" x="734" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-11" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="狀態: Approved" vertex="1">
+          <mxGeometry height="54" width="140" x="684" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="強制 Escalation" vertex="1">
+          <mxGeometry height="54" width="170" x="681" y="702" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-13" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="狀態: PendingApproval" vertex="1">
+          <mxGeometry height="54" width="192" x="670" y="854" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-14" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="主管審查決策" vertex="1">
+          <mxGeometry height="150" width="150" x="251" y="983" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="更新 QuoteApproval" vertex="1">
+          <mxGeometry height="54" width="203" x="365" y="1219" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="更新 QuoteApproval 記明 reason" vertex="1">
+          <mxGeometry height="78" width="260" x="55" y="1207" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-17" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="檢查是否過期?" vertex="1">
+          <mxGeometry height="156" width="156" x="676" y="1562" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-18" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="阻擋發佈" vertex="1">
+          <mxGeometry height="54" width="124" x="866" y="1816" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-19" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="產出 Service Order Form PDF&#xa;白名單投影: 隱藏 Cost/GP%" vertex="1">
+          <mxGeometry height="102" width="260" x="503" y="1792" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-20" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="狀態: Published" vertex="1">
+          <mxGeometry height="54" width="141" x="562" y="1968" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-21" parent="1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="狀態: Signed&#xa;凍結為不可變快照" vertex="1">
+          <mxGeometry height="78" width="158" x="554" y="2096" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-22" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="寫入 Billing 系統" vertex="1">
+          <mxGeometry height="54" width="178" x="544" y="2248" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-23" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="recurring 轉 InvoiceTemplateLineItem" vertex="1">
+          <mxGeometry height="78" width="260" x="643" y="2352" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-24" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="one-time 轉 Invoice" vertex="1">
+          <mxGeometry height="54" width="201" x="392" y="2364" as="geometry" />
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-25" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-6" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-7" value="狀態變更">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-26" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.8;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-8" value="修改行品項">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1319" y="264" />
+              <mxPoint x="1319" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-27" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-7" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-9" value="UC-3: 提交送審">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1118" y="264" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-28" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.64;exitY=1;entryX=1;entryY=0.27;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-10" value="Yes: 符合門檻">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1172" y="640" />
+              <mxPoint x="1172" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-29" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-10" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-11" value="狀態變更">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="796" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-30" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-9" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=1;entryY=0.23;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-12" value="No: 超出限制 / 成本未知">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1064" y="640" />
+              <mxPoint x="1064" y="677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-31" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-12" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-13" value="寫入 QuoteApproval 表&#xa;狀態變更">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-32" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-13" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.39;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-14" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="958" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-33" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-14" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-15" value="Approve 核准">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-34" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-15" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-11" value="狀態變更">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="1310" />
+              <mxPoint x="702" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-35" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-14" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-16" value="Reject 退回">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-36" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-16" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.23;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-8" value="退回 Draft 可改行重送">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="185" y="1310" />
+              <mxPoint x="1118" y="1347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-37" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-11" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-17" value="UC-5: 發佈報價單">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-38" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-17" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-18" value="已過期">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="928" y="1755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-39" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-17" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-19" value="未過期">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="1755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-40" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-19" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-20" value="狀態變更">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-41" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-20" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-21" value="客戶簽約">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-42" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-21" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-22" value="UC-6: Finance Convert">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-43" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-22" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="773" y="2327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="80IyuTQV9RYNlJmFUAGz-44" edge="1" parent="1" source="80IyuTQV9RYNlJmFUAGz-22" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" target="80IyuTQV9RYNlJmFUAGz-24" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="493" y="2327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
